@@ -1,0 +1,380 @@
+id,old_condition,new_condition,source,confidence,reason,battery_health,fired_rules,title_en,in_time_test
+56965673,good,used,llm,0.9,Battery 66% and cracked screen contradict 'good' condition,66.0,R2_battery_good,Apple iPhone 11,False
+57024624,good,used,llm,0.95,Battery health 64% is incompatible with good condition,64.0,R2_battery_good,Apple iPhone 7 Plus,True
+56766791,good,used,llm,1.0,Battery health 65% contradicts good condition,65.0,R2_battery_good,Apple iPhone 11 64GB,False
+57156894,good,used,llm,0.9,Battery health 69% is incompatible with good condition,69.0,R2_battery_good,Apple iPhone 12 Pro Max,True
+56495195,like_new,used,llm,0.9,Battery health 77% contradicts like_new label.,77.0,R1_battery_top_cond,Apple iPhone 14 Plus 128GB,True
+38702044,like_new,used,llm,0.9,Description explicitly mentions visible scratches and shocks on body/screen,,R3_damage_top_cond,Apple iPhone 14 Pro 128GB,True
+46367624,like_new,used,llm,0.95,Battery health 62% contradicts like_new,62.0,R1_battery_top_cond,Apple iPhone 16 Pro Max Silver,True
+57408378,like_new,good,llm,0.9,Battery health 78% is below 80% threshold for like_new.,78.0,R1_battery_top_cond,Apple iPhone 14 Pro Purple,True
+57390126,like_new,good,llm,0.9,Battery health 72% is too low for like_new.,72.0,R1_battery_top_cond,Apple iPhone xs 64GB,True
+48343699,like_new,good,llm,0.9,Battery health 79% contradicts like_new,79.0,R1_battery_top_cond,Apple iPhone 8 64GB White,True
+57384753,like_new,used,llm,0.95,Battery health 76% contradicts like_new,76.0,R1_battery_top_cond,Apple iPhone 12 Pro Max,True
+37560336,like_new,used,llm,0.9,Seller explicitly states visible scratches and shocks on body/screen.,,R3_damage_top_cond,Samsung Galaxy S25 128GB 12GB RAM,True
+56472527,like_new,good,llm,0.9,Battery health 79% contradicts like_new label.,79.0,R1_battery_top_cond,Apple iPhone 11 128GB,True
+39091825,like_new,used,llm,0.9,"Description mentions damage/cracks, incompatible with like_new",,R3_damage_top_cond,Xiaomi redmi Note 14 5G 256GB 8GB RAM,True
+57246186,like_new,used,llm,0.9,Damage mentioned contradicts like_new,86.0,R3_damage_top_cond,Apple iPhone 12,True
+57284952,like_new,used,llm,1.0,Battery health 73% is incompatible with like_new,73.0,R1_battery_top_cond,Apple iPhone 12 128GB,True
+57336675,like_new,used,llm,0.9,Battery health 72% contradicts like_new,72.0,R1_battery_top_cond,Apple iPhone 128GB,True
+57062454,like_new,used,llm,0.9,Battery health 76% is incompatible with like_new.,76.0,R1_battery_top_cond,Apple iPhone 11 Pro Max 64GB,False
+57015894,like_new,used,llm,0.95,Battery health 72% is too low for like_new,72.0,R1_battery_top_cond,Apple iPhone 11 64GB Red,False
+56632916,like_new,used,llm,0.9,Damage mentioned contradicts like_new label.,90.0,R3_damage_top_cond,Apple iPhone 13 256GB,False
+56054581,like_new,used,llm,0.9,"Cracked/broken/scratched wording detected, incompatible with like_new",83.0,R3_damage_top_cond,Apple iPhone 14 Pro 128GB,False
+56846891,like_new,used,llm,0.9,Battery health 77% contradicts like_new,77.0,R1_battery_top_cond,Apple iPhone 11 Pro Max 64GB,False
+56907293,like_new,used,llm,0.9,Battery health 71% is too low for like_new,71.0,R1_battery_top_cond,Apple iPhone 8 64GB,False
+56848475,like_new,used,llm,0.95,Battery health 73% is below 80% threshold for like_new.,73.0,R1_battery_top_cond,Apple iPhone 11,False
+56830607,like_new,used,llm,0.9,Battery health 73% is below 80% threshold for like_new,73.0,R1_battery_top_cond,Apple iPhone 13 Mini,False
+56790113,like_new,used,llm,0.9,Cracked back clearly contradicts like_new condition.,,R3_damage_top_cond,Xiaomi 11T Pro 5G,False
+52965476,like_new,good,llm,0.9,Battery health 78% is below 80% threshold for like_new.,78.0,R1_battery_top_cond,Apple iPhone 15 Pro,False
+57239763,like_new,used,llm,0.9,Battery health 77% contradicts like_new condition,77.0,R1_battery_top_cond,Apple iPhone 14 Pro Max 128GB,True
+50220700,like_new,used,llm,0.9,Battery health 79% contradicts like_new,79.0,R1_battery_top_cond,Apple iPhone X 64GB Orange,True
+57115275,like_new,used,llm,0.95,Screen scratches contradict like_new label,94.0,R3_damage_top_cond,Apple iPhone 16 128GB,True
+57074301,like_new,used,llm,0.9,Battery health 75% is incompatible with like_new,75.0,R1_battery_top_cond,Apple iPhone 11,True
+56763551,like_new,good,llm,0.9,Battery health 79% is below 80% threshold for like_new,79.0,R1_battery_top_cond,Apple iPhone 13 Pro 128GB,False
+56743136,like_new,used,llm,0.95,Battery health 74% is incompatible with like_new,74.0,R1_battery_top_cond,Apple iPhone 11 Pro 64GB,False
+56705558,like_new,used,llm,0.9,Battery health 74% contradicts like_new label,74.0,R1_battery_top_cond,Apple iPhone 11,False
+56697251,like_new,used,llm,0.9,Battery health 79% contradicts like_new condition.,79.0,R1_battery_top_cond,Apple iPhone 11 Black,False
+56661929,like_new,good,llm,0.9,Battery health 79% contradicts like_new label,79.0,R1_battery_top_cond,Apple iPhone 14 Plus 128GB,False
+56649827,like_new,used,llm,0.9,Battery health 71% is incompatible with like_new,71.0,R1_battery_top_cond,Apple iPhone 12,False
+56641004,like_new,used,llm,0.9,77% battery health contradicts like_new label,77.0,R1_battery_top_cond,Apple iPhone 11,False
+56627597,like_new,used,llm,0.9,Battery health 75% contradicts like_new condition.,75.0,R1_battery_top_cond,Apple iPhone 11 Pro Max,False
+56625359,like_new,used,llm,0.95,Battery health 74% contradicts like_new label,74.0,R1_battery_top_cond,Apple iPhone 13 Pro Max,False
+56615975,like_new,used,llm,0.9,Battery health 79% is below 80% threshold for like_new,79.0,R1_battery_top_cond,Apple iPhone X,False
+56603393,like_new,used,llm,0.9,Battery health 78% is too low for like_new,78.0,R1_battery_top_cond,Apple iPhone 14 Pro,False
+56598560,like_new,used,llm,0.9,Battery health 77% contradicts like_new label,77.0,R1_battery_top_cond,Apple iPhone 14 Pro Max 128GB,False
+56592410,like_new,used,llm,0.95,Battery health 79% contradicts like_new,79.0,R1_battery_top_cond,Apple iPhone 12 Pro Max,False
+56567489,like_new,refurb,llm,0.9,"Battery replaced rules out new/like_new, indicates refurbishment.",100.0,R4_batt_replaced,Apple iPhone X,False
+56517812,like_new,used,llm,0.9,"Cracked screen mentioned, incompatible with like_new",,R3_damage_top_cond,Honor Magic 8 Pro 512GB 12GB RAM,False
+57416298,new,used,llm,1.0,Battery health 67% contradicts new condition,67.0,R1_battery_top_cond+R6_old_new,Apple iPhone 13 Black New,True
+57338451,new,used,llm,0.9,Battery health 73% contradicts new/like_new,73.0,R1_battery_top_cond+R6_old_new,Apple iPhone 15 Plus White New,True
+56455489,new,used,llm,0.9,Battery health 78% contradicts new/like_new condition,78.0,R1_battery_top_cond+R6_old_new,Apple iPhone 14 Pro Max Black New,True
+57094599,new,refurb,llm,0.9,"Battery replaced contradicts 'new', indicates refurbished.",100.0,R4_batt_replaced+R6_old_new,Apple iPhone 12 Pro Max 128GB New,True
+40271953,new,like_new,llm,0.8,Title says 'new' but description explicitly says 'like_new' and mentions no damage.,,R3_damage_top_cond+R6_old_new,Apple iPhone 14 Pro 256GB New,True
+56962736,new,used,llm,1.0,Battery health 50% contradicts 'new',50.0,R1_battery_top_cond+R6_old_new,Realme 13 Plus 5G 256GB 8GB RAM New,True
+57415596,new,used,llm,0.9,Battery health 73% is incompatible with new condition.,73.0,R1_battery_top_cond+R6_old_new,Apple iPhone 14 Pink New,True
+57401079,new,refurb,llm,1.0,"Screen replaced, 87% battery, described as like_new",87.0,R3_damage_top_cond+R5_desc_conflict+R6_old_new,Apple iPhone 16 Pro 256GB White New,True
+57400944,new,like_new,llm,1.0,Seller explicitly states 'comme neuf' with high confidence.,99.0,R5_desc_conflict,OnePlus Ace 6 256GB 8GB RAM New,True
+57399099,new,like_new,llm,1.0,Seller explicitly states 'comme neuf' with 10/10 confidence,,R5_desc_conflict+R6_old_new,Samsung Galaxy A16 128GB Silver New,True
+39119193,new,like_new,llm,0.8,"Description says 'comme neuf' but mentions damage, contradicting 'new'",,R3_damage_top_cond,Xiaomi 14T Pro 5G 512GB 12GB RAM New,True
+57396138,new,used,llm,0.9,"Cracked screen protector mentioned, not new screen.",,R3_damage_top_cond+R6_old_new,Realme C71 New,True
+47530646,new,used,llm,0.9,Battery health 70% contradicts new/like_new,70.0,R1_battery_top_cond,Google Pixel pixel 9 Pro 5 128GB White New,True
+56411683,new,used,llm,0.9,"Cracked/broken detected, incompatible with new",,R3_damage_top_cond+R6_old_new,Apple iPhone 16 Pro Max New,True
+39120059,new,like_new,llm,0.9,Seller describes 'comme neuf' but title says 'new',,R3_damage_top_cond+R6_old_new,Samsung Galaxy S24 128GB 8GB RAM New,True
+40381893,new,like_new,llm,0.8,"Seller explicitly states 'Comme neuf' with no damage, contradicting 'new' label.",,R3_damage_top_cond+R6_old_new,Vivo X200 256GB 12GB RAM New,True
+40271329,new,like_new,llm,0.8,"Description says 'comme neuf' with no damage, but title says 'new'. Follow description.",,R3_damage_top_cond+R6_old_new,Samsung Galaxy S23 FE 128GB 8GB RAM New,True
+38687794,new,like_new,llm,0.9,"Description says 'Comme neuf' and 'pas de rayures', but mentions 'cracked/broken/scratched wording'.",,R3_damage_top_cond,Samsung Galaxy Z Flip 6 512GB 12GB RAM New,True
+32250699,new,used,llm,0.9,"Description mentions damage, incompatible with new label.",,R3_damage_top_cond+R6_old_new,Samsung Galaxy S24 Plus 5G 256GB 12GB RAM New,True
+38407237,new,used,llm,0.9,"Listing mentions damage, incompatible with 'new' label.",,R3_damage_top_cond+R6_old_new,Samsung Galaxy S24 Plus 512GB 12GB RAM New,True
+40328242,new,like_new,llm,0.8,Description says 'Comme neuf' but mentions 'pas de rayures ni de chocs visibles' which contradicts 'new'.,,R3_damage_top_cond+R6_old_new,Apple iPhone 13 Pro Max 128GB New,True
+40271281,new,used,llm,0.9,"Description mentions damage, contradicting 'new' label.",,R3_damage_top_cond+R6_old_new,Apple iPhone 15 Pro 128GB New,True
+40244146,new,like_new,llm,0.9,"Description says 'like_new' with no damage, but title says 'new'.",,R3_damage_top_cond+R6_old_new,Apple iPhone X 128GB New,True
+40254664,new,like_new,llm,0.8,Description says 'comme neuf' but title says 'new' and model is old.,,R3_damage_top_cond+R6_old_new,Apple iPhone X 64GB New,True
+38702050,new,used,llm,0.9,Cracked/broken screen mentioned contradicts 'new' label,,R3_damage_top_cond+R6_old_new,Apple iPhone 11 64GB New,True
+40255486,new,used,llm,1.0,Description explicitly states 'cracked/broken/scratched wording detected'.,,R3_damage_top_cond+R6_old_new,Apple iPhone 17 Pro Max 256GB New,True
+39091803,new,like_new,llm,0.9,Description mentions 'Comme neuf' and 'pas de rayures ni de chocs visibles'.,,R3_damage_top_cond+R6_old_new,Apple iPhone 13 Pro 256GB New,True
+38708707,new,like_new,llm,0.8,Description explicitly states 'Comme neuf' despite title saying 'New'.,,R3_damage_top_cond+R6_old_new,Apple iPhone 12 128GB New,True
+39091821,new,used,llm,0.95,"Description explicitly states 'état impeccable' and 'pas de rayures' but also mentions cracked/broken/scratched wording, which contradicts 'new'.",,R3_damage_top_cond+R6_old_new,Apple iPhone 14 Plus 128GB New,True
+40199743,new,used,llm,0.9,"Description mentions damage, incompatible with 'new' label.",,R3_damage_top_cond+R6_old_new,Apple iPhone 12 Pro 256GB New,True
+32250729,new,like_new,llm,0.9,"Description confirms like_new condition with perfect state, despite title saying new.",,R3_damage_top_cond+R6_old_new,Apple iPhone 15 Pro 128GB New,True
+38701772,new,used,llm,0.95,"Description explicitly mentions cracked/broken/scratched damage, incompatible with 'new'.",,R3_damage_top_cond+R6_old_new,Apple iPhone 13 Pro Max 256GB New,True
+36741167,new,like_new,llm,0.9,"Description explicitly states 'Comme neuf' with no damage, contradicting 'new' label",,R3_damage_top_cond+R6_old_new,Apple iPhone 15 128GB New,True
+51163441,new,used,llm,0.9,Cracked back glass contradicts 'new' label.,84.0,R3_damage_top_cond+R6_old_new,Apple iPhone 15 Pro Max 256GB New,True
+40476801,new,like_new,llm,0.9,"Description says 'comme neuf' but mentions no visible scratches, not 'new'.",,R3_damage_top_cond+R6_old_new,Apple iPhone 14 128GB New,True
+35030245,new,used,llm,0.9,Cracked/broken/scratched damage detected contradicts new.,,R3_damage_top_cond+R6_old_new,Apple iPhone 13 128GB New,True
+39091835,new,like_new,llm,0.8,Description explicitly states 'Comme neuf' despite title saying 'New'.,,R3_damage_top_cond+R6_old_new,Apple iPhone 13 128GB New,True
+36740527,new,like_new,llm,0.8,"Seller explicitly describes phone as 'like new' with no damage, contradicting 'new' label.",,R3_damage_top_cond+R6_old_new,Samsung Galaxy S25 Edge 256GB 12GB RAM New,True
+37697341,new,used,llm,0.9,Cracked/broken/scratched mentioned in description contradicts 'new' label.,,R3_damage_top_cond+R6_old_new,Apple iPhone 17 Pro 256GB New,True
+38687820,new,like_new,llm,0.9,Description explicitly states 'Comme neuf' despite title saying 'New',,R3_damage_top_cond,Motorola Edge 60 5G 512GB 12GB RAM New,True
+46489133,new,used,llm,0.9,Description mentions scratches despite 'new' label.,100.0,R3_damage_top_cond+R6_old_new,Apple iPhone 14 128GB New,True
+39091815,new,used,llm,0.9,Seller explicitly states 'comme neuf' but mentions cracked/broken/scratched damage.,,R3_damage_top_cond+R6_old_new,Apple iPhone 11 Pro 256GB New,True
+37641793,new,like_new,llm,0.75,Description explicitly states 'Comme neuf' despite title saying 'New'. No damage mentioned in actual description.,,R3_damage_top_cond+R6_old_new,Apple iPhone 15 128GB New,True
+38489686,new,like_new,llm,0.9,"Description confirms 'like_new' state with no damage, contradicting 'new' label.",,R3_damage_top_cond+R6_old_new,Apple iPhone 14 128GB New,True
+38696611,new,like_new,llm,0.9,"Description says 'like_new' and mentions no damage, contradicting 'new' label.",,R3_damage_top_cond+R6_old_new,Apple iPhone 14 128GB New,True
+56516237,new,like_new,llm,1.0,Seller explicitly states 'état comme neuf' with max confidence.,,R5_desc_conflict+R6_old_new,Samsung S25 Ultra 256GB 12GB RAM New,True
+40271917,new,like_new,llm,0.8,"Seller explicitly states 'Comme neuf' despite 'cracked/broken' mention, likely false positive",,R3_damage_top_cond,Google Pixel pixel 8 8 128GB 8GB RAM New,True
+38488148,new,like_new,llm,0.9,"Seller explicitly states 'comme neuf' in description, which is more reliable than title keyword",,R3_damage_top_cond+R6_old_new,Apple iPhone 15 Plus 128GB New,True
+57351483,new,used,llm,0.9,Cracked screen and 75% battery contradict 'new' label.,75.0,R1_battery_top_cond+R3_damage_top_cond+R6_old_new,Apple iPhone 11 Pro 64GB New,True
+38805056,new,used,llm,0.9,"Description mentions cracked/broken/scratched damage, incompatible with new/like_new.",,R3_damage_top_cond+R6_old_new,Apple iPhone 15 128GB New,True
+39112779,new,like_new,llm,0.8,Seller says 'like_new' with 'no scratches' despite title saying 'new'.,,R3_damage_top_cond+R6_old_new,Samsung Galaxy S23 Plus 256GB 8GB RAM New,False
+40272073,new,used,llm,0.9,"Description explicitly mentions cracked/broken parts, incompatible with new.",,R3_damage_top_cond+R6_old_new,Samsung Galaxy S23 256GB 8GB RAM New,False
+40244268,new,used,llm,0.9,"Description mentions damage, incompatible with new/like_new",,R3_damage_top_cond+R6_old_new,Apple iPhone 13 Pro 128GB New,False
+56550458,new,used,llm,0.9,Description mentions damage contradicts 'new' label.,,R3_damage_top_cond,Huawei mate 70 Pro 512GB 12GB RAM New,True
+57333771,new,like_new,llm,1.0,"Description says like_new but also mentions damage, which contradicts both new and like_new",,R3_damage_top_cond+R5_desc_conflict+R6_old_new,Xiaomi redmi Note 14 Pro 256GB New,True
+40254676,new,like_new,llm,0.9,Seller explicitly states 'Comme neuf' despite title saying 'New'.,,R3_damage_top_cond,Sony Xperia 1 vi 12 256GB 12GB RAM New,False
+38702060,new,like_new,llm,0.8,"Description says like_new and no damage, contradicting new label.",,R3_damage_top_cond+R6_old_new,Apple iPhone 12 Pro Max 128GB New,False
+38741164,new,used,llm,0.9,Description explicitly mentions 'état neuf jamais utilisé' but also states 'Corps et écran en parfait état pas de rayures ni de chocs visibles' which contradicts 'cracked/broken/scratched wording dete,,R3_damage_top_cond+R6_old_new,Samsung Galaxy S20 Ultra 5G 128GB New,False
+57046332,new,used,llm,0.9,Battery health 76% contradicts new/like_new,76.0,R1_battery_top_cond+R6_old_new,Apple iPhone 11 Pro Max 64GB,False
+56987904,new,refurb,llm,0.9,"Battery replaced, cannot be new, must be refurb",100.0,R4_batt_replaced+R6_old_new,Apple iPhone 12 Pro Max 128GB New,False
+56899502,new,good,llm,1.0,Seller explicitly states 'good' condition with damage detected.,,R3_damage_top_cond+R5_desc_conflict+R6_old_new,Oppo Reno 12 256GB 12GB RAM New,False
+56988903,new,used,llm,0.9,Description explicitly mentions cracked/broken/scratches.,,R3_damage_top_cond,Apple iPhone New,False
+56953274,new,used,llm,0.9,Damage mentioned contradicts 'new' label,86.0,R3_damage_top_cond+R6_old_new,Apple iPhone 15 128GB New,False
+56944736,new,used,llm,0.95,"Description mentions damage, contradicting 'new' label",,R3_damage_top_cond+R6_old_new,Realme C63 128GB 6GB RAM New,False
+56832494,new,like_new,llm,1.0,Seller explicitly states 'comme neuf' (like_new) with max confidence.,,R5_desc_conflict+R6_old_new,Apple iPhone 16 Pro Max 256GB New,False
+56730851,new,like_new,llm,0.9,Seller explicitly states 'comme neuf' (like_new) with 100% confidence.,86.0,R5_desc_conflict+R6_old_new,Apple iPhone 15 Pro 128GB New,False
+56812490,new,like_new,llm,0.9,"Description says 'comme neuf' with 97% battery, but model is 2.5 years old.",97.0,R3_damage_top_cond+R6_old_new,Apple iPhone 16 128GB White New,False
+56731760,new,like_new,llm,0.9,"Description mentions wear marks, not new.",,R3_damage_top_cond+R6_old_new,Samsung Z flip7 512G 512GB Black New,False
+37765795,new,used,llm,0.9,"Listing mentions cracked/broken/scratched damage, incompatible with 'new'",,R3_damage_top_cond+R6_old_new,Apple iPhone 17 Pro Max 256GB New,True
+37641636,new,like_new,llm,0.9,"Description mentions cracked/broken/scratched, contradicting 'new' label.",,R3_damage_top_cond+R6_old_new,Apple iPhone 14 Pro 8GB RAM New,True
+38244007,new,like_new,llm,0.9,Description says 'Comme neuf' and 'pas de rayures' despite title saying 'New'.,,R3_damage_top_cond+R6_old_new,Apple iPhone 11 128GB New,True
+57382089,new,used,llm,0.9,Cracked/broken detected and 68% battery contradicts 'new'.,68.0,R1_battery_top_cond+R3_damage_top_cond+R6_old_new,Apple iPhone 13 128GB Black New,True
+39091799,new,like_new,llm,0.9,Seller explicitly states 'comme neuf' with no damage mentioned.,,R3_damage_top_cond,Google Pixel pixel 64GB 2GB RAM Black New,False
+57296856,new,used,llm,0.9,Battery 75% and cracked screen contradict 'new',75.0,R1_battery_top_cond+R3_damage_top_cond+R6_old_new,Apple iPhone 15 Pro Max New,True
+38489646,new,used,llm,0.9,"Description mentions cracked/broken/scratched damage, incompatible with 'new'",,R3_damage_top_cond+R6_old_new,Apple iPhone 13 128GB New,False
+54029093,new,like_new,llm,1.0,Seller explicitly states 'etat 10/10' (like_new) with max confidence.,96.0,R5_desc_conflict+R6_old_new,Apple iPhone 16 Pro Max New,False
+34982503,new,like_new,llm,0.9,"Description states 'like_new' with no damage, contradicting 'new' label",,R3_damage_top_cond,Vivo X21 128GB 6GB RAM New,False
+51411694,new,like_new,llm,1.0,Seller explicitly states 'état comme neuf' with high confidence.,,R5_desc_conflict+R6_old_new,Xiaomi poco F5 5G New,False
+37291765,new,used,llm,0.9,"Description mentions damage, incompatible with new/like_new labels.",,R3_damage_top_cond,Oppo Find X2 Lite 128GB 8GB RAM New,False
+57220128,new,good,llm,0.9,Battery health 77% contradicts new/like_new,77.0,R1_battery_top_cond,Apple iPhone SE 2020,True
+24646415,new,like_new,llm,1.0,Seller explicitly states 'comme neuf' (like_new) with max confidence.,,R5_desc_conflict,Samsung Galaxy s10+ New,False
+57169335,new,used,llm,0.9,Battery health 73% contradicts new/like_new,73.0,R1_battery_top_cond+R6_old_new,Apple iPhone 13,True
+57142272,new,used,llm,0.9,"Cracked/broken mentioned, battery 83%",83.0,R3_damage_top_cond+R6_old_new,Apple iPhone 14 Pro Max 512GB New,True
+57138114,new,used,llm,0.9,Battery health 74% contradicts new/like_new,74.0,R1_battery_top_cond+R6_old_new,Apple iPhone 13 Pink,True
+55294303,new,used,llm,0.9,"Description states device is for repair, motherboard is faulty.",100.0,R3_damage_top_cond+R6_old_new,Samsung A34 5G 8 128GB 8GB RAM New,True
+57102645,new,used,llm,0.95,Cracked/broken mentioned despite 'neuf' label and 100% battery.,100.0,R3_damage_top_cond+R6_old_new,Samsung Galaxy S25 128GB 12GB RAM New,True
+56093653,new,used,llm,1.0,Battery health 76% contradicts new label,76.0,R1_battery_top_cond+R6_old_new,Apple iPhone 12 Pro Max,True
+56731430,new,used,llm,0.9,"Description states used months & cracked screen, contradicts new label",,R3_damage_top_cond,Oppo A74 New,False
+56695922,new,used,llm,0.95,Battery health 78% is incompatible with new condition.,78.0,R1_battery_top_cond+R6_old_new,Apple iPhone 8 Plus Black,False
+56509289,new,like_new,llm,0.9,Description mentions damage despite claiming neuf,100.0,R3_damage_top_cond+R6_old_new,Apple iPhone 17 Pro Max 512GB Blue New,False
+56597738,new,used,llm,0.95,Cracked screen contradicts new label,82.0,R3_damage_top_cond+R6_old_new,Apple iPhone 12 64GB,False
+56597696,new,used,llm,0.9,Cracked screen contradicts 'new' label,90.0,R3_damage_top_cond+R6_old_new,Apple iPhone 11 Pro 64GB,False
+56329597,new,used,llm,0.95,Description explicitly states 'Neuf' but damage evidence overrides it.,100.0,R3_damage_top_cond,Motorola motorola 128GB 4GB RAM Green New,False
+56533973,new,used,llm,1.0,"Cracked screen mentioned, incompatible with 'new'",100.0,R3_damage_top_cond,Samsung A New,False
+56529077,new,used,llm,1.0,Battery health 72% contradicts new condition,72.0,R1_battery_top_cond+R6_old_new,Apple iPhone 11,False
+56319289,new,used,llm,0.9,Seller explicitly mentions cracked screen,,R3_damage_top_cond,Samsung orange rise Orange New,False
+56902439,used,good,llm,1.0,Seller explicitly states 'bon état' with 10/10 confidence,,R5_desc_conflict,Apple iPhone 11 Pro Max Used,False
+56916011,used,good,llm,1.0,Seller explicitly states 'très bon état 10/10' with 100% confidence,,R5_desc_conflict,Samsung S23 256GB 8GB RAM Used,False
+52384661,used,good,llm,1.0,Seller explicitly states 'très bon état' with 10/10 confidence,,R5_desc_conflict,Apple iPhone 14 Plus Used,False
+56770364,used,good,llm,0.9,"Seller explicitly describes 'traces d'usure légères', contradicting 'new' label.",,R5_desc_conflict,Google Pixel pixel 8A 128GB Black Used,False
+55630525,used,good,llm,1.0,Seller explicitly states 'Très bon état 10/10' with high confidence.,,R5_desc_conflict,Condor nova 70 128GB 12GB RAM Used,True
+57220524,used,good,llm,1.0,Seller explicitly states 'Très bon état' with high confidence.,,R5_desc_conflict,Realme 10 Used,True
+51660921,used,good,llm,0.9,Seller explicitly states 'très bon état' and 'état du tel est 10/10' with 100% confidence.,83.0,R5_desc_conflict,Apple iPhone SE 2022 128GB Used,True
+56738459,used,good,llm,0.8,Seller description explicitly states 'bon état' with high confidence.,,R5_desc_conflict,Xiaomi 12 128GB 8GB RAM Used,False
+55488019,good,used,rule,0.85,"rule R2: battery 68% < 70, good -> used (LLM-unanimous)",68.0,R2_battery_good,Apple iPhone 11 Pro 64GB,False
+52879043,good,used,rule,0.85,"rule R2: battery 63% < 70, good -> used (LLM-unanimous)",63.0,R2_battery_good,Apple iPhone xsmax 64GB,False
+27689681,good,used,rule,0.85,"rule R2: battery 50% < 70, good -> used (LLM-unanimous)",50.0,R2_battery_good,Apple iPhone 7,False
+56372482,like_new,used,rule,0.85,rule R1: battery 75% incompatible with like_new (LLM-unanimous pattern),75.0,R1_battery_top_cond,Apple iPhone 11 Pro Max 256GB,False
+56340175,like_new,used,rule,0.85,rule R1: battery 75% incompatible with like_new (LLM-unanimous pattern),75.0,R1_battery_top_cond,Apple iPhone 12 Pro 256GB Blue,False
+56345743,like_new,used,rule,0.85,rule R1: battery 76% incompatible with like_new (LLM-unanimous pattern),76.0,R1_battery_top_cond,Apple iPhone 12 Pro Max,False
+56253394,like_new,refurb,rule,0.85,rule R4: battery replaced -> refurb (LLM-unanimous),100.0,R4_batt_replaced,Apple iPhone 12 Pro 256GB White,False
+56252950,like_new,used,rule,0.85,rule R1: battery 75% incompatible with like_new (LLM-unanimous pattern),75.0,R1_battery_top_cond,Apple iPhone 11 Pro 64GB,False
+56220496,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 15 Pro 256GB,False
+56219920,like_new,used,rule,0.85,rule R1: battery 74% incompatible with like_new (LLM-unanimous pattern),74.0,R1_battery_top_cond,Apple iPhone 12 64GB,False
+56195458,like_new,used,rule,0.85,rule R1: battery 77% incompatible with like_new (LLM-unanimous pattern),77.0,R1_battery_top_cond,Apple iPhone 12 White,False
+56195365,like_new,used,rule,0.85,rule R1: battery 75% incompatible with like_new (LLM-unanimous pattern),75.0,R1_battery_top_cond,Apple iPhone 13 Pro 128GB,False
+56089126,like_new,used,rule,0.85,rule R1: battery 79% incompatible with like_new (LLM-unanimous pattern),79.0,R1_battery_top_cond,Apple iPhone 15 Pro Silver,False
+55996711,like_new,used,rule,0.85,rule R1: battery 71% incompatible with like_new (LLM-unanimous pattern),71.0,R1_battery_top_cond,Apple iPhone 11 Pro,False
+55995814,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 14 Plus 128GB,False
+55984153,like_new,used,rule,0.85,rule R1: battery 74% incompatible with like_new (LLM-unanimous pattern),74.0,R1_battery_top_cond,Apple iPhone 12 Pro 256GB,False
+55968229,like_new,used,rule,0.85,rule R1: battery 72% incompatible with like_new (LLM-unanimous pattern),72.0,R1_battery_top_cond,Apple iPhone 13 128GB,False
+55939489,like_new,used,rule,0.85,rule R1: battery 77% incompatible with like_new (LLM-unanimous pattern),77.0,R1_battery_top_cond,Apple iPhone 13 Pro Max Green,False
+55907767,like_new,used,rule,0.85,rule R1: battery 65% incompatible with like_new (LLM-unanimous pattern),65.0,R1_battery_top_cond,Apple iPhone 11 Pro 64GB,False
+55904602,like_new,used,rule,0.85,rule R1: battery 79% incompatible with like_new (LLM-unanimous pattern),79.0,R1_battery_top_cond,Apple iPhone 14 Pro Max 128GB,False
+55878049,like_new,used,rule,0.85,rule R1: battery 71% incompatible with like_new (LLM-unanimous pattern),71.0,R1_battery_top_cond,Apple iPhone 13,False
+55842943,like_new,used,rule,0.85,rule R1: battery 76% incompatible with like_new (LLM-unanimous pattern),76.0,R1_battery_top_cond,Apple iPhone 14 Pro 128GB Silver,False
+55814341,like_new,used,rule,0.85,rule R1: battery 79% incompatible with like_new (LLM-unanimous pattern),79.0,R1_battery_top_cond,Apple iPhone 13 128GB,False
+55791865,like_new,used,rule,0.85,rule R1: battery 73% incompatible with like_new (LLM-unanimous pattern),73.0,R1_battery_top_cond,Apple iPhone 13 128GB,False
+55674493,like_new,used,rule,0.85,rule R1: battery 73% incompatible with like_new (LLM-unanimous pattern),73.0,R1_battery_top_cond,Apple iPhone 13 128GB,False
+55721821,like_new,used,rule,0.85,rule R1: battery 79% incompatible with like_new (LLM-unanimous pattern),79.0,R1_battery_top_cond,Apple iPhone apple,False
+55706257,like_new,used,rule,0.85,rule R1: battery 77% incompatible with like_new (LLM-unanimous pattern),77.0,R1_battery_top_cond,Apple iPhone 13,False
+55697122,like_new,used,rule,0.85,rule R1: battery 79% incompatible with like_new (LLM-unanimous pattern),79.0,R1_battery_top_cond,Apple iPhone 15 Pro,False
+55680136,like_new,used,rule,0.85,rule R1: battery 76% incompatible with like_new (LLM-unanimous pattern),76.0,R1_battery_top_cond,Apple iPhone 13 Pro,False
+55561594,like_new,used,rule,0.85,rule R1: battery 77% incompatible with like_new (LLM-unanimous pattern),77.0,R1_battery_top_cond,Apple iPhone apple 64GB,False
+55516906,like_new,used,rule,0.85,rule R1: battery 76% incompatible with like_new (LLM-unanimous pattern),76.0,R1_battery_top_cond,Apple iPhone 13 Pro Max 128GB,False
+55379518,like_new,used,rule,0.85,rule R1: battery 79% incompatible with like_new (LLM-unanimous pattern),79.0,R1_battery_top_cond,Apple iPhone 13 Pro Max 128GB,False
+55234186,like_new,used,rule,0.85,rule R1: battery 77% incompatible with like_new (LLM-unanimous pattern),77.0,R1_battery_top_cond,Apple iPhone 12 Pro Max,False
+55233706,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 12 Red,False
+55463506,like_new,used,rule,0.85,rule R1: battery 76% incompatible with like_new (LLM-unanimous pattern),76.0,R1_battery_top_cond,Apple iPhone 13 Pink,False
+55401736,like_new,used,rule,0.85,rule R1: battery 79% incompatible with like_new (LLM-unanimous pattern),79.0,R1_battery_top_cond,Apple iPhone 14 Pro Max 256GB,False
+55367695,like_new,used,rule,0.85,rule R1: battery 73% incompatible with like_new (LLM-unanimous pattern),73.0,R1_battery_top_cond,Apple iPhone 12 Pro,False
+55197295,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 13 Pro Max,False
+55174795,like_new,used,rule,0.85,rule R1: battery 75% incompatible with like_new (LLM-unanimous pattern),75.0,R1_battery_top_cond,Apple iPhone 13 Pro,False
+55067386,like_new,used,rule,0.85,rule R1: battery 73% incompatible with like_new (LLM-unanimous pattern),73.0,R1_battery_top_cond,Apple iPhone xs,False
+54966616,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 13 Pro Max 256GB,False
+54412307,like_new,used,rule,0.85,rule R1: battery 64% incompatible with like_new (LLM-unanimous pattern),64.0,R1_battery_top_cond,Apple iPhone 11 Pro Max 64GB,False
+54870158,like_new,used,rule,0.85,rule R1: battery 75% incompatible with like_new (LLM-unanimous pattern),75.0,R1_battery_top_cond,Apple iPhone xs Max 64GB,False
+54786677,like_new,used,rule,0.85,rule R1: battery 76% incompatible with like_new (LLM-unanimous pattern),76.0,R1_battery_top_cond,Apple iPhone 13 128GB,False
+54773633,like_new,used,rule,0.85,rule R1: battery 75% incompatible with like_new (LLM-unanimous pattern),75.0,R1_battery_top_cond,Apple iPhone 12 Pro Max 256GB,False
+54693374,like_new,used,rule,0.85,rule R1: battery 69% incompatible with like_new (LLM-unanimous pattern),69.0,R1_battery_top_cond,Apple iphone13 Blue,False
+54690143,like_new,used,rule,0.85,rule R1: battery 75% incompatible with like_new (LLM-unanimous pattern),75.0,R1_battery_top_cond,Apple iPhone 12 Pro Max 128GB,False
+54683909,like_new,used,rule,0.85,rule R1: battery 76% incompatible with like_new (LLM-unanimous pattern),76.0,R1_battery_top_cond,Apple iPhone 12,False
+54524189,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 14 Pro Max,False
+54515048,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 14 Pro Max 128GB,False
+54554132,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 11 Pro Max 64GB,False
+54553784,like_new,used,rule,0.85,rule R1: battery 72% incompatible with like_new (LLM-unanimous pattern),72.0,R1_battery_top_cond,Apple iPhone 13 128GB,False
+54542582,like_new,used,rule,0.85,rule R1: battery 77% incompatible with like_new (LLM-unanimous pattern),77.0,R1_battery_top_cond,Apple iPhone 12 128GB,False
+53915204,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 12 Pro 256GB Blue,False
+54438044,like_new,used,rule,0.85,rule R1: battery 75% incompatible with like_new (LLM-unanimous pattern),75.0,R1_battery_top_cond,Apple iPhone 12 Pro Max 128GB,False
+54294977,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 12 Pro Max,False
+54283910,like_new,used,rule,0.85,rule R1: battery 75% incompatible with like_new (LLM-unanimous pattern),75.0,R1_battery_top_cond,Apple iPhone 13 Pro,False
+53383175,like_new,used,rule,0.85,rule R1: battery 79% incompatible with like_new (LLM-unanimous pattern),79.0,R1_battery_top_cond,Apple iPhone 13 Pro,False
+54236180,like_new,used,rule,0.85,rule R1: battery 73% incompatible with like_new (LLM-unanimous pattern),73.0,R1_battery_top_cond,Apple iPhone 12 Pro Max,False
+54212204,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 12 Pro Max,False
+54229628,like_new,used,rule,0.85,rule R1: battery 76% incompatible with like_new (LLM-unanimous pattern),76.0,R1_battery_top_cond,Apple iPhone 12 Pro 128GB Blue,False
+54200474,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone X 64GB,False
+54178748,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 13 Pro Max,False
+54167318,like_new,used,rule,0.85,rule R1: battery 76% incompatible with like_new (LLM-unanimous pattern),76.0,R1_battery_top_cond,Apple iPhone 12 Pro Max 128GB,False
+54161537,like_new,used,rule,0.85,rule R1: battery 75% incompatible with like_new (LLM-unanimous pattern),75.0,R1_battery_top_cond,Apple iPhone 12 64GB,False
+54117221,like_new,used,rule,0.85,rule R1: battery 77% incompatible with like_new (LLM-unanimous pattern),77.0,R1_battery_top_cond,Apple iPhone 11 Purple,False
+54117926,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 12 Pro Max,False
+54090623,like_new,used,rule,0.85,rule R1: battery 79% incompatible with like_new (LLM-unanimous pattern),79.0,R1_battery_top_cond,Apple iPhone 13 128GB Blue,False
+54098303,like_new,used,rule,0.85,rule R1: battery 79% incompatible with like_new (LLM-unanimous pattern),79.0,R1_battery_top_cond,Apple iPhone 13 128GB Blue,False
+54026837,like_new,used,rule,0.85,rule R1: battery 79% incompatible with like_new (LLM-unanimous pattern),79.0,R1_battery_top_cond,Apple iPhone 13 128GB,False
+53978174,like_new,used,rule,0.85,rule R1: battery 77% incompatible with like_new (LLM-unanimous pattern),77.0,R1_battery_top_cond,Apple iPhone 13 128GB Pink,False
+53947529,like_new,used,rule,0.85,rule R1: battery 79% incompatible with like_new (LLM-unanimous pattern),79.0,R1_battery_top_cond,Apple iPhone 13 Pro Max,False
+53947517,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 13 Pro Max,False
+53900552,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone X 128GB,False
+53805563,like_new,used,rule,0.85,rule R1: battery 72% incompatible with like_new (LLM-unanimous pattern),72.0,R1_battery_top_cond,Apple iPhone 11,False
+53781854,like_new,refurb,rule,0.85,rule R4: battery replaced -> refurb (LLM-unanimous),100.0,R4_batt_replaced,Apple iPhone 11,False
+53674415,like_new,used,rule,0.85,rule R1: battery 73% incompatible with like_new (LLM-unanimous pattern),73.0,R1_battery_top_cond,Apple iPhone 11,False
+53674844,like_new,used,rule,0.85,rule R1: battery 61% incompatible with like_new (LLM-unanimous pattern),61.0,R1_battery_top_cond,Apple iPhone 7 Plus,False
+53626106,like_new,used,rule,0.85,rule R1: battery 76% incompatible with like_new (LLM-unanimous pattern),76.0,R1_battery_top_cond,Apple iPhone X 64GB,False
+53565053,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 12 Pro,False
+53418749,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 13 Pro Max 256GB,False
+53413100,like_new,used,rule,0.85,rule R1: battery 76% incompatible with like_new (LLM-unanimous pattern),76.0,R1_battery_top_cond,Apple iPhone 11,False
+53289647,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,iPhone 13 Pro Max 128GB Blue,False
+53240162,like_new,used,rule,0.85,rule R1: battery 77% incompatible with like_new (LLM-unanimous pattern),77.0,R1_battery_top_cond,Apple iPhone 12 Red,False
+53217404,like_new,used,rule,0.85,rule R1: battery 68% incompatible with like_new (LLM-unanimous pattern),68.0,R1_battery_top_cond,Apple iPhone 12 Pro,False
+53086304,like_new,used,rule,0.85,rule R1: battery 72% incompatible with like_new (LLM-unanimous pattern),72.0,R1_battery_top_cond,Apple iPhone 11 Pro 64GB,False
+52965344,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 13 Pro 256GB,False
+52961456,like_new,used,rule,0.85,rule R1: battery 69% incompatible with like_new (LLM-unanimous pattern),69.0,R1_battery_top_cond,Apple iPhone 7 Plus,False
+52878797,like_new,used,rule,0.85,rule R1: battery 73% incompatible with like_new (LLM-unanimous pattern),73.0,R1_battery_top_cond,Apple iPhone 11 Pro Max 256GB,False
+52794901,like_new,used,rule,0.85,rule R1: battery 79% incompatible with like_new (LLM-unanimous pattern),79.0,R1_battery_top_cond,Apple iPhone 13 Pro,False
+52787841,like_new,used,rule,0.85,rule R1: battery 77% incompatible with like_new (LLM-unanimous pattern),77.0,R1_battery_top_cond,Apple iPhone 12 Pro 256GB,False
+52750533,like_new,used,rule,0.85,rule R1: battery 74% incompatible with like_new (LLM-unanimous pattern),74.0,R1_battery_top_cond,Apple iPhone 12 Pro 128GB,False
+51472510,like_new,used,rule,0.85,rule R1: battery 72% incompatible with like_new (LLM-unanimous pattern),72.0,R1_battery_top_cond,Apple iPhone 11 Pro 64GB,False
+52654345,like_new,used,rule,0.85,rule R1: battery 68% incompatible with like_new (LLM-unanimous pattern),68.0,R1_battery_top_cond,Apple iPhone X,False
+52645201,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 13 Pro Max,False
+52613873,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone xs,False
+52575617,like_new,used,rule,0.85,rule R1: battery 75% incompatible with like_new (LLM-unanimous pattern),75.0,R1_battery_top_cond,Apple iPhone 12 64GB,False
+52494717,like_new,used,rule,0.85,rule R1: battery 72% incompatible with like_new (LLM-unanimous pattern),72.0,R1_battery_top_cond,Apple iphone13,False
+52485365,like_new,used,rule,0.85,rule R1: battery 75% incompatible with like_new (LLM-unanimous pattern),75.0,R1_battery_top_cond,Apple iPhone 11 64GB,False
+52459241,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 11,False
+52459153,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 11 Pro Max 256GB,False
+52332593,like_new,used,rule,0.85,rule R1: battery 79% incompatible with like_new (LLM-unanimous pattern),79.0,R1_battery_top_cond,Apple iPhone 12 Pro 256GB,False
+52413693,like_new,used,rule,0.85,rule R1: battery 79% incompatible with like_new (LLM-unanimous pattern),79.0,R1_battery_top_cond,Apple iPhone 13 Pro Max 256GB,False
+52429257,like_new,used,rule,0.85,rule R1: battery 76% incompatible with like_new (LLM-unanimous pattern),76.0,R1_battery_top_cond,Apple iPhone 11,False
+52400425,like_new,used,rule,0.85,rule R1: battery 75% incompatible with like_new (LLM-unanimous pattern),75.0,R1_battery_top_cond,Apple iPhone 11 64GB,False
+52128741,like_new,used,rule,0.85,rule R1: battery 77% incompatible with like_new (LLM-unanimous pattern),77.0,R1_battery_top_cond,Apple iPhone 11 64GB Black,False
+51984345,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 13 Pro Max Blue,False
+51923261,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 12 Pro,False
+51797505,like_new,used,rule,0.85,rule R1: battery 71% incompatible with like_new (LLM-unanimous pattern),71.0,R1_battery_top_cond,Apple iPhone 11,False
+51254437,like_new,used,rule,0.85,rule R1: battery 77% incompatible with like_new (LLM-unanimous pattern),77.0,R1_battery_top_cond,Apple iPhone 12 Pro 128GB Blue,False
+50956609,like_new,used,rule,0.85,rule R1: battery 77% incompatible with like_new (LLM-unanimous pattern),77.0,R1_battery_top_cond,Apple iPhone 11 Pro Max 64GB,False
+50904925,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone X 64GB,False
+50807047,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 11 Pro Max 64GB,False
+50803744,like_new,used,rule,0.85,rule R1: battery 79% incompatible with like_new (LLM-unanimous pattern),79.0,R1_battery_top_cond,Apple iPhone 12 Pro,False
+50777329,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 13 Pro 128GB,False
+50751586,like_new,used,rule,0.85,rule R1: battery 76% incompatible with like_new (LLM-unanimous pattern),76.0,R1_battery_top_cond,Apple iPhone 12,False
+50740876,like_new,used,rule,0.85,rule R1: battery 79% incompatible with like_new (LLM-unanimous pattern),79.0,R1_battery_top_cond,Apple iPhone 13 Pro Max,False
+50739730,like_new,used,rule,0.85,rule R1: battery 75% incompatible with like_new (LLM-unanimous pattern),75.0,R1_battery_top_cond,Apple iPhone 11,False
+50730019,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 11 Pro Max 64GB,False
+50695549,like_new,used,rule,0.85,rule R1: battery 77% incompatible with like_new (LLM-unanimous pattern),77.0,R1_battery_top_cond,Apple iPhone X 64GB,False
+50641891,like_new,used,rule,0.85,rule R1: battery 77% incompatible with like_new (LLM-unanimous pattern),77.0,R1_battery_top_cond,Apple iPhone X 64GB,False
+50495002,like_new,used,rule,0.85,rule R1: battery 76% incompatible with like_new (LLM-unanimous pattern),76.0,R1_battery_top_cond,Apple iPhone 12 Pro 128GB,False
+50315680,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 13 Pro 128GB Black,False
+50315674,like_new,used,rule,0.85,rule R1: battery 78% incompatible with like_new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone 13 Pro 128GB Blue,False
+27873072,like_new,used,rule,0.85,rule R1: battery 79% incompatible with like_new (LLM-unanimous pattern),79.0,R1_battery_top_cond,Apple iPhone 8 64GB White,False
+56498735,new,refurb,rule,0.85,rule R4: battery replaced -> refurb (LLM-unanimous),,R4_batt_replaced+R6_old_new,Apple iPhone 11 Pro Max 64GB New,False
+56455753,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,88.0,R5_desc_conflict+R6_old_new,Apple iPhone 13 New,False
+56388055,new,used,rule,0.85,rule R1: battery 72% incompatible with new (LLM-unanimous pattern),72.0,R1_battery_top_cond+R6_old_new,Apple iPhone 11,False
+56313229,new,used,rule,0.85,rule R1: battery 77% incompatible with new (LLM-unanimous pattern),77.0,R1_battery_top_cond+R6_old_new,Apple iPhone 14 Pro Max 128GB White,False
+56265652,new,used,rule,0.85,rule R1: battery 73% incompatible with new (LLM-unanimous pattern),73.0,R1_battery_top_cond+R6_old_new,Apple iPhone 11 New,False
+56214733,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,,R5_desc_conflict+R6_old_new,Xiaomi poco X4 Pro 128GB 6GB RAM New,False
+56205433,new,used,rule,0.85,rule R1: battery 77% incompatible with new (LLM-unanimous pattern),77.0,R1_battery_top_cond+R6_old_new,Apple iPhone 12 Pro 128GB,False
+55991935,new,used,rule,0.85,rule R1: battery 76% incompatible with new (LLM-unanimous pattern),76.0,R1_battery_top_cond+R6_old_new,Apple iPhone 13 Mini 128GB,False
+55857325,new,used,rule,0.85,rule R1: battery 76% incompatible with new (LLM-unanimous pattern),76.0,R1_battery_top_cond+R6_old_new,Apple iPhone 13 Pro,False
+55697695,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,84.0,R5_desc_conflict+R6_old_new,Apple iPhone 14 Pro New,False
+55803142,new,used,rule,0.85,rule R1: battery 71% incompatible with new (LLM-unanimous pattern),71.0,R1_battery_top_cond+R6_old_new,Apple iPhone 12 Pro Max 256GB,False
+55710916,new,used,rule,0.85,rule R1: battery 78% incompatible with new (LLM-unanimous pattern),78.0,R1_battery_top_cond,Apple iPhone SE 3,False
+51779865,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,,R5_desc_conflict+R6_old_new,Xiaomi poco F5 Pro 5G 512GB 12GB RAM New,False
+54864587,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,,R5_desc_conflict,Samsung Galaxy M55 New,False
+55500010,new,used,rule,0.85,rule R1: battery 77% incompatible with new (LLM-unanimous pattern),77.0,R1_battery_top_cond+R6_old_new,Apple iPhone 13 128GB,False
+52536001,new,used,rule,0.85,rule R1: battery 73% incompatible with new (LLM-unanimous pattern),73.0,R1_battery_top_cond+R6_old_new,Apple iPhone 11 64GB,False
+55468444,new,used,rule,0.85,rule R1: battery 77% incompatible with new (LLM-unanimous pattern),77.0,R1_battery_top_cond+R6_old_new,Apple iPhone 12 Pro 128GB,False
+55485025,new,used,rule,0.85,rule R1: battery 77% incompatible with new (LLM-unanimous pattern),77.0,R1_battery_top_cond+R6_old_new,Apple iPhone 12 Pro New,False
+55469695,new,used,rule,0.85,rule R1: battery 79% incompatible with new (LLM-unanimous pattern),79.0,R1_battery_top_cond+R6_old_new,Apple iPhone X,False
+55458220,new,used,rule,0.85,rule R1: battery 77% incompatible with new (LLM-unanimous pattern),77.0,R1_battery_top_cond+R6_old_new,Apple iPhone 12,False
+54270536,new,used,rule,0.85,rule R1: battery 75% incompatible with new (LLM-unanimous pattern),75.0,R1_battery_top_cond+R6_old_new,Apple iPhone 14 128GB,False
+55336051,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,100.0,R5_desc_conflict,Apple iPhone apple 128GB Black New,False
+54982183,new,used,rule,0.85,rule R1: battery 78% incompatible with new (LLM-unanimous pattern),78.0,R1_battery_top_cond+R6_old_new,Apple iPhone 13 Pro Max,False
+54946603,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,,R5_desc_conflict,Samsung Galaxy S25 Ultra Silver New,False
+54577721,new,used,rule,0.85,rule R1: battery 76% incompatible with new (LLM-unanimous pattern),76.0,R1_battery_top_cond+R6_old_new,Apple iPhone 13 Pro Max Gold New,False
+54848624,new,used,rule,0.85,rule R1: battery 77% incompatible with new (LLM-unanimous pattern),77.0,R1_battery_top_cond+R6_old_new,Apple iPhone 11 New,False
+54763013,new,used,rule,0.85,rule R1: battery 75% incompatible with new (LLM-unanimous pattern),75.0,R1_battery_top_cond+R6_old_new,Apple iPhone 11 64GB,False
+54452075,new,used,rule,0.85,rule R1: battery 75% incompatible with new (LLM-unanimous pattern),75.0,R1_battery_top_cond+R6_old_new,Apple iPhone 13 Pro 128GB,False
+54405209,new,used,rule,0.85,rule R1: battery 79% incompatible with new (LLM-unanimous pattern),79.0,R1_battery_top_cond+R6_old_new,Apple iPhone 14 128GB Red,False
+54357515,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 8.0/10) overrides label,84.0,R5_desc_conflict+R6_old_new,Apple iPhone 13 128GB Black New,False
+54381485,new,used,rule,0.85,rule R1: battery 79% incompatible with new (LLM-unanimous pattern),79.0,R1_battery_top_cond+R6_old_new,Apple iPhone X,False
+54337361,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,91.0,R5_desc_conflict+R6_old_new,Apple iPhone 16 Pro Max 256GB New,False
+54337337,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,97.0,R5_desc_conflict+R6_old_new,Apple iPhone 16 Pro Max White New,False
+53842262,new,used,rule,0.85,rule R1: battery 78% incompatible with new (LLM-unanimous pattern),78.0,R1_battery_top_cond+R6_old_new,Apple iPhone 13 128GB,False
+54333713,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,,R5_desc_conflict+R6_old_new,Apple iPhone 13 Pro Max New,False
+54281684,new,used,rule,0.85,rule R1: battery 78% incompatible with new (LLM-unanimous pattern),78.0,R1_battery_top_cond+R6_old_new,Apple iPhone 13,False
+54241646,new,used,rule,0.85,rule R1: battery 74% incompatible with new (LLM-unanimous pattern),74.0,R1_battery_top_cond,Apple iPhone apple Blue,False
+54027656,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,,R5_desc_conflict,Realme GT néo 256GB 12GB RAM New,False
+53964461,new,used,rule,0.85,rule R1: battery 77% incompatible with new (LLM-unanimous pattern),77.0,R1_battery_top_cond+R6_old_new,Apple iPhone 13,False
+53819453,new,used,rule,0.85,rule R1: battery 78% incompatible with new (LLM-unanimous pattern),78.0,R1_battery_top_cond+R6_old_new,Apple iPhone 11 64GB,False
+53819438,new,used,rule,0.85,rule R1: battery 75% incompatible with new (LLM-unanimous pattern),75.0,R1_battery_top_cond+R6_old_new,Apple iPhone 13 128GB,False
+53765108,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,,R5_desc_conflict,Infinix Note 50S Red New,False
+53616419,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,,R5_desc_conflict,Samsung A36 5G 6 ram 128GB 6GB RAM New,False
+53485661,new,used,rule,0.85,rule R1: battery 79% incompatible with new (LLM-unanimous pattern),79.0,R1_battery_top_cond+R6_old_new,Apple iPhone 11,False
+53514206,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,,R5_desc_conflict+R6_old_new,Honor Magic 6 Pro 512GB 16GB RAM New,False
+53432141,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,,R5_desc_conflict+R6_old_new,Samsung S24 Ultra 256GB 12GB RAM Silver New,False
+53439890,new,used,rule,0.85,rule R1: battery 79% incompatible with new (LLM-unanimous pattern),79.0,R1_battery_top_cond+R5_desc_conflict+R6_old_new,Apple iPhone X 128GB New,False
+53439785,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,100.0,R5_desc_conflict+R6_old_new,Apple iPhone 11 128GB New,False
+53385440,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,91.0,R5_desc_conflict+R6_old_new,Apple iPhone 13 128GB Pink New,False
+53240378,new,used,rule,0.85,rule R1: battery 76% incompatible with new (LLM-unanimous pattern),76.0,R1_battery_top_cond+R6_old_new,Apple iPhone 12,False
+53214527,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,86.0,R5_desc_conflict+R6_old_new,Apple iPhone 13 128GB White New,False
+53111636,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,100.0,R5_desc_conflict+R6_old_new,Apple iPhone 13 Green New,False
+53081789,new,used,rule,0.85,rule R1: battery 79% incompatible with new (LLM-unanimous pattern),79.0,R1_battery_top_cond,Apple iphone12 Blue New,False
+53080055,new,used,rule,0.85,rule R1: battery 79% incompatible with new (LLM-unanimous pattern),79.0,R1_battery_top_cond+R6_old_new,Apple iPhone 14 Blue,False
+53071442,new,used,rule,0.85,rule R1: battery 77% incompatible with new (LLM-unanimous pattern),77.0,R1_battery_top_cond+R6_old_new,Apple iPhone 12 256GB,False
+52985471,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,86.0,R5_desc_conflict+R6_old_new,Apple iPhone 15 Pro Max 256GB Silver New,False
+52906016,new,used,rule,0.85,rule R1: battery 77% incompatible with new (LLM-unanimous pattern),77.0,R1_battery_top_cond+R6_old_new,Apple iPhone 12 Pro Max,False
+51899853,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,87.0,R5_desc_conflict+R6_old_new,Apple iPhone 15 Pro Max New,False
+52794549,new,used,rule,0.85,rule R1: battery 74% incompatible with new (LLM-unanimous pattern),74.0,R1_battery_top_cond+R6_old_new,Apple iPhone 11 Pro Max,False
+52710665,new,used,rule,0.85,rule R1: battery 74% incompatible with new (LLM-unanimous pattern),74.0,R1_battery_top_cond+R6_old_new,Apple iPhone 11 Pro Max 256GB New,False
+52592693,new,used,rule,0.85,rule R1: battery 77% incompatible with new (LLM-unanimous pattern),77.0,R1_battery_top_cond+R6_old_new,Apple iPhone 12 Pro 128GB New,False
+52619549,new,used,rule,0.85,rule R1: battery 74% incompatible with new (LLM-unanimous pattern),74.0,R1_battery_top_cond+R6_old_new,Apple iPhone 12 Mini 64GB,False
+52216141,new,used,rule,0.85,rule R1: battery 69% incompatible with new (LLM-unanimous pattern),69.0,R1_battery_top_cond+R6_old_new,Apple iPhone 11,False
+52152861,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,,R5_desc_conflict,Google Pixel pixel New,False
+52153797,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,100.0,R5_desc_conflict+R6_old_new,Apple iPhone 16 128GB New,False
+51910437,new,used,rule,0.85,rule R1: battery 78% incompatible with new (LLM-unanimous pattern),78.0,R1_battery_top_cond+R6_old_new,Apple iPhone 12 Pro Max 128GB New,False
+51703041,new,used,rule,0.85,rule R1: battery 78% incompatible with new (LLM-unanimous pattern),78.0,R1_battery_top_cond+R6_old_new,Apple iPhone 12 Pro Max 256GB New,False
+51647775,new,used,rule,0.85,rule R1: battery 78% incompatible with new (LLM-unanimous pattern),78.0,R1_battery_top_cond+R6_old_new,Apple iPhone 12 Pro Max 256GB New,False
+51420949,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,,R5_desc_conflict+R6_old_new,Apple iPhone 13 128GB Green New,False
+51411535,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,,R5_desc_conflict+R6_old_new,Apple iPhone 13 128GB Green New,False
+51411487,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,,R5_desc_conflict+R6_old_new,Apple iPhone 13 128GB Green New,False
+51358996,new,used,rule,0.85,rule R1: battery 79% incompatible with new (LLM-unanimous pattern),79.0,R1_battery_top_cond+R6_old_new,Apple iPhone 11 64GB New,False
+50927836,new,used,rule,0.85,rule R1: battery 78% incompatible with new (LLM-unanimous pattern),78.0,R1_battery_top_cond+R6_old_new,Apple iPhone 11 64GB,False
+50836309,new,used,rule,0.85,rule R1: battery 79% incompatible with new (LLM-unanimous pattern),79.0,R1_battery_top_cond+R6_old_new,Apple iPhone 12 Pro Max New,False
+34185700,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,,R5_desc_conflict,Xiaomi redmi Note 11 Pro 256GB New,False
+34206010,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,,R5_desc_conflict+R6_old_new,Xiaomi redmi Note 10 Pro New,False
+29698923,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,,R5_desc_conflict,Xiaomi redmi Note 10 128GB 4GB RAM New,False
+28697845,new,used,rule,0.85,rule R1: battery 50% incompatible with new (LLM-unanimous pattern),50.0,R1_battery_top_cond+R6_old_new,Xiaomi redmi Note 9 Pro Max 128GB 6GB RAM Blue,False
+28470621,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,,R5_desc_conflict,Samsung S8 New,False
+28450599,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,,R5_desc_conflict+R6_old_new,Apple iPhone X 64GB New,False
+26920132,new,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,98.0,R5_desc_conflict+R6_old_new,Apple iPhone 8 Plus 64GB New,False
+25521209,new,used,rule,0.85,rule R1: battery 50% incompatible with new (LLM-unanimous pattern),50.0,R1_battery_top_cond,Realme 7 Pro 128GB 8GB RAM Blue New,False
+56421769,used,good,rule,0.85,rule R5: seller description states 'good' (score 9.0/10) overrides label,,R5_desc_conflict,Realme 10 Used,False
+55761307,used,good,rule,0.85,rule R5: seller description states 'good' (score 10.0/10) overrides label,,R5_desc_conflict,Realme C75 256GB Used,False
+55722574,used,good,rule,0.85,rule R5: seller description states 'good' (score 10.0/10) overrides label,80.0,R5_desc_conflict,Apple iPhone 14 Used,False
+55329337,used,good,rule,0.85,rule R5: seller description states 'good' (score 10.0/10) overrides label,91.0,R5_desc_conflict,Apple iPhone 14 Pro Silver Used,False
+55270966,used,good,rule,0.85,rule R5: seller description states 'good' (score 10.0/10) overrides label,,R5_desc_conflict,Honor tat 256GB 12GB RAM Used,False
+54756905,used,good,rule,0.85,rule R5: seller description states 'good' (score 9.0/10) overrides label,100.0,R5_desc_conflict,Apple iPhone 11 Pro Used,False
+54727793,used,good,rule,0.85,rule R5: seller description states 'good' (score 10.0/10) overrides label,91.0,R5_desc_conflict,Apple iPhone 13 Pro Max 128GB Used,False
+54713075,used,like_new,rule,0.85,rule R5: seller description states 'like_new' (score 10.0/10) overrides label,,R5_desc_conflict,Apple iPhone 12 64GB Used,False
+54165974,used,good,rule,0.85,rule R5: seller description states 'good' (score 10.0/10) overrides label,89.0,R5_desc_conflict,Apple iPhone 14 Pro 256GB Purple Used,False
+53540294,used,good,rule,0.85,rule R5: seller description states 'good' (score 10.0/10) overrides label,74.0,R5_desc_conflict,Apple iPhone 11 Pro 64GB Black Used,False
+53786120,used,good,rule,0.85,rule R5: seller description states 'good' (score 10.0/10) overrides label,,R5_desc_conflict,Apple iPhone 11 Used,False
+52410797,used,good,rule,0.85,rule R5: seller description states 'good' (score 9.0/10) overrides label,87.0,R5_desc_conflict,Apple iPhone 12 Used,False
+51932969,used,good,rule,0.85,rule R5: seller description states 'good' (score 9.0/10) overrides label,,R5_desc_conflict,Samsung Galaxy A25 256GB 8GB RAM Used,False
+51876561,used,good,rule,0.85,rule R5: seller description states 'good' (score 9.0/10) overrides label,92.0,R5_desc_conflict,Apple iPhone 13 Pro Max 128GB Used,False
+28125887,used,good,rule,0.85,rule R5: seller description states 'good' (score 10.0/10) overrides label,,R5_desc_conflict,Samsung Galaxy S10 5G 256GB 8GB RAM Used,False
+28098159,used,good,rule,0.85,rule R5: seller description states 'good' (score 9.0/10) overrides label,,R5_desc_conflict,Samsung Galaxy S9 Plus Used,False
+27361326,used,good,rule,0.85,rule R5: seller description states 'good' (score 8.0/10) overrides label,,R5_desc_conflict,Huawei Y9 Used,False
+26753634,used,new,rule,0.85,rule R5: seller description states 'new' (score 10.0/10) overrides label,74.0,R5_desc_conflict,Apple iPhone 6 64GB Used,False
+26753633,used,new,rule,0.85,rule R5: seller description states 'new' (score 10.0/10) overrides label,74.0,R5_desc_conflict,Apple iPhone 6 64GB Used,False
+25641586,used,good,rule,0.85,rule R5: seller description states 'good' (score 10.0/10) overrides label,,R5_desc_conflict,Huawei Y9 Used,False
+25098592,used,good,rule,0.85,rule R5: seller description states 'good' (score 10.0/10) overrides label,93.0,R5_desc_conflict,Apple iPhone 11 Pro Max 64GB Used,False
+24568298,used,good,rule,0.85,rule R5: seller description states 'good' (score 10.0/10) overrides label,,R5_desc_conflict,Samsung Galaxy j4+ Black Used,False
