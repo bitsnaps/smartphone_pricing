@@ -1,13 +1,10 @@
 # deps / build
 node_modules/
-.next/
-out/
-next-env.d.ts
+dist/
+dist-ssr/
 
 # logs
 *.log
-dev.log
-server.log
 
 # env & secrets
 .env
@@ -16,4 +13,4 @@ server.log
 # misc
 .DS_Store
 *.tsbuildinfo
-.vercel
+.vite/

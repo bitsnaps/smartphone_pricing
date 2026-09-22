@@ -1,40 +1,35 @@
 {
   "name": "dz-phone-value",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
-  "description": "Smartphone price estimator for the Algerian market — XGBoost model served via pure-TS inference (no Python at request time)",
+  "type": "module",
+  "description": "Smartphone price estimator for the Algerian market — XGBoost model runs fully client-side as pure-TS inference (no server, no Python)",
+  "packageManager": "pnpm@10.34.5",
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
-    "dev": "next dev -p 3000",
-    "build": "next build",
-    "start": "next start -p 3000",
-    "lint": "eslint ."
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "vue-tsc --noEmit",
+    "check:golden": "tsx scripts/check-golden.ts",
+    "check:parity": "tsx model_export/sp_parity_check.mjs",
+    "check": "pnpm typecheck && pnpm check:golden && pnpm check:parity"
   },
   "dependencies": {
-    "@radix-ui/react-checkbox": "^1.3.2",
-    "@radix-ui/react-label": "^2.1.7",
-    "@radix-ui/react-select": "^2.2.5",
-    "@radix-ui/react-separator": "^1.1.7",
-    "@radix-ui/react-slider": "^1.3.5",
-    "@radix-ui/react-slot": "^1.2.3",
-    "@radix-ui/react-switch": "^1.2.5",
-    "@radix-ui/react-toast": "^1.2.14",
-    "class-variance-authority": "^0.7.1",
-    "clsx": "^2.1.1",
-    "lucide-react": "^0.525.0",
-    "next": "^16.1.1",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "tailwind-merge": "^3.3.1"
+    "lucide-vue-next": "^1.0.0",
+    "vue": "^3.5.43"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4",
-    "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "^16.1.1",
-    "tailwindcss": "^4",
-    "tw-animate-css": "^1.3.5",
-    "typescript": "^5"
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^24",
+    "@vitejs/plugin-vue": "^6.0.9",
+    "daisyui": "^5.7.43",
+    "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.0",
+    "vite": "^8.3.0",
+    "vue-tsc": "^3.3.11"
   }
 }

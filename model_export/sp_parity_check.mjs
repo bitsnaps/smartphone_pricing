@@ -1,12 +1,15 @@
 /**
  * SP10 parity check — TS inference must reproduce Python predictions exactly.
- * Fixtures: scripts/sp_export_parity.json (12 rows: full 48-feature vectors + python price/lo/hi).
- * Run: bun scripts/sp_parity_check.mjs
+ * Fixtures: model_export/sp_export_parity.json (12 rows: full 48-feature
+ * vectors + python price/lo/hi).
+ * Run: pnpm check:parity   (node >= 20 via tsx)
  */
 import { readFileSync } from "fs";
 import { predictPriceRawFromFeatures } from "../src/lib/model/predict.ts";
 
-const fixtures = JSON.parse(readFileSync("/home/z/my-project/scripts/sp_export_parity.json", "utf-8"));
+const fixtures = JSON.parse(
+  readFileSync(new URL("./sp_export_parity.json", import.meta.url), "utf-8"),
+);
 
 let bad = 0;
 for (const [i, fx] of fixtures.entries()) {

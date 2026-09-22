@@ -1,13 +1,18 @@
 /**
- * SP10 web inference engine — pure-TS XGBoost tree walk + feature build.
+ * SP10 inference engine — pure-TS XGBoost tree walk + feature build.
  * Mirrors scripts/sp_reg_baseline.py build_matrix() + SP6 cfg + SP9 CQR bands.
  * Artifacts produced by scripts/sp_export_web.py.
+ *
+ * Vue/Vite port note: the artifacts are bundled via static JSON imports instead
+ * of fs reads so the engine runs fully client-side (GitHub Pages). The math
+ * below is unchanged from the fs-based original and is pinned by two checks:
+ *   • model_export/sp_parity_check.mjs  — 12 Python-exported fixtures (0.1%)
+ *   • scripts/check-golden.ts           — byte-exact API goldens (frozen clock)
  */
-import { readFileSync, statSync } from "fs";
-import { dirname, join } from "path";
-import { fileURLToPath } from "url";
-
-const HERE = dirname(fileURLToPath(import.meta.url));
+import artifactsJson from "./artifacts.json";
+import treesPointJson from "./trees_point.json";
+import treesQ10Json from "./trees_q10.json";
+import treesQ90Json from "./trees_q90.json";
 
 export interface Artifacts {
   model_version: string;
@@ -45,10 +50,6 @@ interface TreeNode {
   children?: TreeNode[];
 }
 
-let _artifacts: Artifacts | null = null;
-let _trees: { point: Tree[]; q10: Tree[]; q90: Tree[] } | null = null;
-let _mtimeMs = 0;
-
 interface Tree {
   root: TreeNode;
   idx: Map<number, TreeNode>;
@@ -65,22 +66,19 @@ function indexTree(root: TreeNode): Tree {
   return { root, idx };
 }
 
-function loadAll() {
-  const mtime = statSync(join(HERE, "artifacts.json")).mtimeMs;
-  if (_artifacts && _trees && mtime === _mtimeMs) return;   // hot-reload when re-exported
-  _mtimeMs = mtime;
-  _artifacts = JSON.parse(readFileSync(join(HERE, "artifacts.json"), "utf-8")) as Artifacts;
-  const read = (f: string): Tree[] => {
-    const raw = JSON.parse(readFileSync(join(HERE, f), "utf-8")).trees as TreeNode[];
-    // each dumped tree = {root at nodeid 0, children by nodeid}; index every tree
-    return raw.map(indexTree);
-  };
-  _trees = { point: read("trees_point.json"), q10: read("trees_q10.json"), q90: read("trees_q90.json") };
-}
+const _artifacts = artifactsJson as unknown as Artifacts;
+const readTrees = (raw: unknown): Tree[] => {
+  // each dumped tree = {root at nodeid 0, children by nodeid}; index every tree
+  return (raw as { trees: TreeNode[] }).trees.map(indexTree);
+};
+const _trees: { point: Tree[]; q10: Tree[]; q90: Tree[] } = {
+  point: readTrees(treesPointJson),
+  q10: readTrees(treesQ10Json),
+  q90: readTrees(treesQ90Json),
+};
 
 export function getArtifacts(): Artifacts {
-  loadAll();
-  return _artifacts!;
+  return _artifacts;
 }
 
 export interface PriceInput {
@@ -179,12 +177,11 @@ export interface PredictionResult {
 const round100 = (x: number) => Math.round(x / 100) * 100;
 
 export function predictPrice(inp: PriceInput): PredictionResult {
-  loadAll();
   const a = getArtifacts();
   const f = buildFeatures(inp);
-  const pLog = a.base_scores.point + sumTrees(_trees!.point, f);
-  const loLog = a.base_scores.q10 + sumTrees(_trees!.q10, f) - a.cqr_Q_log;
-  const hiLog = a.base_scores.q90 + sumTrees(_trees!.q90, f) + a.cqr_Q_log;
+  const pLog = a.base_scores.point + sumTrees(_trees.point, f);
+  const loLog = a.base_scores.q10 + sumTrees(_trees.q10, f) - a.cqr_Q_log;
+  const hiLog = a.base_scores.q90 + sumTrees(_trees.q90, f) + a.cqr_Q_log;
   const price = Math.exp(pLog) * a.smear;
   // display consistency: independently trained quantile models can cross the point
   // estimate on atypical inputs — widen the band to contain it (never narrows)
@@ -204,14 +201,13 @@ export function predictPrice(inp: PriceInput): PredictionResult {
 
 /** Parity bridge: raw 48-feature vector (b_cols order) -> unrounded price/lo/hi. */
 export function predictPriceRawFromFeatures(vec: number[]): { price: number; lo: number; hi: number } {
-  loadAll();
   const a = getArtifacts();
   const f: Record<string, number> = {};
   a.b_cols.forEach((c, i) => { f[c] = vec[i]; });
   // xgboost 2.x: prediction = base_score (data-estimated intercept) + sum of tree leaves
-  const pLog = a.base_scores.point + sumTrees(_trees!.point, f);
-  const loLog = a.base_scores.q10 + sumTrees(_trees!.q10, f) - a.cqr_Q_log;
-  const hiLog = a.base_scores.q90 + sumTrees(_trees!.q90, f) + a.cqr_Q_log;
+  const pLog = a.base_scores.point + sumTrees(_trees.point, f);
+  const loLog = a.base_scores.q10 + sumTrees(_trees.q10, f) - a.cqr_Q_log;
+  const hiLog = a.base_scores.q90 + sumTrees(_trees.q90, f) + a.cqr_Q_log;
   return {
     price: Math.exp(pLog) * a.smear,
     lo: Math.exp(loLog) * a.smear,
