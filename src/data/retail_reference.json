@@ -1,0 +1,273 @@
+{
+ "updated": "2026-09-22",
+ "currency": "DZD",
+ "condition": "new",
+ "min_listings": 3,
+ "note": "Median new-device retail price per brand/tier/storage, collected from multiple public sources. Site identities intentionally not stored.",
+ "entries": {
+  "apple|base|64": {
+   "median": 44000,
+   "n": 4
+  },
+  "apple|base|128": {
+   "median": 139000,
+   "n": 7
+  },
+  "apple|base|256": {
+   "median": 189000,
+   "n": 7
+  },
+  "apple|plus|128": {
+   "median": 196000,
+   "n": 5
+  },
+  "apple|plus|256": {
+   "median": 209000,
+   "n": 3
+  },
+  "apple|pro|128": {
+   "median": 132900,
+   "n": 3
+  },
+  "apple|pro|256": {
+   "median": 232000,
+   "n": 6
+  },
+  "apple|promax|256": {
+   "median": 231000,
+   "n": 13
+  },
+  "google|base|128": {
+   "median": 98400,
+   "n": 6
+  },
+  "google|pro|128": {
+   "median": 142000,
+   "n": 3
+  },
+  "google|pro|512": {
+   "median": 157000,
+   "n": 3
+  },
+  "honor|base|128": {
+   "median": 41000,
+   "n": 6
+  },
+  "honor|base|256": {
+   "median": 69000,
+   "n": 30
+  },
+  "honor|base|512": {
+   "median": 84900,
+   "n": 19
+  },
+  "honor|compact|256": {
+   "median": 64000,
+   "n": 6
+  },
+  "honor|compact|512": {
+   "median": 75000,
+   "n": 3
+  },
+  "honor|pro|512": {
+   "median": 172900,
+   "n": 13
+  },
+  "infinix|base|64": {
+   "median": 20000,
+   "n": 9
+  },
+  "infinix|base|128": {
+   "median": 24500,
+   "n": 17
+  },
+  "infinix|base|256": {
+   "median": 31000,
+   "n": 12
+  },
+  "infinix|pro|256": {
+   "median": 54800,
+   "n": 8
+  },
+  "oneplus|base|16": {
+   "median": 169400,
+   "n": 4
+  },
+  "oneplus|base|256": {
+   "median": 99900,
+   "n": 15
+  },
+  "oneplus|base|512": {
+   "median": 159000,
+   "n": 3
+  },
+  "oneplus|pro|256": {
+   "median": 91000,
+   "n": 4
+  },
+  "oneplus|ultra|256": {
+   "median": 116500,
+   "n": 4
+  },
+  "oppo|base|16": {
+   "median": 79900,
+   "n": 3
+  },
+  "oppo|base|128": {
+   "median": 32900,
+   "n": 17
+  },
+  "oppo|base|256": {
+   "median": 52900,
+   "n": 21
+  },
+  "oppo|base|512": {
+   "median": 66000,
+   "n": 3
+  },
+  "oppo|pro|256": {
+   "median": 64900,
+   "n": 15
+  },
+  "oppo|pro|512": {
+   "median": 127000,
+   "n": 6
+  },
+  "other|base|64": {
+   "median": 16000,
+   "n": 11
+  },
+  "other|base|128": {
+   "median": 20000,
+   "n": 20
+  },
+  "other|base|256": {
+   "median": 30000,
+   "n": 16
+  },
+  "other|pro|256": {
+   "median": 99900,
+   "n": 7
+  },
+  "realme|base|16": {
+   "median": 84900,
+   "n": 3
+  },
+  "realme|base|64": {
+   "median": 22000,
+   "n": 7
+  },
+  "realme|base|128": {
+   "median": 30000,
+   "n": 35
+  },
+  "realme|base|256": {
+   "median": 39900,
+   "n": 41
+  },
+  "realme|plus|256": {
+   "median": 74200,
+   "n": 6
+  },
+  "realme|plus|512": {
+   "median": 69900,
+   "n": 3
+  },
+  "realme|pro|128": {
+   "median": 45000,
+   "n": 3
+  },
+  "realme|pro|256": {
+   "median": 79000,
+   "n": 12
+  },
+  "realme|pro|512": {
+   "median": 88000,
+   "n": 3
+  },
+  "realme|promax|256": {
+   "median": 64500,
+   "n": 3
+  },
+  "samsung|base|64": {
+   "median": 26000,
+   "n": 16
+  },
+  "samsung|base|128": {
+   "median": 44000,
+   "n": 74
+  },
+  "samsung|base|256": {
+   "median": 77000,
+   "n": 29
+  },
+  "samsung|base|512": {
+   "median": 103900,
+   "n": 3
+  },
+  "samsung|compact|128": {
+   "median": 94000,
+   "n": 4
+  },
+  "samsung|compact|256": {
+   "median": 127400,
+   "n": 4
+  },
+  "samsung|ultra|256": {
+   "median": 189900,
+   "n": 7
+  },
+  "samsung|ultra|512": {
+   "median": 246000,
+   "n": 8
+  },
+  "vivo|base|256": {
+   "median": 79900,
+   "n": 15
+  },
+  "vivo|pro|16": {
+   "median": 169500,
+   "n": 3
+  },
+  "vivo|pro|256": {
+   "median": 99900,
+   "n": 5
+  },
+  "xiaomi|base|64": {
+   "median": 23000,
+   "n": 6
+  },
+  "xiaomi|base|128": {
+   "median": 32000,
+   "n": 15
+  },
+  "xiaomi|base|256": {
+   "median": 51000,
+   "n": 27
+  },
+  "xiaomi|base|512": {
+   "median": 92900,
+   "n": 5
+  },
+  "xiaomi|plus|256": {
+   "median": 79900,
+   "n": 3
+  },
+  "xiaomi|pro|256": {
+   "median": 69900,
+   "n": 18
+  },
+  "xiaomi|pro|512": {
+   "median": 97900,
+   "n": 15
+  },
+  "xiaomi|promax|256": {
+   "median": 79000,
+   "n": 6
+  },
+  "xiaomi|promax|512": {
+   "median": 123000,
+   "n": 3
+  }
+ }
+}

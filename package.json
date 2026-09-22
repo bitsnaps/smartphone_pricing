@@ -1,6 +1,6 @@
 {
   "name": "dz-phone-value",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "private": true,
   "type": "module",
   "description": "Smartphone price estimator for the Algerian market — XGBoost model runs fully client-side as pure-TS inference (no server, no Python)",

@@ -1,0 +1,1009 @@
+source,listing_id,collected_date,brand,model_line,tier,storage_gb,ram_gb,price_dzd,condition,condition_raw,is_5g,dual_sim,launch_year
+retail,,2026-09-22,ace,BUZZ 7 Lite,compact,64.0,6.0,15000.0,new,,,False,
+retail,,2026-09-22,ace,Buzz 7 PRIME,,64.0,8.0,16000.0,new,,,False,
+retail,,2026-09-22,ace,Buzz 8 Lite,compact,64.0,6.0,15000.0,new,,,False,
+retail,,2026-09-22,ace,buzz 6 FLIP,,256.0,12.0,65000.0,new,,,False,
+retail,21009702.0,2026-09-22,ace,buzz 6 FLIP,,,,65000.0,new,Neuf,,False,
+retail,69.0,2026-09-22,apple,IPHONE 13 PRO MAX,promax,256.0,,162000.0,new,Rupture,,False,2021.0
+retail,76.0,2026-09-22,apple,IPHONE 14 PRO MAX,promax,1024.0,,299000.0,new,Rupture,,False,2022.0
+retail,19.0,2026-09-22,apple,IPHONE 15 PRO MAX,promax,256.0,,274000.0,new,Rupture,,True,2023.0
+retail,20.0,2026-09-22,apple,IPHONE 15 PRO MAX,promax,256.0,,269900.0,new,Rupture,,False,2023.0
+retail,225.0,2026-09-22,apple,IPHONE 16 PRO MAX,promax,256.0,,292000.0,new,Rupture,,False,2024.0
+retail,4.0,2026-09-22,apple,Iphone 11,,,,98000.0,new,Rupture,,False,2019.0
+retail,8.0,2026-09-22,apple,Iphone 13,,,,139900.0,new,Rupture,,False,2021.0
+retail,1.0,2026-09-22,apple,Iphone 14 pro max,promax,128.0,,189900.0,new,Rupture,,False,2022.0
+retail,,2026-09-22,apple,iPhone 11,,64.0,4.0,42000.0,new,,,False,2019.0
+retail,105310.0,2026-09-22,apple,iPhone 11,,64.0,,42000.0,new,Neuf | Occasion,,False,2019.0
+retail,,2026-09-22,apple,iPhone 11 Pro,pro,64.0,4.0,59000.0,new,,,False,2019.0
+retail,105154.0,2026-09-22,apple,iPhone 11 Pro,pro,64.0,,59000.0,new,Neuf,,False,2019.0
+retail,,2026-09-22,apple,iPhone 12 Pro Max,promax,256.0,6.0,99000.0,new,,,False,2020.0
+retail,3766899.0,2026-09-22,apple,iPhone 12 Pro Max,promax,256.0,,99000.0,new,Neuf,,False,2020.0
+retail,,2026-09-22,apple,iPhone 13,,128.0,4.0,76000.0,,,,False,2021.0
+retail,,2026-09-22,apple,iPhone 13,,128.0,4.0,,used,,,False,2021.0
+retail,6371893.0,2026-09-22,apple,iPhone 13,,128.0,,76000.0,new,Neuf | Occasion,,False,2021.0
+retail,13467770.0,2026-09-22,apple,iPhone 13,,128.0,,73900.0,used,Occasion,,False,2021.0
+retail,,2026-09-22,apple,iPhone 13,,256.0,4.0,82000.0,new,,,False,2021.0
+retail,6372010.0,2026-09-22,apple,iPhone 13,,256.0,,82000.0,new,Neuf,,False,2021.0
+retail,499.0,2026-09-22,apple,iPhone 13 Pro,pro,128.0,,132900.0,new,Disponible,,False,2021.0
+retail,,2026-09-22,apple,iPhone 13 Pro,pro,128.0,6.0,,used,,,False,2021.0
+retail,6371081.0,2026-09-22,apple,iPhone 13 Pro,pro,128.0,,98900.0,used,Occasion,,False,2021.0
+retail,,2026-09-22,apple,iPhone 13 Pro Max,promax,128.0,6.0,,,,,False,2021.0
+retail,,2026-09-22,apple,iPhone 13 Pro Max,promax,128.0,6.0,,used,,,False,2021.0
+retail,,2026-09-22,apple,iPhone 13 Pro Max,promax,128.0,6.0,,used,,,False,2021.0
+retail,6371388.0,2026-09-22,apple,iPhone 13 Pro Max,promax,128.0,,116000.0,used,Occasion,,False,2021.0
+retail,7264542.0,2026-09-22,apple,iPhone 13 Pro Max,promax,128.0,,118000.0,used,Occasion,,False,2021.0
+retail,6182512.0,2026-09-22,apple,iPhone 13 Pro Max,promax,,,125000.0,used,Occasion,,False,2021.0
+retail,310.0,2026-09-22,apple,iPhone 14,,128.0,,139000.0,new,Rupture,,False,2022.0
+retail,,2026-09-22,apple,iPhone 14,,128.0,6.0,112000.0,new,,,False,2022.0
+retail,,2026-09-22,apple,iPhone 14,,128.0,6.0,129000.0,new,,,False,2022.0
+retail,,2026-09-22,apple,iPhone 14 Pro,pro,128.0,6.0,126000.0,new,,,False,2022.0
+retail,,2026-09-22,apple,iPhone 14 Pro Max,promax,128.0,6.0,,used,,,False,2022.0
+retail,12029703.0,2026-09-22,apple,iPhone 14 Pro Max,promax,128.0,6.0,149000.0,used,Occasion,,False,2022.0
+retail,,2026-09-22,apple,iPhone 15,,128.0,6.0,140000.0,new,,,False,2023.0
+retail,14721071.0,2026-09-22,apple,iPhone 15,,128.0,,140000.0,new,Neuf | Occasion,,False,2023.0
+retail,,2026-09-22,apple,iPhone 15,,256.0,6.0,189000.0,new,,,False,2023.0
+retail,14721073.0,2026-09-22,apple,iPhone 15,,256.0,,189000.0,new,Neuf,,False,2023.0
+retail,,2026-09-22,apple,iPhone 15 Plus,plus,128.0,6.0,130000.0,new,,,False,2023.0
+retail,14721152.0,2026-09-22,apple,iPhone 15 Plus,plus,128.0,,130000.0,new,Neuf | Occasion,,False,2023.0
+retail,155.0,2026-09-22,apple,iPhone 15 Pro,pro,128.0,,222000.0,new,Rupture,,False,2023.0
+retail,,2026-09-22,apple,iPhone 15 Pro,pro,256.0,8.0,205000.0,new,,,False,2023.0
+retail,14722483.0,2026-09-22,apple,iPhone 15 Pro,pro,256.0,,205000.0,new,Neuf,,False,2023.0
+retail,,2026-09-22,apple,iPhone 15 Pro Max,promax,256.0,8.0,194000.0,new,,,False,2023.0
+retail,14722449.0,2026-09-22,apple,iPhone 15 Pro Max,promax,256.0,,194000.0,new,Neuf | Occasion,,False,2023.0
+retail,525.0,2026-09-22,apple,iPhone 16,,128.0,,172000.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,apple,iPhone 16,,128.0,8.0,,used,,,False,2024.0
+retail,18911799.0,2026-09-22,apple,iPhone 16,,128.0,8.0,135000.0,used,Occasion,,False,2024.0
+retail,,2026-09-22,apple,iPhone 16,,256.0,8.0,156000.0,new,,,False,2024.0
+retail,,2026-09-22,apple,iPhone 16,,512.0,8.0,210000.0,new,,,False,2024.0
+retail,459.0,2026-09-22,apple,iPhone 16 Plus,plus,128.0,,208000.0,new,Disponible,,False,2024.0
+retail,,2026-09-22,apple,iPhone 16 Plus,plus,128.0,8.0,196000.0,new,,,False,2024.0
+retail,19589004.0,2026-09-22,apple,iPhone 16 Plus,plus,128.0,,196000.0,new,Neuf,,False,2024.0
+retail,515.0,2026-09-22,apple,iPhone 16 Plus,plus,256.0,,215000.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,apple,iPhone 16 Plus,plus,256.0,8.0,209000.0,new,,,False,2024.0
+retail,19588990.0,2026-09-22,apple,iPhone 16 Plus,plus,256.0,,209000.0,new,Neuf,,False,2024.0
+retail,345.0,2026-09-22,apple,iPhone 16 Pro Max,promax,256.0,,289000.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,apple,iPhone 16 Pro Max,promax,256.0,8.0,153000.0,new,,,False,2024.0
+retail,,2026-09-22,apple,iPhone 17,,256.0,8.0,198000.0,new,,,False,2025.0
+retail,31983896.0,2026-09-22,apple,iPhone 17,,256.0,,198000.0,new,Neuf | Occasion,,False,2025.0
+retail,,2026-09-22,apple,iPhone 17 Pro,pro,256.0,12.0,232000.0,new,,,False,2025.0
+retail,,2026-09-22,apple,iPhone 17 Pro,pro,256.0,12.0,319000.0,new,,,True,2025.0
+retail,31982714.0,2026-09-22,apple,iPhone 17 Pro,pro,256.0,,232000.0,new,Neuf,,False,2025.0
+retail,31982717.0,2026-09-22,apple,iPhone 17 Pro,pro,256.0,,319000.0,new,Neuf,,True,2025.0
+retail,,2026-09-22,apple,iPhone 17 Pro,pro,512.0,12.0,315000.0,new,,,False,2025.0
+retail,31982706.0,2026-09-22,apple,iPhone 17 Pro,pro,512.0,,315000.0,new,Neuf,,False,2025.0
+retail,423.0,2026-09-22,apple,iPhone 17 Pro Max,promax,256.0,,339000.0,new,Rupture,,False,2025.0
+retail,,2026-09-22,apple,iPhone 17 Pro Max,promax,256.0,12.0,337000.0,new,,,False,2025.0
+retail,,2026-09-22,apple,iPhone 17 Pro Max,promax,256.0,12.0,231000.0,new,,,True,2025.0
+retail,,2026-09-22,apple,iPhone 17 Pro Max,promax,512.0,12.0,384000.0,new,,,False,2025.0
+retail,32880931.0,2026-09-22,apple,iPhone 17 Pro Max,promax,512.0,,384000.0,new,Neuf,,False,2025.0
+retail,46734315.0,2026-09-22,apple,iPhone 17 Pro Max,promax,1024.0,,,,,,False,2025.0
+retail,,2026-09-22,apple,iPhone 17 Pro Max,promax,2048.0,12.0,438000.0,new,,,False,2025.0
+retail,46734590.0,2026-09-22,apple,iPhone 17 Pro Max,promax,2048.0,,438000.0,new,Neuf,,False,2025.0
+retail,574.0,2026-09-22,apple,iPhone 18 Pro Max,promax,256.0,,,new,Rupture,,False,
+retail,,2026-09-22,apple,iPhone XR,,64.0,3.0,46000.0,new,,,False,
+retail,63948.0,2026-09-22,apple,iPhone XR,,64.0,,46000.0,new,Neuf,,False,
+retail,,2026-09-22,condor,A5 +,,32.0,3.0,13000.0,new,,,False,
+retail,,2026-09-22,condor,GT 80 Pro,pro,256.0,8.0,39000.0,new,,,False,
+retail,,2026-09-22,condor,NOVA 70S,,128.0,8.0,19000.0,new,,,False,
+retail,,2026-09-22,condor,NOVA 70SE,,128.0,8.0,16000.0,new,,,False,
+retail,,2026-09-22,condor,NOVA 70SE,,128.0,3.0,16000.0,new,,,False,
+retail,,2026-09-22,condor,NOVA 70i,,128.0,8.0,18000.0,new,,,False,
+retail,,2026-09-22,condor,NOVA 70i,,128.0,4.0,17000.0,new,,,False,
+retail,,2026-09-22,condor,NOVA 80A,,64.0,8.0,16000.0,new,,,False,
+retail,,2026-09-22,condor,NOVA 80A,,128.0,8.0,16000.0,new,,,False,
+retail,,2026-09-22,condor,NOVA 80I,,64.0,3.0,16000.0,new,,,False,
+retail,,2026-09-22,condor,NOVA 80I,,256.0,3.0,18000.0,new,,,False,
+retail,,2026-09-22,condor,Nova 70,,256.0,4.0,22000.0,new,,,False,
+retail,446.0,2026-09-22,google,PIXEL 10 PRO,pro,128.0,,159900.0,new,Rupture,,False,2025.0
+retail,510.0,2026-09-22,google,PIXEL 10 PRO,pro,512.0,,189000.0,new,Rupture,,False,2025.0
+retail,500.0,2026-09-22,google,Pixel 10,,128.0,,131900.0,new,Disponible,,False,2025.0
+retail,,2026-09-22,google,Pixel 10,,128.0,12.0,139000.0,new,,,False,2025.0
+retail,435.0,2026-09-22,google,Pixel 10,,256.0,,159000.0,new,Rupture,,False,2025.0
+retail,434.0,2026-09-22,google,Pixel 10 Pro XL,pro,256.0,,219000.0,new,Disponible,,False,
+retail,,2026-09-22,google,Pixel 10 Pro XL,pro,256.0,16.0,,used,,,False,
+retail,34294873.0,2026-09-22,google,Pixel 10 Pro XL,pro,256.0,16.0,168000.0,used,Occasion,,False,
+retail,571.0,2026-09-22,google,Pixel 10a,,128.0,,99000.0,new,Disponible,,False,
+retail,112.0,2026-09-22,google,Pixel 7 Pro,pro,,,112000.0,new,Rupture,,False,2022.0
+retail,111.0,2026-09-22,google,Pixel 7a,,,,71900.0,new,Rupture,,False,
+retail,169.0,2026-09-22,google,Pixel 8,,128.0,,97900.0,new,Rupture,,False,2023.0
+retail,,2026-09-22,google,Pixel 8 Pro,pro,128.0,12.0,142000.0,new,,,False,2023.0
+retail,137.0,2026-09-22,google,Pixel 8 Pro,pro,256.0,,150000.0,new,Rupture,,False,2023.0
+retail,208.0,2026-09-22,google,Pixel 8 Pro,pro,512.0,,151900.0,new,Rupture,,False,2023.0
+retail,,2026-09-22,google,Pixel 8 Pro,pro,512.0,12.0,157000.0,new,,,False,2023.0
+retail,170.0,2026-09-22,google,Pixel 8a,,,,85900.0,new,Rupture,,False,
+retail,420.0,2026-09-22,google,Pixel 9 Pro,pro,128.0,,139900.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,google,Pixel 9 Pro XL,pro,128.0,16.0,,used,,,False,
+retail,18869687.0,2026-09-22,google,Pixel 9 Pro XL,pro,128.0,16.0,125000.0,used,Occasion,,False,
+retail,171.0,2026-09-22,google,Pixel 9 pro XL,pro,,,249000.0,new,Rupture,,False,
+retail,436.0,2026-09-22,google,Pixel 9A,,128.0,,89900.0,new,Rupture,,False,
+retail,,2026-09-22,google,Pixel 9a,,128.0,8.0,85000.0,new,,,False,
+retail,,2026-09-22,google,Pixel 9a,,256.0,8.0,98000.0,new,,,False,
+retail,,2026-09-22,honor,100 Pro,pro,256.0,12.0,,used,,,False,
+retail,39104925.0,2026-09-22,honor,100 Pro,pro,256.0,12.0,63000.0,used,Occasion,,False,
+retail,395.0,2026-09-22,honor,200,,256.0,8.0,62900.0,new,Rupture,,False,
+retail,239.0,2026-09-22,honor,200,,256.0,12.0,73900.0,new,Rupture,,False,
+retail,,2026-09-22,honor,200,,256.0,12.0,66000.0,new,,,False,
+retail,409.0,2026-09-22,honor,200,,512.0,12.0,69900.0,new,Rupture,,False,
+retail,443.0,2026-09-22,honor,200,,512.0,12.0,78000.0,new,Rupture,,False,
+retail,181.0,2026-09-22,honor,200 Lite,compact,,,47900.0,new,Rupture,,False,
+retail,34644359.0,2026-09-22,honor,200 Pro,pro,512.0,16.0,,,,,False,
+retail,34644415.0,2026-09-22,honor,200 Pro,pro,1024.0,16.0,,,,,False,
+retail,148.0,2026-09-22,honor,200 Pro,pro,,,114900.0,new,Rupture,,False,
+retail,,2026-09-22,honor,300 Pro,pro,256.0,12.0,,used,,,False,
+retail,26713430.0,2026-09-22,honor,300 Pro,pro,256.0,12.0,83000.0,used,Occasion,,False,
+retail,26726267.0,2026-09-22,honor,300 Pro,pro,512.0,12.0,,,,,False,
+retail,26726301.0,2026-09-22,honor,300 Pro,pro,512.0,16.0,,,,,False,
+retail,486.0,2026-09-22,honor,400,,256.0,12.0,83900.0,new,Rupture,True,False,
+retail,,2026-09-22,honor,400,,256.0,8.0,74000.0,new,,,False,
+retail,,2026-09-22,honor,400,,256.0,12.0,81000.0,new,,,False,
+retail,489.0,2026-09-22,honor,400,,512.0,12.0,93900.0,new,Rupture,,False,
+retail,,2026-09-22,honor,400,,512.0,12.0,92000.0,new,,,False,
+retail,,2026-09-22,honor,400,,512.0,8.0,80000.0,new,,,False,
+retail,,2026-09-22,honor,400 Lite,compact,256.0,8.0,55000.0,new,,,False,
+retail,327.0,2026-09-22,honor,400 PRO,pro,512.0,12.0,138000.0,new,Disponible,,False,
+retail,,2026-09-22,honor,400 pro,pro,512.0,12.0,132000.0,new,,,False,
+retail,,2026-09-22,honor,500 Pro,pro,256.0,12.0,130000.0,new,,,False,
+retail,427.0,2026-09-22,honor,500 Pro,pro,512.0,12.0,138900.0,new,Rupture,,False,
+retail,,2026-09-22,honor,500 Pro,pro,512.0,12.0,140000.0,new,,,False,
+retail,,2026-09-22,honor,600 Lite,compact,256.0,8.0,69000.0,new,,,False,
+retail,514.0,2026-09-22,honor,600 PRO,pro,512.0,12.0,182000.0,new,Disponible,,False,
+retail,572.0,2026-09-22,honor,600 Pro,pro,256.0,12.0,182000.0,new,Disponible,,False,
+retail,,2026-09-22,honor,600 Pro,pro,512.0,12.0,183000.0,new,,,False,
+retail,23.0,2026-09-22,honor,70,,256.0,8.0,49900.0,new,Rupture,,False,
+retail,,2026-09-22,honor,70,,256.0,8.0,72000.0,new,,,False,
+retail,12911895.0,2026-09-22,honor,70,,,,72000.0,new,Neuf,,False,
+retail,,2026-09-22,honor,70 Lite 4,compact,128.0,4.0,27000.0,new,,,False,
+retail,19070286.0,2026-09-22,honor,70 Lite 4,compact,128.0,,27000.0,new,Neuf,,False,
+retail,12.0,2026-09-22,honor,90,,256.0,8.0,59900.0,new,Rupture,,False,2023.0
+retail,24.0,2026-09-22,honor,90 LITE,compact,256.0,8.0,48900.0,new,Rupture,,False,2023.0
+retail,165.0,2026-09-22,honor,MAGIC 5 LITE,compact,,,52900.0,new,Rupture,,False,2023.0
+retail,460.0,2026-09-22,honor,MAGIC 5 PRO,pro,512.0,12.0,107900.0,new,Rupture,,False,2023.0
+retail,104.0,2026-09-22,honor,MAGIC 6 Lite,compact,256.0,8.0,58900.0,new,Rupture,,False,2024.0
+retail,557.0,2026-09-22,honor,MAGIC 7 LITE,compact,256.0,8.0,69900.0,new,Disponible,,False,2024.0
+retail,540.0,2026-09-22,honor,MAGIC 8 LITE,compact,512.0,8.0,76900.0,new,Rupture,,False,
+retail,437.0,2026-09-22,honor,MAGIC 8 PRO,pro,512.0,12.0,239000.0,new,Disponible,,False,
+retail,473.0,2026-09-22,honor,MAGIC 8 PRO 1T,pro,16.0,,264900.0,new,Rupture,,False,
+retail,130.0,2026-09-22,honor,Magic 6 Pro,pro,512.0,12.0,172900.0,new,Rupture,,False,2024.0
+retail,199.0,2026-09-22,honor,Magic 7 Pro 12 512,pro,,,189900.0,new,Rupture,,False,
+retail,,2026-09-22,honor,Magic 7 pro,pro,256.0,12.0,,used,,,False,2024.0
+retail,19971373.0,2026-09-22,honor,Magic 7 pro,pro,256.0,12.0,132000.0,used,Occasion,,False,2024.0
+retail,,2026-09-22,honor,Magic 7 pro,pro,512.0,16.0,157000.0,new,,,False,2024.0
+retail,407.0,2026-09-22,honor,Magic 8 Pro,pro,16.0,,219000.0,new,Rupture,,False,
+retail,402.0,2026-09-22,honor,Magic 8 Pro CE,pro,512.0,12.0,219000.0,new,Rupture,,False,
+retail,,2026-09-22,honor,Magic4 Pro,pro,256.0,8.0,,used,,,False,
+retail,16019547.0,2026-09-22,honor,Magic4 Pro,pro,256.0,8.0,55000.0,used,Occasion,,False,
+retail,,2026-09-22,honor,Magic5 Pro,pro,256.0,12.0,,used,,,False,2023.0
+retail,,2026-09-22,honor,Magic5 Pro,pro,256.0,8.0,,used,,,False,2023.0
+retail,14774950.0,2026-09-22,honor,Magic5 Pro,pro,256.0,12.0,77000.0,used,Occasion,,False,2023.0
+retail,14774968.0,2026-09-22,honor,Magic5 Pro,pro,256.0,8.0,75000.0,used,Occasion,,False,2023.0
+retail,,2026-09-22,honor,Magic5 Pro,pro,512.0,16.0,,used,,,False,2023.0
+retail,14774976.0,2026-09-22,honor,Magic5 Pro,pro,512.0,16.0,78000.0,used,Occasion,,False,2023.0
+retail,,2026-09-22,honor,Magic6 Pro,pro,256.0,12.0,,used,,,False,2024.0
+retail,,2026-09-22,honor,Magic6 Pro,pro,256.0,16.0,,used,,,False,2024.0
+retail,17616241.0,2026-09-22,honor,Magic6 Pro,pro,256.0,12.0,97000.0,used,Occasion,,False,2024.0
+retail,26725904.0,2026-09-22,honor,Magic6 Pro,pro,256.0,16.0,95900.0,used,Occasion,,False,2024.0
+retail,26725952.0,2026-09-22,honor,Magic6 Pro,pro,256.0,12.0,,,,,False,2024.0
+retail,,2026-09-22,honor,Magic6 Pro,pro,512.0,12.0,,used,,,False,2024.0
+retail,,2026-09-22,honor,Magic6 Pro,pro,512.0,16.0,,used,,,False,2024.0
+retail,17616237.0,2026-09-22,honor,Magic6 Pro,pro,512.0,12.0,102000.0,used,Occasion,,False,2024.0
+retail,17616240.0,2026-09-22,honor,Magic6 Pro,pro,512.0,16.0,105000.0,used,Occasion,,False,2024.0
+retail,,2026-09-22,honor,Magic7,,256.0,12.0,119000.0,new,,,False,2024.0
+retail,,2026-09-22,honor,Magic7 Lite,compact,512.0,8.0,61000.0,new,,,False,2024.0
+retail,550.0,2026-09-22,honor,Magic8 Lite,compact,256.0,8.0,69900.0,new,Rupture,,False,
+retail,,2026-09-22,honor,Magic8 Lite,compact,512.0,8.0,75000.0,new,,,False,
+retail,,2026-09-22,honor,Magic8 Pro,pro,512.0,12.0,221000.0,new,,,False,
+retail,,2026-09-22,honor,Magic8 Pro,pro,512.0,16.0,235000.0,new,,,False,
+retail,462.0,2026-09-22,honor,PAD 10,,256.0,8.0,81900.0,new,Rupture,,False,
+retail,449.0,2026-09-22,honor,POWER2,,256.0,12.0,115000.0,new,Disponible,,False,
+retail,,2026-09-22,honor,Power 2,,256.0,12.0,105000.0,new,,,False,
+retail,569.0,2026-09-22,honor,Power 2,,512.0,12.0,125000.0,new,Disponible,,False,
+retail,,2026-09-22,honor,Reno12 F,,512.0,12.0,57000.0,new,,True,False,
+retail,570.0,2026-09-22,honor,Robot Phone,,512.0,12.0,459000.0,new,Disponible,,False,
+retail,447.0,2026-09-22,honor,WIN,,256.0,12.0,148900.0,new,Rupture,,False,
+retail,444.0,2026-09-22,honor,WIN,,512.0,,175000.0,new,Rupture,,False,
+retail,451.0,2026-09-22,honor,WIN RT,,256.0,12.0,139000.0,new,Disponible,,False,
+retail,452.0,2026-09-22,honor,WIN RT,,512.0,12.0,129900.0,new,Rupture,,False,
+retail,,2026-09-22,honor,Win,,256.0,12.0,146000.0,new,,,False,
+retail,,2026-09-22,honor,Win,,512.0,12.0,165000.0,new,,,False,
+retail,,2026-09-22,honor,Win RT,,256.0,12.0,125000.0,new,,,False,
+retail,,2026-09-22,honor,Win RT,,512.0,12.0,137000.0,new,,,False,
+retail,,2026-09-22,honor,X5 Plus,plus,64.0,4.0,22000.0,new,,,False,
+retail,,2026-09-22,honor,X50,,256.0,8.0,,used,,,False,
+retail,46126706.0,2026-09-22,honor,X50,,256.0,8.0,43000.0,used,Occasion,,False,
+retail,113.0,2026-09-22,honor,X5C PLUS,plus,64.0,4.0,25900.0,new,Rupture,,False,
+retail,219.0,2026-09-22,honor,X6a,,128.0,4.0,26900.0,new,Rupture,,False,
+retail,,2026-09-22,honor,X6b,,128.0,6.0,30000.0,new,,,False,
+retail,,2026-09-22,honor,X6b,,256.0,6.0,,new,,,False,
+retail,20645842.0,2026-09-22,honor,X6b,,256.0,6.0,,new,Neuf | Facilité Neuf,,False,
+retail,,2026-09-22,honor,X6c,,128.0,6.0,36000.0,new,,,False,
+retail,408.0,2026-09-22,honor,X70,,128.0,8.0,59900.0,new,Rupture,,False,
+retail,,2026-09-22,honor,X70,,512.0,12.0,73000.0,new,,,False,
+retail,82.0,2026-09-22,honor,X7B,,256.0,8.0,42900.0,new,Rupture,,False,
+retail,523.0,2026-09-22,honor,X7E,,128.0,6.0,45900.0,new,Disponible,,False,
+retail,,2026-09-22,honor,X7b,,256.0,8.0,43000.0,new,,,False,
+retail,44712707.0,2026-09-22,honor,X7c,,128.0,8.0,,,,,False,
+retail,224.0,2026-09-22,honor,X7c,,256.0,8.0,39900.0,new,Rupture,,False,
+retail,,2026-09-22,honor,X7c,,256.0,8.0,37000.0,new,,,False,
+retail,46066216.0,2026-09-22,honor,X7c,,256.0,4.0,,,,,False,
+retail,46066138.0,2026-09-22,honor,X7c,,512.0,8.0,,,,,False,
+retail,470.0,2026-09-22,honor,X7d,,256.0,8.0,41900.0,new,Rupture,,False,
+retail,,2026-09-22,honor,X7d,,256.0,8.0,55000.0,new,,True,False,
+retail,551.0,2026-09-22,honor,X80 Pro Max,promax,128.0,8.0,80900.0,new,Disponible,,False,
+retail,302.0,2026-09-22,honor,X8C,,512.0,8.0,51900.0,new,Rupture,,False,
+retail,531.0,2026-09-22,honor,X8D,,256.0,8.0,51900.0,new,Rupture,,False,
+retail,,2026-09-22,honor,X8b,,512.0,8.0,52000.0,new,,,False,
+retail,133.0,2026-09-22,honor,X8b,,,,39900.0,new,Rupture,,False,
+retail,,2026-09-22,honor,X8d,,128.0,8.0,51000.0,new,,,False,
+retail,,2026-09-22,honor,X8d,,256.0,8.0,52000.0,new,,,False,
+retail,81.0,2026-09-22,honor,X9A,,,,59900.0,new,Rupture,,False,
+retail,243.0,2026-09-22,honor,X9B,,512.0,12.0,75500.0,new,Rupture,,False,
+retail,73.0,2026-09-22,honor,X9B,,,,69900.0,new,Rupture,,False,
+retail,287.0,2026-09-22,honor,X9C,,512.0,12.0,73900.0,new,Rupture,,False,
+retail,397.0,2026-09-22,honor,X9D,,256.0,12.0,88000.0,new,Disponible,,False,
+retail,432.0,2026-09-22,honor,X9D,,512.0,12.0,84900.0,new,Rupture,,False,
+retail,,2026-09-22,honor,X9b,,256.0,12.0,60000.0,new,,,False,
+retail,201.0,2026-09-22,honor,X9c,,256.0,12.0,64900.0,new,Rupture,,False,
+retail,,2026-09-22,honor,X9c,,256.0,12.0,66000.0,new,,,False,
+retail,,2026-09-22,honor,X9d,,256.0,12.0,81000.0,new,,,False,
+retail,,2026-09-22,honor,X9d,,512.0,12.0,87000.0,new,,,False,
+retail,272.0,2026-09-22,honor,magic 7 pro,pro,1024.0,16.0,219000.0,new,Rupture,,False,2024.0
+retail,535.0,2026-09-22,huawei,Mate 80 Pro,pro,16.0,,179000.0,new,Disponible,,False,
+retail,,2026-09-22,huawei,Mate 80 Pro,pro,512.0,16.0,196000.0,new,,,False,
+retail,64.0,2026-09-22,huawei,P60 PRO,pro,256.0,12.0,169000.0,new,Rupture,,False,
+retail,354.0,2026-09-22,huawei,Pura 80 Ultra CE,ultra,16.0,,239900.0,new,Rupture,,False,
+retail,568.0,2026-09-22,huawei,Pura 90s Pro Max,promax,512.0,12.0,205000.0,new,Disponible,,False,
+retail,139.0,2026-09-22,infinix,GT 20 Pro,pro,,,80000.0,new,Rupture,,False,
+retail,,2026-09-22,infinix,GT 30 Pro,pro,256.0,12.0,65000.0,new,,,False,
+retail,,2026-09-22,infinix,GT 30 Pro,pro,256.0,8.0,65000.0,new,,,False,
+retail,377.0,2026-09-22,infinix,GT30 Pro,pro,256.0,12.0,65900.0,new,Disponible,,False,
+retail,60.0,2026-09-22,infinix,HOT 11,,64.0,4.0,28900.0,new,Rupture,,False,
+retail,66.0,2026-09-22,infinix,HOT 20,,,,28900.0,new,Rupture,,False,
+retail,65.0,2026-09-22,infinix,HOT 20I,,128.0,4.0,24500.0,new,Rupture,,False,
+retail,16.0,2026-09-22,infinix,HOT 30,,128.0,8.0,29900.0,new,Rupture,,False,2023.0
+retail,67.0,2026-09-22,infinix,HOT 30I,,128.0,8.0,26900.0,new,Rupture,,False,
+retail,122.0,2026-09-22,infinix,HOT 40I,,,,25500.0,new,Rupture,,False,
+retail,279.0,2026-09-22,infinix,HOT 50,,128.0,8.0,31000.0,new,Rupture,,False,2024.0
+retail,280.0,2026-09-22,infinix,HOT 50,,256.0,8.0,32900.0,new,Rupture,,False,2024.0
+retail,394.0,2026-09-22,infinix,HOT 50I,,256.0,8.0,26900.0,new,Disponible,,False,
+retail,539.0,2026-09-22,infinix,HOT 60I,,256.0,8.0,32500.0,new,Disponible,,False,
+retail,,2026-09-22,infinix,Hot 40 Pro,pro,256.0,8.0,36000.0,new,,,False,2023.0
+retail,180.0,2026-09-22,infinix,Hot 40 Pro,pro,,,37100.0,new,Rupture,,False,2023.0
+retail,,2026-09-22,infinix,Hot 40i,,128.0,8.0,25000.0,new,,,False,
+retail,,2026-09-22,infinix,Hot 40i,,128.0,4.0,23000.0,new,,,False,
+retail,,2026-09-22,infinix,Hot 50,,256.0,8.0,30000.0,new,,,False,2024.0
+retail,46090972.0,2026-09-22,infinix,Hot 50,,256.0,6.0,,,,,False,2024.0
+retail,250.0,2026-09-22,infinix,Hot 50 Pro+,promax,,,39900.0,new,Rupture,,False,2024.0
+retail,259.0,2026-09-22,infinix,Hot 50i,,128.0,6.0,23900.0,new,Rupture,,False,
+retail,,2026-09-22,infinix,Hot 50i,,128.0,4.0,23000.0,new,,,False,
+retail,36604766.0,2026-09-22,infinix,Hot 50i,,128.0,6.0,,,,,False,
+retail,,2026-09-22,infinix,Hot 50i,,256.0,8.0,26000.0,new,,,False,
+retail,,2026-09-22,infinix,Hot 50i,,256.0,6.0,28000.0,new,,,False,
+retail,36604524.0,2026-09-22,infinix,Hot 50i,,256.0,4.0,,,,,False,
+retail,476.0,2026-09-22,infinix,Hot 60 Pro,pro,256.0,8.0,38900.0,new,Disponible,,False,
+retail,,2026-09-22,infinix,Hot 60 Pro,pro,256.0,8.0,38000.0,new,,,False,
+retail,477.0,2026-09-22,infinix,Hot 60 Pro+,promax,256.0,8.0,42500.0,new,Disponible,,False,
+retail,,2026-09-22,infinix,Hot 60 Pro+,promax,256.0,8.0,44000.0,new,,,False,
+retail,426.0,2026-09-22,infinix,Hot 60i,,128.0,6.0,25900.0,new,Rupture,,False,
+retail,,2026-09-22,infinix,Hot 60i,,128.0,6.0,29000.0,new,,,False,
+retail,,2026-09-22,infinix,Hot 60i,,128.0,4.0,25000.0,new,,,False,
+retail,,2026-09-22,infinix,Hot 60i,,256.0,8.0,32000.0,new,,,False,
+retail,42.0,2026-09-22,infinix,NOTE 11,,128.0,,36900.0,new,Rupture,,False,
+retail,381.0,2026-09-22,infinix,NOTE 50 PRO,pro,256.0,8.0,55500.0,new,Rupture,,False,
+retail,380.0,2026-09-22,infinix,NOTE 50S,,256.0,8.0,48900.0,new,Disponible,True,False,
+retail,,2026-09-22,infinix,Note 40,,256.0,8.0,46000.0,new,,,False,2024.0
+retail,123.0,2026-09-22,infinix,Note 40 Pro RAM ( ) 256 MEMOIR,pro,,24.0,57900.0,new,Rupture,,False,
+retail,196.0,2026-09-22,infinix,Note 40 RAM (8+8 ) 256 MEMOIR,,16.0,16.0,46900.0,new,Rupture,,False,
+retail,,2026-09-22,infinix,Note 50 Pro,pro,256.0,12.0,54000.0,new,,,False,
+retail,,2026-09-22,infinix,Note 50s,,256.0,8.0,49000.0,new,,True,False,
+retail,538.0,2026-09-22,infinix,SMART 10,,256.0,4.0,23900.0,new,Disponible,,False,
+retail,57.0,2026-09-22,infinix,SMART 7,,64.0,4.0,19900.0,new,Rupture,,False,
+retail,58.0,2026-09-22,infinix,SMART 7HD,,64.0,4.0,18900.0,new,Rupture,,False,
+retail,433.0,2026-09-22,infinix,Smart 10,,64.0,3.0,20400.0,new,Disponible,,False,
+retail,,2026-09-22,infinix,Smart 10,,64.0,3.0,21000.0,new,,,False,
+retail,,2026-09-22,infinix,Smart 10,,64.0,4.0,20000.0,new,,,False,
+retail,507.0,2026-09-22,infinix,Smart 10,,128.0,4.0,22900.0,new,Disponible,,False,
+retail,,2026-09-22,infinix,Smart 10,,128.0,4.0,23000.0,new,,,False,
+retail,,2026-09-22,infinix,Smart 10,,256.0,8.0,24000.0,new,,,False,
+retail,,2026-09-22,infinix,Smart 10 HD,,64.0,4.0,20000.0,new,,,False,
+retail,,2026-09-22,infinix,Smart 8,,64.0,4.0,17000.0,new,,,False,2023.0
+retail,129.0,2026-09-22,infinix,Smart 8 4 64,,,,21900.0,new,Rupture,,False,
+retail,286.0,2026-09-22,infinix,Smart 9,,64.0,3.0,19900.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,infinix,Smart 9,,128.0,6.0,20000.0,new,,,False,2024.0
+retail,,2026-09-22,infinix,Smart 9,,128.0,4.0,21000.0,new,,,False,2024.0
+retail,251.0,2026-09-22,infinix,Smart 9 ( / ),,128.0,4.0,21900.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,itel,A100C,,64.0,2.0,14000.0,new,,,False,
+retail,231.0,2026-09-22,itel,A50,,64.0,4.0,15500.0,new,Disponible,,False,
+retail,,2026-09-22,itel,A50,,64.0,4.0,16000.0,new,,,False,
+retail,47055273.0,2026-09-22,itel,A50,,64.0,3.0,,,,,False,
+retail,47055281.0,2026-09-22,itel,A50,,64.0,2.0,,,,,False,
+retail,,2026-09-22,itel,A50,,128.0,3.0,17000.0,new,,,False,
+retail,84.0,2026-09-22,itel,A60s,,128.0,8.0,17700.0,new,Rupture,,False,
+retail,,2026-09-22,itel,A70,,64.0,4.0,16000.0,new,,,False,
+retail,107.0,2026-09-22,itel,A70,,128.0,,19900.0,new,Rupture,,False,
+retail,,2026-09-22,itel,A70,,256.0,4.0,21000.0,new,,,False,
+retail,,2026-09-22,itel,A70,,256.0,8.0,19000.0,new,,,False,
+retail,271.0,2026-09-22,itel,A80,,128.0,4.0,19900.0,new,Rupture,,False,
+retail,391.0,2026-09-22,itel,CITY 100,,256.0,4.0,21900.0,new,Rupture,,False,
+retail,192.0,2026-09-22,itel,P55 RAM MEMOIR,,256.0,24.0,24900.0,new,Rupture,,False,
+retail,245.0,2026-09-22,nothing,Asus ROG Phone 9,,,,179900.0,new,Rupture,,False,
+retail,580.0,2026-09-22,nothing,Oppo Find X9 Pro,pro,512.0,12.0,215000.0,new,Disponible,,False,
+retail,145.0,2026-09-22,nothing,Phone (2a),,,,59900.0,new,Rupture,,False,
+retail,439.0,2026-09-22,nothing,Phone (3a),,128.0,8.0,71900.0,new,Rupture,,False,
+retail,,2026-09-22,nubia red magic,7,,256.0,16.0,145000.0,new,,,False,
+retail,,2026-09-22,nubia red magic,8S Pro,pro,512.0,16.0,189000.0,new,,,False,
+retail,347.0,2026-09-22,oneplus,11,,256.0,12.0,89900.0,new,Rupture,,False,
+retail,254.0,2026-09-22,oneplus,11,,256.0,16.0,99900.0,new,Rupture,,False,
+retail,,2026-09-22,oneplus,11R,,256.0,16.0,,used,,,False,
+retail,13468736.0,2026-09-22,oneplus,11R,,256.0,16.0,57900.0,used,Occasion,,False,
+retail,116.0,2026-09-22,oneplus,12,,512.0,16.0,139000.0,new,Rupture,,False,
+retail,191.0,2026-09-22,oneplus,12R RAM memoir,,256.0,12.0,119000.0,new,Rupture,,False,
+retail,311.0,2026-09-22,oneplus,13,,16.0,,149900.0,new,Rupture,,False,
+retail,375.0,2026-09-22,oneplus,13,,16.0,,189000.0,new,Rupture,,False,
+retail,322.0,2026-09-22,oneplus,13,,256.0,12.0,139000.0,new,Rupture,,False,
+retail,333.0,2026-09-22,oneplus,13,,1024.0,24.0,189000.0,new,Rupture,,False,
+retail,321.0,2026-09-22,oneplus,13T,,256.0,12.0,129000.0,new,Disponible,,False,
+retail,26725556.0,2026-09-22,oneplus,13T,,256.0,16.0,,,,,False,
+retail,26725579.0,2026-09-22,oneplus,13T,,512.0,12.0,,,,,False,
+retail,26725617.0,2026-09-22,oneplus,13T,,1024.0,16.0,,,,,False,
+retail,454.0,2026-09-22,oneplus,15,,16.0,,229000.0,new,Rupture,,False,
+retail,401.0,2026-09-22,oneplus,15,,256.0,12.0,172000.0,new,Disponible,,False,
+retail,478.0,2026-09-22,oneplus,15,,256.0,12.0,199900.0,new,Rupture,,False,
+retail,,2026-09-22,oneplus,15,,512.0,16.0,225000.0,new,,,False,
+retail,453.0,2026-09-22,oneplus,15R,,512.0,12.0,159000.0,new,Disponible,,False,
+retail,78.0,2026-09-22,oneplus,ACE,,,,72900.0,new,Rupture,,False,
+retail,337.0,2026-09-22,oneplus,ACE 3 PRO,pro,16.0,,84900.0,new,Rupture,,False,
+retail,428.0,2026-09-22,oneplus,ACE 6T,,256.0,12.0,112000.0,new,Disponible,,False,
+retail,207.0,2026-09-22,oneplus,Ace 3,,16.0,,109900.0,new,Rupture,,False,
+retail,266.0,2026-09-22,oneplus,Ace 5,,256.0,12.0,79500.0,new,Rupture,,False,
+retail,,2026-09-22,oneplus,Ace 5,,256.0,12.0,79000.0,new,,,False,
+retail,,2026-09-22,oneplus,Ace 5,,256.0,16.0,82000.0,new,,,False,
+retail,,2026-09-22,oneplus,Ace 5 Pro,pro,256.0,12.0,86000.0,new,,,False,
+retail,343.0,2026-09-22,oneplus,Ace 5 Ultra,ultra,256.0,12.0,85900.0,new,Rupture,,False,
+retail,,2026-09-22,oneplus,Ace 5 Ultra,ultra,256.0,12.0,98000.0,new,,,False,
+retail,411.0,2026-09-22,oneplus,Ace 6,,256.0,12.0,97000.0,new,Rupture,,False,
+retail,,2026-09-22,oneplus,Ace 6,,256.0,12.0,112000.0,new,,,False,
+retail,577.0,2026-09-22,oneplus,Ace 6 Ultra,ultra,256.0,12.0,139000.0,new,Disponible,,False,
+retail,,2026-09-22,oneplus,Ace 6 Ultra,ultra,256.0,12.0,135000.0,new,,,False,
+retail,,2026-09-22,oneplus,Ace 6T,,256.0,12.0,99000.0,new,,,False,
+retail,135.0,2026-09-22,oneplus,OPEN,,,,212000.0,new,Rupture,,False,
+retail,262.0,2026-09-22,oneplus,Pad,,,,85900.0,new,Rupture,,False,
+retail,450.0,2026-09-22,oneplus,TURBO 6,pro,256.0,12.0,95900.0,new,Rupture,,False,
+retail,573.0,2026-09-22,oneplus,Turbo 6V,pro,256.0,8.0,82000.0,new,Disponible,,False,
+retail,,2026-09-22,oneplus,Turbo 6X Pro,pro,128.0,8.0,76000.0,new,,,False,
+retail,119.0,2026-09-22,oneplus,ace 3,,256.0,12.0,86900.0,new,Rupture,,False,
+retail,361.0,2026-09-22,oneplus,ace 5 pro,pro,16.0,,124900.0,new,Rupture,,False,
+retail,274.0,2026-09-22,oneplus,ace 5 pro,pro,256.0,12.0,98900.0,new,Rupture,,False,
+retail,95.0,2026-09-22,oppo,A1 PRO,pro,256.0,8.0,42900.0,new,Rupture,True,False,
+retail,35.0,2026-09-22,oppo,A17,,64.0,4.0,29900.0,new,Rupture,,False,2022.0
+retail,,2026-09-22,oppo,A18,,64.0,4.0,25000.0,new,,,False,2023.0
+retail,,2026-09-22,oppo,A18,,128.0,4.0,27000.0,new,,,False,2023.0
+retail,159.0,2026-09-22,oppo,A18,,,,28900.0,new,Rupture,,False,2023.0
+retail,83.0,2026-09-22,oppo,A2 PRO,pro,256.0,8.0,51900.0,new,Rupture,,False,
+retail,,2026-09-22,oppo,A2M,,128.0,6.0,32000.0,new,,,False,
+retail,,2026-09-22,oppo,A2M,,128.0,4.0,30000.0,new,,,False,
+retail,23118138.0,2026-09-22,oppo,A3,,128.0,4.0,,,,,False,
+retail,,2026-09-22,oppo,A3 (China),,256.0,8.0,50000.0,new,,,False,
+retail,,2026-09-22,oppo,A3 (China),,256.0,12.0,53000.0,new,,,False,
+retail,,2026-09-22,oppo,A3 Pro (China),pro,512.0,12.0,56000.0,new,,,False,
+retail,182.0,2026-09-22,oppo,A3 Pro RAM MEMOIR,pro,256.0,8.0,59900.0,new,Rupture,,False,
+retail,147.0,2026-09-22,oppo,A3 Pro RAM MEMOIR,pro,512.0,12.0,54900.0,new,Rupture,,False,
+retail,,2026-09-22,oppo,A38,,128.0,4.0,31000.0,new,,,False,2023.0
+retail,325.0,2026-09-22,oppo,A3X,,128.0,4.0,32900.0,new,Rupture,,False,
+retail,,2026-09-22,oppo,A3x,,128.0,4.0,30000.0,new,,,False,
+retail,320.0,2026-09-22,oppo,A40,,128.0,6.0,34000.0,new,Disponible,,False,
+retail,,2026-09-22,oppo,A40,,128.0,4.0,31000.0,new,,,False,
+retail,,2026-09-22,oppo,A40m,,256.0,8.0,35000.0,new,,,False,
+retail,,2026-09-22,oppo,A5 Pro,pro,256.0,8.0,46000.0,new,,,False,
+retail,308.0,2026-09-22,oppo,A5 Pro,pro,512.0,12.0,69900.0,new,Rupture,,False,
+retail,80.0,2026-09-22,oppo,A58,,128.0,,38900.0,new,Rupture,,False,2023.0
+retail,,2026-09-22,oppo,A58,,128.0,6.0,25000.0,new,,,False,2023.0
+retail,,2026-09-22,oppo,A58,,256.0,8.0,28000.0,new,,,False,2023.0
+retail,,2026-09-22,oppo,A5i,,128.0,4.0,30000.0,new,,,False,
+retail,32876427.0,2026-09-22,oppo,A5i,,128.0,8.0,,,,,False,
+retail,32876440.0,2026-09-22,oppo,A5i,,256.0,6.0,,,,,False,
+retail,32876458.0,2026-09-22,oppo,A5i,,256.0,8.0,,,,,False,
+retail,,2026-09-22,oppo,A6 Pro,pro,256.0,8.0,55000.0,new,,,False,
+retail,,2026-09-22,oppo,A6 Pro (China),pro,256.0,16.0,60000.0,new,,,False,
+retail,173.0,2026-09-22,oppo,A60,,,,39900.0,new,Rupture,,False,
+retail,,2026-09-22,oppo,A6c,,128.0,4.0,34000.0,new,,,False,
+retail,109.0,2026-09-22,oppo,A78,,128.0,8.0,41900.0,new,Rupture,,False,2023.0
+retail,77.0,2026-09-22,oppo,A78,,256.0,8.0,39900.0,new,Rupture,,False,2023.0
+retail,,2026-09-22,oppo,A78,,256.0,8.0,,used,,,False,2023.0
+retail,14643662.0,2026-09-22,oppo,A78,,256.0,8.0,46900.0,used,Occasion,,False,2023.0
+retail,,2026-09-22,oppo,A79,,128.0,4.0,40000.0,new,,,False,
+retail,392.0,2026-09-22,oppo,FIND X9 PRO,pro,16.0,,209900.0,new,Rupture,,False,
+retail,552.0,2026-09-22,oppo,FIND X9 PRO,pro,256.0,12.0,185900.0,new,Rupture,,False,
+retail,581.0,2026-09-22,oppo,FIND X9 ULTRA,ultra,16.0,,305000.0,new,Disponible,,False,
+retail,26726133.0,2026-09-22,oppo,Find X7 ULTRA,ultra,512.0,16.0,,,,,False,
+retail,128.0,2026-09-22,oppo,Find X7 Ultra,ultra,,,215000.0,new,Rupture,,False,
+retail,260.0,2026-09-22,oppo,Find X8 Pro,pro,512.0,12.0,199900.0,new,Rupture,,False,
+retail,336.0,2026-09-22,oppo,Find X8 Ultra,ultra,16.0,,259000.0,new,Rupture,,False,
+retail,,2026-09-22,oppo,Find X9 Pro,pro,256.0,12.0,185000.0,new,,,False,
+retail,,2026-09-22,oppo,Find X9 Pro,pro,512.0,16.0,202000.0,new,,,False,
+retail,,2026-09-22,oppo,Find X9 Pro,pro,512.0,12.0,184000.0,new,,,False,
+retail,445.0,2026-09-22,oppo,K13 Turbo,pro,256.0,12.0,64900.0,new,Rupture,,False,
+retail,384.0,2026-09-22,oppo,K13 Turbo Pro,pro,256.0,12.0,88000.0,new,Disponible,,False,
+retail,,2026-09-22,oppo,K13 Turbo Pro,pro,256.0,12.0,76000.0,new,,,False,
+retail,,2026-09-22,oppo,K13 Turbo Pro,pro,256.0,16.0,83000.0,new,,,False,
+retail,40376402.0,2026-09-22,oppo,K13 Turbo Pro,pro,256.0,8.0,,,,,False,
+retail,40376247.0,2026-09-22,oppo,K13 Turbo Pro,pro,512.0,12.0,,,,,False,
+retail,,2026-09-22,oppo,K13x,,128.0,6.0,39000.0,new,,True,False,
+retail,,2026-09-22,oppo,K13x,,256.0,8.0,43000.0,new,,True,False,
+retail,72.0,2026-09-22,oppo,RENO 10,,256.0,,65500.0,new,Rupture,True,False,2023.0
+retail,342.0,2026-09-22,oppo,RENO 12,,16.0,,64900.0,new,Rupture,,False,2024.0
+retail,431.0,2026-09-22,oppo,RENO 13,,256.0,12.0,69900.0,new,Rupture,,False,
+retail,488.0,2026-09-22,oppo,RENO 14,,16.0,,83500.0,new,Rupture,,False,
+retail,474.0,2026-09-22,oppo,RENO 14,,256.0,12.0,81900.0,new,Rupture,,False,
+retail,524.0,2026-09-22,oppo,RENO 16,,256.0,12.0,119000.0,new,Disponible,,False,
+retail,53.0,2026-09-22,oppo,RENO 6,,128.0,8.0,59900.0,new,Rupture,True,False,2021.0
+retail,26.0,2026-09-22,oppo,RENO 7,,128.0,8.0,55900.0,new,Rupture,,False,2022.0
+retail,55.0,2026-09-22,oppo,RENO 8 LITE,compact,128.0,8.0,62900.0,new,Rupture,,False,2022.0
+retail,59.0,2026-09-22,oppo,RENO 8T,,256.0,8.0,52900.0,new,Rupture,,False,
+retail,,2026-09-22,oppo,Reno 10,,256.0,8.0,50000.0,new,,,False,2023.0
+retail,151.0,2026-09-22,oppo,Reno 11,,,,66900.0,new,Rupture,,False,2023.0
+retail,172.0,2026-09-22,oppo,Reno 11 pro,pro,,,96900.0,new,Rupture,,False,2023.0
+retail,183.0,2026-09-22,oppo,Reno 12,,16.0,,79900.0,new,Rupture,True,False,2024.0
+retail,152.0,2026-09-22,oppo,Reno 12,,256.0,12.0,61900.0,new,Rupture,,False,2024.0
+retail,215.0,2026-09-22,oppo,Reno 12 F,,256.0,8.0,51900.0,new,Rupture,,False,
+retail,344.0,2026-09-22,oppo,Reno 12 Pro,pro,16.0,,67900.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,oppo,Reno 8 Pro,pro,256.0,8.0,62000.0,new,,,False,2022.0
+retail,,2026-09-22,oppo,Reno11,,256.0,8.0,51000.0,new,,,False,2023.0
+retail,,2026-09-22,oppo,Reno11,,256.0,12.0,49000.0,new,,,False,2023.0
+retail,,2026-09-22,oppo,Reno12,,256.0,12.0,59000.0,new,,,False,2024.0
+retail,,2026-09-22,oppo,Reno12,,256.0,16.0,63000.0,new,,,False,2024.0
+retail,,2026-09-22,oppo,Reno12,,512.0,16.0,66000.0,new,,,False,2024.0
+retail,,2026-09-22,oppo,Reno12 F,,256.0,12.0,49000.0,new,,,False,
+retail,32879919.0,2026-09-22,oppo,Reno12 FS,,256.0,8.0,,,,True,False,
+retail,,2026-09-22,oppo,Reno12 FS,,512.0,12.0,57000.0,new,,True,False,
+retail,,2026-09-22,oppo,Reno14,,256.0,16.0,84000.0,new,,,False,
+retail,,2026-09-22,oppo,Reno14 F,,512.0,12.0,73000.0,new,,True,False,
+retail,,2026-09-22,oppo,Reno14 Pro,pro,256.0,12.0,98000.0,new,,,False,
+retail,,2026-09-22,oppo,Reno15 Pro,pro,256.0,12.0,110000.0,new,,,False,
+retail,,2026-09-22,oppo,Reno16,,256.0,12.0,128000.0,new,,True,False,
+retail,160.0,2026-09-22,oppo,a38,,,,32500.0,new,Rupture,,False,2023.0
+retail,74.0,2026-09-22,realme,10,,256.0,8.0,39900.0,new,Rupture,,False,2022.0
+retail,102.0,2026-09-22,realme,10 Pro+,promax,,,61900.0,new,Rupture,,False,2022.0
+retail,34.0,2026-09-22,realme,11,,256.0,8.0,41900.0,new,Rupture,,False,2023.0
+retail,63.0,2026-09-22,realme,11 PRO +,promax,256.0,12.0,64500.0,new,Rupture,,False,2023.0
+retail,15.0,2026-09-22,realme,11 PRO +,promax,512.0,12.0,77000.0,new,Rupture,,False,2023.0
+retail,324.0,2026-09-22,realme,12,,256.0,8.0,39900.0,new,Rupture,,False,2023.0
+retail,,2026-09-22,realme,12,,256.0,8.0,41000.0,new,,,False,2023.0
+retail,332.0,2026-09-22,realme,12,,512.0,8.0,42900.0,new,Rupture,,False,2023.0
+retail,,2026-09-22,realme,12,,512.0,8.0,43000.0,new,,,False,2023.0
+retail,293.0,2026-09-22,realme,12 PRO PLUS,plus,512.0,12.0,68900.0,new,Rupture,,False,2023.0
+retail,92.0,2026-09-22,realme,12 PRO Plus,plus,256.0,8.0,79900.0,new,Rupture,,False,2023.0
+retail,217.0,2026-09-22,realme,12x,,128.0,6.0,32900.0,new,Rupture,,False,
+retail,,2026-09-22,realme,12x,,128.0,6.0,32000.0,new,,,False,
+retail,,2026-09-22,realme,12x,,256.0,12.0,39000.0,new,,,False,
+retail,,2026-09-22,realme,13,,256.0,8.0,50000.0,new,,,False,2024.0
+retail,385.0,2026-09-22,realme,13 PRO +,promax,256.0,8.0,63900.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,realme,13 PRO PLUS,plus,256.0,12.0,67000.0,new,,True,False,2024.0
+retail,,2026-09-22,realme,13 PRO PLUS,plus,512.0,12.0,73000.0,new,,True,False,2024.0
+retail,237.0,2026-09-22,realme,13 Pro Plus,plus,256.0,8.0,75500.0,new,Rupture,,False,2024.0
+retail,244.0,2026-09-22,realme,13 Pro Plus,plus,256.0,12.0,81900.0,new,Rupture,,False,2024.0
+retail,238.0,2026-09-22,realme,13 Pro Plus,plus,512.0,12.0,69900.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,realme,13 Pro+,promax,256.0,8.0,65000.0,new,,,False,2024.0
+retail,,2026-09-22,realme,13+,,256.0,8.0,,used,,,False,2024.0
+retail,22614143.0,2026-09-22,realme,13+,,256.0,8.0,52000.0,used,Occasion,,False,2024.0
+retail,472.0,2026-09-22,realme,14 PRO PLUS,plus,256.0,8.0,72900.0,new,Rupture,,False,
+retail,,2026-09-22,realme,14 Pro,pro,256.0,8.0,60000.0,new,,,False,
+retail,,2026-09-22,realme,14 Pro,pro,512.0,12.0,56000.0,new,,,False,
+retail,,2026-09-22,realme,14 Pro Plus,plus,256.0,12.0,73000.0,new,,,False,
+retail,575.0,2026-09-22,realme,14T,,256.0,12.0,59900.0,new,Disponible,,False,
+retail,513.0,2026-09-22,realme,14T,,256.0,8.0,49900.0,new,Rupture,,False,
+retail,,2026-09-22,realme,14T,,256.0,12.0,54000.0,new,,,False,
+retail,,2026-09-22,realme,14T,,256.0,8.0,52000.0,new,,,False,
+retail,584.0,2026-09-22,realme,15,,256.0,12.0,74900.0,new,Disponible,,False,
+retail,487.0,2026-09-22,realme,15 PRO,pro,512.0,12.0,92000.0,new,Disponible,,False,
+retail,583.0,2026-09-22,realme,15 Pro,pro,256.0,8.0,83900.0,new,Disponible,,False,
+retail,,2026-09-22,realme,15 Pro,pro,256.0,12.0,75000.0,new,,True,False,
+retail,,2026-09-22,realme,15 Pro,pro,512.0,12.0,88000.0,new,,True,False,
+retail,529.0,2026-09-22,realme,16 PRO +,promax,512.0,12.0,109900.0,new,Rupture,,False,
+retail,108.0,2026-09-22,realme,9 Pro,pro,,,36500.0,new,Rupture,,False,
+retail,28.0,2026-09-22,realme,9I,,64.0,4.0,29900.0,new,Rupture,,False,
+retail,49.0,2026-09-22,realme,C21Y,,64.0,4.0,20901.0,new,Rupture,,False,
+retail,51.0,2026-09-22,realme,C25S,,128.0,,28900.0,new,Rupture,,False,
+retail,61.0,2026-09-22,realme,C25Y,,128.0,,28900.0,new,Rupture,,False,
+retail,174.0,2026-09-22,realme,C51,,128.0,4.0,27900.0,new,Rupture,,False,2023.0
+retail,,2026-09-22,realme,C51,,128.0,4.0,26000.0,new,,,False,2023.0
+retail,,2026-09-22,realme,C51,,256.0,6.0,30000.0,new,,,False,2023.0
+retail,,2026-09-22,realme,C51s,,128.0,6.0,32000.0,new,,,False,
+retail,18655065.0,2026-09-22,realme,C51s,,,,32000.0,new,Neuf,,False,
+retail,30.0,2026-09-22,realme,C53,,128.0,6.0,29900.0,new,Rupture,,False,2023.0
+retail,,2026-09-22,realme,C53,,128.0,6.0,28000.0,new,,,False,2023.0
+retail,216.0,2026-09-22,realme,C53,,256.0,8.0,33900.0,new,Rupture,,False,2023.0
+retail,,2026-09-22,realme,C53,,256.0,8.0,33000.0,new,,,False,2023.0
+retail,29.0,2026-09-22,realme,C55,,256.0,8.0,36900.0,new,Rupture,,False,2023.0
+retail,278.0,2026-09-22,realme,C61,,128.0,6.0,31900.0,new,Rupture,,False,2024.0
+retail,229.0,2026-09-22,realme,C61,,128.0,4.0,29000.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,realme,C61,,128.0,6.0,27000.0,new,,,False,2024.0
+retail,,2026-09-22,realme,C61,,128.0,4.0,26000.0,new,,,False,2024.0
+retail,309.0,2026-09-22,realme,C61,,256.0,6.0,28900.0,new,Rupture,,False,2024.0
+retail,457.0,2026-09-22,realme,C61,,256.0,8.0,31900.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,realme,C61,,256.0,6.0,29000.0,new,,,False,2024.0
+retail,218.0,2026-09-22,realme,C63,,128.0,4.0,33900.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,realme,C63,,128.0,6.0,28000.0,new,,,False,2024.0
+retail,188.0,2026-09-22,realme,C63,,256.0,8.0,36900.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,realme,C63,,256.0,8.0,32000.0,new,,,False,2024.0
+retail,156.0,2026-09-22,realme,C65,,128.0,8.0,35000.0,new,Rupture,,False,
+retail,299.0,2026-09-22,realme,C65,,256.0,8.0,36900.0,new,Rupture,,False,
+retail,,2026-09-22,realme,C65,,256.0,8.0,34000.0,new,,,False,
+retail,187.0,2026-09-22,realme,C67,,128.0,6.0,38900.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,realme,C67,,128.0,8.0,36000.0,new,,,False,2024.0
+retail,101.0,2026-09-22,realme,C67,,256.0,8.0,39900.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,realme,C67,,256.0,8.0,35000.0,new,,,False,2024.0
+retail,528.0,2026-09-22,realme,C71,,128.0,4.0,26900.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,realme,C71,,128.0,6.0,30000.0,new,,,False,2024.0
+retail,,2026-09-22,realme,C71,,128.0,4.0,32000.0,new,,,False,2024.0
+retail,,2026-09-22,realme,C71,,256.0,8.0,32000.0,new,,,False,2024.0
+retail,255.0,2026-09-22,realme,C75,,128.0,8.0,36900.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,realme,C75,,128.0,8.0,36000.0,new,,,False,2024.0
+retail,46064337.0,2026-09-22,realme,C75,,128.0,8.0,,,,,False,2024.0
+retail,46064521.0,2026-09-22,realme,C75,,128.0,6.0,,,,,False,2024.0
+retail,235.0,2026-09-22,realme,C75,,256.0,8.0,36990.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,realme,C75,,256.0,8.0,39000.0,new,,,False,2024.0
+retail,46064384.0,2026-09-22,realme,C75,,512.0,8.0,,,,,False,2024.0
+retail,501.0,2026-09-22,realme,C75X,,256.0,8.0,35900.0,new,Rupture,,False,
+retail,,2026-09-22,realme,C75x,,128.0,6.0,35000.0,new,,,False,
+retail,,2026-09-22,realme,C75x,,128.0,8.0,35000.0,new,,,False,
+retail,,2026-09-22,realme,C75x,,256.0,8.0,38000.0,new,,,False,
+retail,,2026-09-22,realme,C85,,128.0,6.0,38000.0,new,,,False,
+retail,,2026-09-22,realme,C85,,128.0,8.0,37000.0,new,,,False,
+retail,527.0,2026-09-22,realme,C85,,256.0,8.0,45900.0,new,Disponible,,False,
+retail,,2026-09-22,realme,C85,,256.0,8.0,44000.0,new,,,False,
+retail,553.0,2026-09-22,realme,C85 PRO,pro,128.0,8.0,45900.0,new,Rupture,,False,
+retail,,2026-09-22,realme,C85 Pro,pro,128.0,8.0,45000.0,new,,,False,
+retail,,2026-09-22,realme,C85 Pro,pro,128.0,6.0,44000.0,new,,,False,
+retail,558.0,2026-09-22,realme,C85 Pro,pro,256.0,8.0,52000.0,new,Disponible,,False,
+retail,,2026-09-22,realme,C85 Pro,pro,256.0,8.0,48000.0,new,,,False,
+retail,,2026-09-22,realme,GT 7 Pro,pro,256.0,12.0,97000.0,new,,,False,
+retail,,2026-09-22,realme,GT 8 Pro,pro,256.0,12.0,139000.0,new,,,False,
+retail,39.0,2026-09-22,realme,GT NEO 3 150W,,256.0,12.0,69900.0,new,Rupture,,False,
+retail,166.0,2026-09-22,realme,GT NEO 6,,256.0,12.0,79900.0,new,Rupture,,False,
+retail,126.0,2026-09-22,realme,GT Neo 5 SE,,,,65900.0,new,Rupture,,False,
+retail,132.0,2026-09-22,realme,GT Neo 6 SE,,256.0,12.0,67900.0,new,Rupture,,False,
+retail,194.0,2026-09-22,realme,GT Neo 6 SE RAM,,16.0,16.0,71900.0,new,Rupture,,False,
+retail,9.0,2026-09-22,realme,GT néo 5 150w,,,,78900.0,new,Rupture,,False,
+retail,2.0,2026-09-22,realme,GT3 240w,,,,119000.0,new,Rupture,,False,
+retail,118.0,2026-09-22,realme,GT5 240W,,1024.0,24.0,115000.0,new,Rupture,,False,
+retail,121.0,2026-09-22,realme,GT5 pro,pro,,,125900.0,new,Rupture,,False,
+retail,348.0,2026-09-22,realme,GT6,,16.0,,84900.0,new,Rupture,,False,
+retail,175.0,2026-09-22,realme,GT6,,16.0,,136000.0,new,Rupture,,False,
+retail,157.0,2026-09-22,realme,GT6,,,,109000.0,new,Rupture,,False,
+retail,226.0,2026-09-22,realme,GT6 (China),,256.0,12.0,79900.0,new,Rupture,,False,
+retail,186.0,2026-09-22,realme,GT6T,,256.0,8.0,89900.0,new,Rupture,,False,
+retail,503.0,2026-09-22,realme,GT7,,256.0,12.0,92900.0,new,Rupture,,False,
+retail,313.0,2026-09-22,realme,GT7 Pro,pro,16.0,,132900.0,new,Rupture,,False,
+retail,234.0,2026-09-22,realme,GT7 Pro,pro,256.0,12.0,115900.0,new,Rupture,,False,
+retail,403.0,2026-09-22,realme,GT8 Pro,pro,256.0,12.0,134900.0,new,Rupture,,False,
+retail,18.0,2026-09-22,realme,NARZO 50,,128.0,,32900.0,new,Rupture,,False,
+retail,125.0,2026-09-22,realme,NARZO 70 PRO,pro,,,53900.0,new,Rupture,,False,
+retail,288.0,2026-09-22,realme,NEO 7 SE,,256.0,12.0,69900.0,new,Rupture,,False,
+retail,471.0,2026-09-22,realme,NEO 8,,256.0,12.0,109000.0,new,Rupture,,False,
+retail,537.0,2026-09-22,realme,NOTE 60,,64.0,3.0,19900.0,new,Rupture,,False,
+retail,276.0,2026-09-22,realme,NOTE 60,,128.0,4.0,26900.0,new,Rupture,,False,
+retail,485.0,2026-09-22,realme,NOTE 60X,,128.0,4.0,27900.0,new,Disponible,,False,
+retail,,2026-09-22,realme,NOTE 60x,,64.0,3.0,22000.0,new,,,False,
+retail,45677512.0,2026-09-22,realme,NOTE 60x,,64.0,4.0,,,,,False,
+retail,,2026-09-22,realme,NOTE 60x,,128.0,4.0,24000.0,new,,,False,
+retail,242.0,2026-09-22,realme,Neo 7,,256.0,12.0,74900.0,new,Rupture,,False,
+retail,455.0,2026-09-22,realme,Neo7 Turbo,pro,256.0,12.0,66900.0,new,Rupture,,False,
+retail,,2026-09-22,realme,Neo7 Turbo,pro,256.0,16.0,66000.0,new,,,False,
+retail,230.0,2026-09-22,realme,Note 50,,64.0,3.0,22900.0,new,Rupture,,False,
+retail,,2026-09-22,realme,Note 50,,64.0,3.0,20000.0,new,,,False,
+retail,,2026-09-22,realme,Note 50,,128.0,4.0,24000.0,new,,,False,
+retail,154.0,2026-09-22,realme,Note 50 4 128,,,,24900.0,new,Rupture,,False,
+retail,,2026-09-22,realme,Note 60,,64.0,3.0,27000.0,new,,,False,
+retail,,2026-09-22,realme,Note 60,,128.0,4.0,24000.0,new,,,False,
+retail,45678270.0,2026-09-22,realme,Note 60,,128.0,8.0,,,,,False,
+retail,45678072.0,2026-09-22,realme,Note 60,,256.0,4.0,,,,,False,
+retail,45678344.0,2026-09-22,realme,Note 60,,256.0,8.0,,,,,False,
+retail,512.0,2026-09-22,realme,Note 70,,128.0,4.0,25500.0,new,Rupture,,False,
+retail,,2026-09-22,realme,Note 70,,128.0,4.0,30000.0,new,,,False,
+retail,,2026-09-22,realme,P3,,256.0,8.0,53000.0,new,,True,False,
+retail,249.0,2026-09-22,realme,Xiaomi Poco X7 Pro,pro,256.0,12.0,82900.0,new,Rupture,,False,
+retail,105.0,2026-09-22,samsung,A05,,64.0,4.0,24500.0,new,Rupture,,False,2023.0
+retail,,2026-09-22,samsung,A05,,64.0,4.0,22000.0,new,,,False,2023.0
+retail,,2026-09-22,samsung,A05s,,64.0,4.0,28000.0,new,,,False,
+retail,,2026-09-22,samsung,A05s,,128.0,4.0,31000.0,new,,,False,
+retail,,2026-09-22,samsung,A05s,,128.0,6.0,32000.0,new,,,False,
+retail,,2026-09-22,samsung,A06,,64.0,4.0,26000.0,new,,,False,2024.0
+retail,,2026-09-22,samsung,A06,,128.0,6.0,29000.0,new,,,False,2024.0
+retail,21.0,2026-09-22,samsung,A14,,64.0,4.0,28500.0,new,Rupture,,False,2023.0
+retail,,2026-09-22,samsung,A15,,128.0,4.0,36000.0,new,,,False,2023.0
+retail,,2026-09-22,samsung,A15,,256.0,8.0,45000.0,new,,,False,2023.0
+retail,103.0,2026-09-22,samsung,A15 RAM MEMOIR,,128.0,4.0,36900.0,new,Rupture,,False,
+retail,178.0,2026-09-22,samsung,A15 RAM MEMOIR,,128.0,6.0,38900.0,new,Rupture,,False,
+retail,32.0,2026-09-22,samsung,A24,,128.0,6.0,38900.0,new,Rupture,,False,2023.0
+retail,22.0,2026-09-22,samsung,A34,,128.0,8.0,49900.0,new,Rupture,,False,
+retail,,2026-09-22,samsung,A35,,128.0,8.0,54000.0,new,,,False,2024.0
+retail,40.0,2026-09-22,samsung,A54,,128.0,8.0,62901.0,new,Rupture,True,False,2023.0
+retail,,2026-09-22,samsung,A55,,128.0,8.0,71000.0,new,,,False,2024.0
+retail,,2026-09-22,samsung,A55,,256.0,8.0,59000.0,new,,,False,2024.0
+retail,,2026-09-22,samsung,F05,,64.0,4.0,22000.0,new,,,False,
+retail,43.0,2026-09-22,samsung,F13,,64.0,4.0,25900.0,new,Rupture,,False,
+retail,,2026-09-22,samsung,F34,,128.0,6.0,52000.0,new,,,False,
+retail,33.0,2026-09-22,samsung,F54,,256.0,8.0,59900.0,new,Rupture,,False,
+retail,,2026-09-22,samsung,F55,,256.0,12.0,57000.0,new,,,False,
+retail,340.0,2026-09-22,samsung,GALAXY A06,,128.0,6.0,30500.0,new,Rupture,True,False,2024.0
+retail,565.0,2026-09-22,samsung,GALAXY A17,,128.0,4.0,46900.0,new,Disponible,True,False,
+retail,328.0,2026-09-22,samsung,GALAXY A36,,128.0,8.0,59900.0,new,Rupture,,False,
+retail,543.0,2026-09-22,samsung,GALAXY A37,,128.0,6.0,64900.0,new,Rupture,True,False,
+retail,307.0,2026-09-22,samsung,GALAXY M05,,64.0,4.0,24500.0,new,Rupture,,False,
+retail,351.0,2026-09-22,samsung,GALAXY M16,,128.0,4.0,34900.0,new,Rupture,,False,
+retail,352.0,2026-09-22,samsung,GALAXY M16,,128.0,6.0,38500.0,new,Rupture,,False,
+retail,465.0,2026-09-22,samsung,GALAXY M36,,128.0,6.0,47000.0,new,Rupture,True,False,
+retail,414.0,2026-09-22,samsung,GALAXY S24,,128.0,8.0,109900.0,new,Rupture,,False,2024.0
+retail,358.0,2026-09-22,samsung,GALAXY S25,,256.0,12.0,148900.0,new,Rupture,,False,2025.0
+retail,479.0,2026-09-22,samsung,GALAXY S26 ULTRA,ultra,256.0,12.0,219000.0,new,Rupture,,False,2026.0
+retail,415.0,2026-09-22,samsung,GALAXY Z FLIP 6,,256.0,12.0,134000.0,new,Rupture,,False,2020.0
+retail,285.0,2026-09-22,samsung,Galaxy A05S,,128.0,6.0,29900.0,new,Rupture,,False,
+retail,221.0,2026-09-22,samsung,Galaxy A06,,64.0,4.0,25500.0,new,Rupture,,False,2024.0
+retail,306.0,2026-09-22,samsung,Galaxy A06,,128.0,4.0,26500.0,new,Rupture,,False,2024.0
+retail,404.0,2026-09-22,samsung,Galaxy A07,,64.0,4.0,25900.0,new,Rupture,,False,
+retail,,2026-09-22,samsung,Galaxy A07,,64.0,4.0,29000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy A07,,64.0,4.0,36000.0,new,,True,False,
+retail,,2026-09-22,samsung,Galaxy A07,,128.0,4.0,34000.0,new,,,False,
+retail,222.0,2026-09-22,samsung,Galaxy A16,,128.0,4.0,38500.0,new,Disponible,,False,2024.0
+retail,282.0,2026-09-22,samsung,Galaxy A16,,128.0,6.0,35900.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,samsung,Galaxy A16,,128.0,4.0,33000.0,new,,True,False,2024.0
+retail,,2026-09-22,samsung,Galaxy A16,,128.0,6.0,39000.0,new,,True,False,2024.0
+retail,,2026-09-22,samsung,Galaxy A16,,128.0,8.0,40000.0,new,,True,False,2024.0
+retail,,2026-09-22,samsung,Galaxy A16,,128.0,4.0,36000.0,new,,,False,2024.0
+retail,26725298.0,2026-09-22,samsung,Galaxy A16,,128.0,8.0,,,,,False,2024.0
+retail,,2026-09-22,samsung,Galaxy A16,,256.0,8.0,37000.0,new,,True,False,2024.0
+retail,26725167.0,2026-09-22,samsung,Galaxy A16,,256.0,6.0,,,,,False,2024.0
+retail,26725255.0,2026-09-22,samsung,Galaxy A16,,256.0,4.0,,,,,False,2024.0
+retail,47058716.0,2026-09-22,samsung,Galaxy A16,,256.0,6.0,,,,True,False,2024.0
+retail,410.0,2026-09-22,samsung,Galaxy A17,,128.0,4.0,42000.0,new,Disponible,,False,
+retail,416.0,2026-09-22,samsung,Galaxy A17,,128.0,6.0,41900.0,new,Rupture,,False,
+retail,,2026-09-22,samsung,Galaxy A17,,128.0,4.0,40000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy A17,,128.0,4.0,47000.0,new,,True,False,
+retail,,2026-09-22,samsung,Galaxy A17,,128.0,6.0,48000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy A17,,128.0,6.0,43000.0,new,,True,False,
+retail,,2026-09-22,samsung,Galaxy A17,,256.0,8.0,48000.0,new,,True,False,
+retail,,2026-09-22,samsung,Galaxy A25,,128.0,8.0,50000.0,new,,,False,2023.0
+retail,,2026-09-22,samsung,Galaxy A25,,128.0,6.0,44000.0,new,,,False,2023.0
+retail,,2026-09-22,samsung,Galaxy A25,,256.0,8.0,53000.0,new,,,False,2023.0
+retail,202.0,2026-09-22,samsung,Galaxy A25 RAM,,128.0,6.0,45900.0,new,Rupture,True,False,
+retail,203.0,2026-09-22,samsung,Galaxy A25 RAM MEMOIR,,256.0,8.0,56900.0,new,Rupture,True,False,
+retail,376.0,2026-09-22,samsung,Galaxy A26,,128.0,6.0,49900.0,new,Rupture,True,False,
+retail,,2026-09-22,samsung,Galaxy A26,,128.0,6.0,54000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy A26,,256.0,8.0,57000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy A27,,128.0,6.0,60000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy A27,,256.0,8.0,75000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy A36,,128.0,8.0,66000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy A36,,128.0,6.0,62000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy A36,,256.0,8.0,69000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy A36,,256.0,12.0,77000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy A37,,128.0,8.0,70000.0,new,,True,False,
+retail,,2026-09-22,samsung,Galaxy A37,,128.0,6.0,64000.0,new,,True,False,
+retail,241.0,2026-09-22,samsung,Galaxy A55,,256.0,12.0,84900.0,new,Rupture,,False,2024.0
+retail,127.0,2026-09-22,samsung,Galaxy A55 RAM MEMOIR,,128.0,8.0,75900.0,new,Rupture,,False,
+retail,189.0,2026-09-22,samsung,Galaxy A55 RAM MEMOIR,,256.0,8.0,81900.0,new,Rupture,,False,
+retail,277.0,2026-09-22,samsung,Galaxy A56,,128.0,8.0,77900.0,new,Rupture,,False,
+retail,,2026-09-22,samsung,Galaxy A56,,128.0,8.0,76000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy A56,,256.0,8.0,89000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy A56,,256.0,8.0,87000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy A56,,256.0,12.0,94000.0,new,,,False,
+retail,335.0,2026-09-22,samsung,Galaxy A56 12 256,,,,90000.0,new,Rupture,,False,
+retail,534.0,2026-09-22,samsung,Galaxy A57,,128.0,8.0,89000.0,new,Disponible,,False,
+retail,,2026-09-22,samsung,Galaxy A57,,128.0,8.0,82000.0,new,,True,False,
+retail,,2026-09-22,samsung,Galaxy A57,,256.0,8.0,92000.0,new,,True,False,
+retail,508.0,2026-09-22,samsung,Galaxy A57,,512.0,12.0,103900.0,new,Rupture,,False,
+retail,,2026-09-22,samsung,Galaxy A57,,512.0,12.0,102000.0,new,,True,False,
+retail,198.0,2026-09-22,samsung,Galaxy F05,,64.0,4.0,24900.0,new,Rupture,,False,
+retail,,2026-09-22,samsung,Galaxy F07,,64.0,4.0,32000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy F16,,128.0,6.0,45000.0,new,,,False,
+retail,46886182.0,2026-09-22,samsung,Galaxy F16,,128.0,4.0,,,,,False,
+retail,46886190.0,2026-09-22,samsung,Galaxy F16,,128.0,8.0,,,,,False,
+retail,,2026-09-22,samsung,Galaxy F17,,128.0,6.0,42000.0,new,,True,False,
+retail,142.0,2026-09-22,samsung,Galaxy F55,,,,57900.0,new,Rupture,,False,
+retail,,2026-09-22,samsung,Galaxy F56,,128.0,8.0,66000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy F56,,256.0,8.0,63000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy M06,,128.0,4.0,36000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy M07,,64.0,4.0,31000.0,new,,,False,
+retail,131.0,2026-09-22,samsung,Galaxy M15,,128.0,,38900.0,new,Rupture,,False,
+retail,,2026-09-22,samsung,Galaxy M16,,128.0,6.0,37000.0,new,,True,False,
+retail,,2026-09-22,samsung,Galaxy M16,,128.0,4.0,36000.0,new,,True,False,
+retail,47081357.0,2026-09-22,samsung,Galaxy M16,,128.0,8.0,,,,True,False,
+retail,47081368.0,2026-09-22,samsung,Galaxy M16,,256.0,8.0,,,,True,False,
+retail,,2026-09-22,samsung,Galaxy M17,,128.0,6.0,43000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy M17,,128.0,4.0,42000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy M17e,,128.0,6.0,46000.0,new,,True,False,
+retail,,2026-09-22,samsung,Galaxy M17e,,128.0,4.0,34000.0,new,,True,False,
+retail,79.0,2026-09-22,samsung,Galaxy M34,,,,41900.0,new,Rupture,True,False,
+retail,373.0,2026-09-22,samsung,Galaxy M35,,128.0,8.0,49900.0,new,Rupture,,False,
+retail,146.0,2026-09-22,samsung,Galaxy M35,,128.0,6.0,41900.0,new,Rupture,,False,
+retail,,2026-09-22,samsung,Galaxy M36,,128.0,6.0,48000.0,new,,True,False,
+retail,,2026-09-22,samsung,Galaxy M55s,,128.0,8.0,52000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy M56,,256.0,8.0,68000.0,new,,,False,
+retail,456.0,2026-09-22,samsung,Galaxy S22+,,256.0,8.0,86000.0,new,Rupture,True,False,2022.0
+retail,177.0,2026-09-22,samsung,Galaxy S23 Ultra,ultra,512.0,12.0,193900.0,new,Rupture,,False,2023.0
+retail,223.0,2026-09-22,samsung,Galaxy S24 FE,compact,256.0,8.0,114900.0,new,Rupture,,False,2024.0
+retail,359.0,2026-09-22,samsung,Galaxy S25,,128.0,12.0,139900.0,new,Rupture,,False,2025.0
+retail,,2026-09-22,samsung,Galaxy S25,,128.0,12.0,118000.0,new,,,False,2025.0
+retail,,2026-09-22,samsung,Galaxy S25,,256.0,12.0,132000.0,new,,,False,2025.0
+retail,,2026-09-22,samsung,Galaxy S25 Edge,,512.0,12.0,169000.0,new,,,False,2025.0
+retail,,2026-09-22,samsung,Galaxy S25 FE,compact,128.0,8.0,114000.0,new,,,False,2025.0
+retail,388.0,2026-09-22,samsung,Galaxy S25 FE,compact,256.0,8.0,126900.0,new,Rupture,,False,2025.0
+retail,,2026-09-22,samsung,Galaxy S25 FE,compact,256.0,8.0,128000.0,new,,,False,2025.0
+retail,261.0,2026-09-22,samsung,Galaxy S25 Ultra,ultra,256.0,12.0,189900.0,new,Rupture,,False,2025.0
+retail,,2026-09-22,samsung,Galaxy S25 Ultra,ultra,256.0,12.0,188000.0,new,,,False,2025.0
+retail,,2026-09-22,samsung,Galaxy S25 Ultra,ultra,256.0,12.0,195000.0,new,,,False,2025.0
+retail,305.0,2026-09-22,samsung,Galaxy S25 Ultra,ultra,512.0,12.0,245900.0,new,Rupture,,False,2025.0
+retail,,2026-09-22,samsung,Galaxy S25 Ultra,ultra,512.0,12.0,205000.0,new,,,False,2025.0
+retail,39412757.0,2026-09-22,samsung,Galaxy S25 Ultra,ultra,512.0,12.0,,,,,False,2025.0
+retail,379.0,2026-09-22,samsung,Galaxy S25 Ultra,ultra,1024.0,12.0,283900.0,new,Rupture,,False,2025.0
+retail,39412761.0,2026-09-22,samsung,Galaxy S25 Ultra,ultra,1024.0,12.0,,,,,False,2025.0
+retail,,2026-09-22,samsung,Galaxy S25 Ultra /1T,ultra,,12.0,279000.0,new,,,False,
+retail,,2026-09-22,samsung,Galaxy S26,,256.0,12.0,169000.0,new,,,True,2026.0
+retail,,2026-09-22,samsung,Galaxy S26 FE,compact,256.0,8.0,172000.0,new,,,False,2026.0
+retail,,2026-09-22,samsung,Galaxy S26 Ultra,ultra,256.0,12.0,225000.0,new,,,True,2026.0
+retail,497.0,2026-09-22,samsung,Galaxy S26 Ultra,ultra,512.0,12.0,269900.0,new,Rupture,,False,2026.0
+retail,,2026-09-22,samsung,Galaxy S26 Ultra,ultra,512.0,12.0,250000.0,new,,,False,2026.0
+retail,,2026-09-22,samsung,Galaxy S26 Ultra,ultra,512.0,12.0,271000.0,new,,,True,2026.0
+retail,,2026-09-22,samsung,M14,,64.0,4.0,29000.0,new,,,False,
+retail,,2026-09-22,samsung,M14,,128.0,6.0,41000.0,new,,,False,
+retail,,2026-09-22,samsung,M15,,128.0,6.0,35000.0,new,,,False,
+retail,579.0,2026-09-22,samsung,M17,,128.0,4.0,47900.0,new,Disponible,True,False,
+retail,44.0,2026-09-22,samsung,M23,,128.0,8.0,43900.0,new,Rupture,,False,
+retail,,2026-09-22,samsung,M35,,128.0,6.0,41000.0,new,,,False,
+retail,,2026-09-22,samsung,M55,,256.0,8.0,58000.0,new,,,False,
+retail,576.0,2026-09-22,samsung,Oppo Reno 15c,,256.0,12.0,88000.0,new,Disponible,,False,
+retail,62.0,2026-09-22,samsung,S20FE,compact,128.0,6.0,62900.0,new,Rupture,True,False,2020.0
+retail,75.0,2026-09-22,samsung,S21 FE,compact,,,76900.0,new,Rupture,,False,2021.0
+retail,,2026-09-22,samsung,S22 Ultra,ultra,128.0,8.0,,used,,True,False,2022.0
+retail,,2026-09-22,samsung,S22 Ultra,ultra,256.0,12.0,,used,,True,False,2022.0
+retail,8946596.0,2026-09-22,samsung,S22 Ultra,ultra,256.0,12.0,89000.0,used,Occasion,True,False,2022.0
+retail,8970753.0,2026-09-22,samsung,S22 Ultra,ultra,,8.0,98900.0,used,Occasion,True,False,2022.0
+retail,,2026-09-22,samsung,S23 Ultra,ultra,256.0,8.0,,used,,,False,2023.0
+retail,,2026-09-22,samsung,S23 Ultra,ultra,256.0,12.0,,used,,,False,2023.0
+retail,13051383.0,2026-09-22,samsung,S23 Ultra,ultra,256.0,8.0,125000.0,used,Occasion,,False,2023.0
+retail,13051432.0,2026-09-22,samsung,S23 Ultra,ultra,256.0,12.0,125000.0,used,Occasion,,False,2023.0
+retail,,2026-09-22,samsung,S23 Ultra,ultra,512.0,12.0,,used,,,False,2023.0
+retail,13051446.0,2026-09-22,samsung,S23 Ultra,ultra,512.0,12.0,138000.0,used,Occasion,,False,2023.0
+retail,,2026-09-22,samsung,S23+,,256.0,8.0,103000.0,new,,,False,2023.0
+retail,,2026-09-22,samsung,S24,,128.0,8.0,90000.0,new,,,False,2024.0
+retail,,2026-09-22,samsung,S24,,256.0,8.0,129000.0,new,,,False,2024.0
+retail,93.0,2026-09-22,samsung,S24 ULTRA DUOS,ultra,256.0,12.0,167900.0,new,Rupture,,False,
+retail,176.0,2026-09-22,samsung,S24 ULTRA DUOS,ultra,512.0,12.0,246000.0,new,Rupture,,False,
+retail,,2026-09-22,samsung,S24 Ultra,ultra,256.0,12.0,,used,,,False,2024.0
+retail,16094601.0,2026-09-22,samsung,S24 Ultra,ultra,256.0,12.0,153000.0,used,Occasion,,False,2024.0
+retail,,2026-09-22,samsung,S24 Ultra,ultra,512.0,12.0,226000.0,new,,,False,2024.0
+retail,461.0,2026-09-22,samsung,S24FE,compact,128.0,8.0,99000.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,samsung,Z Flip 4,,128.0,8.0,,used,,,False,2020.0
+retail,13077408.0,2026-09-22,samsung,Z Flip 4,,,,49900.0,used,Occasion,,False,2020.0
+retail,164.0,2026-09-22,samsung,galaxy m55,,,,69900.0,new,Rupture,True,False,
+retail,163.0,2026-09-22,samsung,galaxy s23 FE,compact,128.0,8.0,89000.0,new,Rupture,,False,2023.0
+retail,162.0,2026-09-22,samsung,m14,,,,28900.0,new,Rupture,,False,
+retail,532.0,2026-09-22,samsung,m17e,,128.0,4.0,34900.0,new,Rupture,,False,
+retail,6.0,2026-09-22,samsung,s22 ultra,ultra,,,166900.0,new,Rupture,,False,2022.0
+retail,3.0,2026-09-22,samsung,s23 ultra,ultra,256.0,12.0,179900.0,new,Rupture,,False,2023.0
+retail,521.0,2026-09-22,tecno,CAMONE 40 PRO,pro,256.0,12.0,58900.0,new,Rupture,True,False,
+retail,498.0,2026-09-22,tecno,Pova 6,,256.0,8.0,41500.0,new,Disponible,,False,
+retail,,2026-09-22,tecno,Pova 6,,256.0,8.0,40000.0,new,,,False,
+retail,292.0,2026-09-22,tecno,SPARK 30C 6+,,128.0,6.0,25900.0,new,Rupture,,False,
+retail,509.0,2026-09-22,tecno,SPARK 40 NFC,,128.0,6.0,25900.0,new,Rupture,,False,
+retail,520.0,2026-09-22,tecno,SPARK 40 PRO,pro,256.0,8.0,39900.0,new,Rupture,,False,
+retail,518.0,2026-09-22,tecno,SPARK GO1,,64.0,3.0,18300.0,new,Disponible,,False,
+retail,396.0,2026-09-22,tecno,SPARK GO1,,128.0,4.0,20800.0,new,Disponible,,False,
+retail,522.0,2026-09-22,tecno,SPARK SLIM,,256.0,8.0,46900.0,new,Rupture,,False,
+retail,484.0,2026-09-22,tecno,Spark 20C,,256.0,4.0,25900.0,new,Rupture,,False,
+retail,,2026-09-22,tecno,Spark 30C,,128.0,4.0,23000.0,new,,,False,
+retail,,2026-09-22,tecno,Spark 40,,128.0,6.0,29000.0,new,,,False,
+retail,,2026-09-22,tecno,Spark 40,,128.0,4.0,32000.0,new,,,False,
+retail,546.0,2026-09-22,tecno,Spark 40,,256.0,,29900.0,new,Rupture,,False,
+retail,,2026-09-22,tecno,Spark 40,,256.0,8.0,30000.0,new,,,False,
+retail,,2026-09-22,tecno,Spark Go 1,,64.0,3.0,18000.0,new,,,False,
+retail,,2026-09-22,tecno,Spark Go 1,,128.0,4.0,24000.0,new,,,False,
+retail,,2026-09-22,tecno,Spark Go 2,,64.0,3.0,18000.0,new,,,False,
+retail,,2026-09-22,tecno,Spark Go 2024,,128.0,4.0,20000.0,new,,,False,
+retail,,2026-09-22,tecno,Spark Slim,,256.0,8.0,45000.0,new,,,False,
+retail,,2026-09-22,tecno,TECNO GO 2024,,128.0,8.0,20000.0,new,,,False,
+retail,319.0,2026-09-22,vivo,IQOO 13,,256.0,12.0,145900.0,new,Rupture,,False,
+retail,382.0,2026-09-22,vivo,IQOO NEO 10,,256.0,12.0,89900.0,new,Rupture,,False,
+retail,360.0,2026-09-22,vivo,IQOO NEO 10 PRO PLUS,plus,256.0,12.0,99900.0,new,Rupture,,False,
+retail,253.0,2026-09-22,vivo,IQOO NEO 10 china,,,,76900.0,new,Rupture,,False,
+retail,115.0,2026-09-22,vivo,IQOO NEO 8,,256.0,12.0,74900.0,new,Rupture,,False,
+retail,464.0,2026-09-22,vivo,IQOO Z10 TURBO +,pro,16.0,,79900.0,new,Rupture,,False,
+retail,561.0,2026-09-22,vivo,IQOO Z11,,256.0,8.0,75500.0,new,Rupture,,False,
+retail,362.0,2026-09-22,vivo,Iqoo neo 9,,256.0,12.0,74900.0,new,Rupture,,False,
+retail,68.0,2026-09-22,vivo,V29,,256.0,12.0,64900.0,new,Rupture,,False,
+retail,71.0,2026-09-22,vivo,V29E,,256.0,8.0,48300.0,new,Rupture,,False,
+retail,136.0,2026-09-22,vivo,V30,,,,70900.0,new,Rupture,,False,
+retail,185.0,2026-09-22,vivo,V40,,,,87900.0,new,Rupture,,False,
+retail,46058600.0,2026-09-22,vivo,V40 LITE (IDN),compact,128.0,8.0,,,,,False,
+retail,,2026-09-22,vivo,V40 LITE (IDN),compact,256.0,8.0,53000.0,new,,,False,
+retail,46058657.0,2026-09-22,vivo,V40 LITE (IDN),compact,256.0,12.0,,,,,False,
+retail,46058710.0,2026-09-22,vivo,V40 LITE (IDN),compact,512.0,12.0,,,,,False,
+retail,268.0,2026-09-22,vivo,V50,,256.0,12.0,79900.0,new,Rupture,,False,
+retail,363.0,2026-09-22,vivo,V60,,256.0,12.0,84900.0,new,Rupture,,False,
+retail,,2026-09-22,vivo,V60,,256.0,12.0,85000.0,new,,,False,
+retail,555.0,2026-09-22,vivo,V70,,256.0,8.0,109900.0,new,Rupture,,False,
+retail,,2026-09-22,vivo,V70,,256.0,8.0,109000.0,new,,,False,
+retail,256.0,2026-09-22,vivo,X200 Pro,pro,16.0,,169500.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,vivo,X200 Pro,pro,512.0,16.0,,used,,,False,2024.0
+retail,26722952.0,2026-09-22,vivo,X200 Pro,pro,512.0,16.0,145000.0,used,Occasion,,False,2024.0
+retail,273.0,2026-09-22,vivo,X200 Pro,pro,,,223900.0,new,Rupture,,False,2024.0
+retail,26725729.0,2026-09-22,vivo,X200 Pro 16,pro,1024.0,,,,,,False,
+retail,312.0,2026-09-22,vivo,X200 ULTRA,ultra,16.0,,254900.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,vivo,X200 Ultra,ultra,256.0,12.0,,used,,,False,2024.0
+retail,36138894.0,2026-09-22,vivo,X200 Ultra,ultra,256.0,12.0,175000.0,used,Occasion,,False,2024.0
+retail,,2026-09-22,vivo,X200 Ultra,ultra,512.0,16.0,,used,,,False,2024.0
+retail,26412056.0,2026-09-22,vivo,X200 Ultra,ultra,512.0,16.0,185000.0,used,Occasion,,False,2024.0
+retail,36138872.0,2026-09-22,vivo,X200 Ultra,ultra,512.0,12.0,,,,,False,2024.0
+retail,36138982.0,2026-09-22,vivo,X200 Ultra 16,ultra,1024.0,,,,,,False,
+retail,496.0,2026-09-22,vivo,X300 PRO,pro,16.0,,219000.0,new,Disponible,,False,2025.0
+retail,393.0,2026-09-22,vivo,X300 PRO,pro,256.0,12.0,189000.0,new,Disponible,,False,2025.0
+retail,490.0,2026-09-22,vivo,X300 ULTRA,ultra,16.0,,294900.0,new,Rupture,,False,2025.0
+retail,,2026-09-22,vivo,X300 Ultra,ultra,512.0,16.0,279000.0,new,,,False,2025.0
+retail,,2026-09-22,vivo,X300 pro,pro,256.0,12.0,180000.0,new,,,False,2025.0
+retail,,2026-09-22,vivo,X300 pro,pro,512.0,16.0,202000.0,new,,,False,2025.0
+retail,46.0,2026-09-22,vivo,Y02,,32.0,3.0,16900.0,new,Rupture,,False,2022.0
+retail,167.0,2026-09-22,vivo,Y03,,64.0,4.0,23900.0,new,Rupture,,False,
+retail,45.0,2026-09-22,vivo,Y17S,,128.0,6.0,26900.0,new,Rupture,,False,
+retail,87.0,2026-09-22,vivo,Y27S,,,,32600.0,new,Rupture,,False,
+retail,,2026-09-22,vivo,Y28,,256.0,8.0,35000.0,new,,,False,2024.0
+retail,,2026-09-22,vivo,Y29,,128.0,8.0,37000.0,new,,,False,
+retail,46886678.0,2026-09-22,vivo,Y29,,128.0,4.0,,,,,False,
+retail,46886681.0,2026-09-22,vivo,Y29,,128.0,6.0,,,,,False,
+retail,303.0,2026-09-22,vivo,Y29,,256.0,8.0,38900.0,new,Rupture,,False,
+retail,46886683.0,2026-09-22,vivo,Y29,,256.0,8.0,,,,,False,
+retail,14.0,2026-09-22,vivo,Y36,,,,35900.0,new,Rupture,,False,2023.0
+retail,257.0,2026-09-22,vivo,iQOO 13,,16.0,,158900.0,new,Rupture,,False,
+retail,247.0,2026-09-22,vivo,iQOO 13,,1024.0,16.0,185000.0,new,Rupture,,False,
+retail,399.0,2026-09-22,vivo,iQOO 15,,256.0,12.0,149900.0,new,Rupture,,False,
+retail,30266695.0,2026-09-22,vivo,iQOO Neo10 Pro+,promax,256.0,16.0,,,,,False,
+retail,30266713.0,2026-09-22,vivo,iQOO Neo10 Pro+,promax,512.0,16.0,,,,,False,
+retail,30266737.0,2026-09-22,vivo,iQOO Neo10 Pro+,promax,512.0,12.0,,,,,False,
+retail,30266787.0,2026-09-22,vivo,iQOO Neo10 Pro+,promax,1024.0,12.0,,,,,False,
+retail,422.0,2026-09-22,vivo,iQOO Z10 Turbo +,pro,256.0,12.0,79900.0,new,Rupture,,False,
+retail,314.0,2026-09-22,vivo,iQOO Z10 Turbo Pro,pro,256.0,12.0,69900.0,new,Rupture,,False,
+retail,549.0,2026-09-22,vivo,iQOO Z11 Turbo,pro,256.0,12.0,99900.0,new,Rupture,,False,
+retail,161.0,2026-09-22,vivo,v30 lite,compact,,,45900.0,new,Rupture,,False,
+retail,168.0,2026-09-22,xiaomi,12,,256.0,12.0,71900.0,new,Rupture,,False,2022.0
+retail,88.0,2026-09-22,xiaomi,13T,,256.0,12.0,92900.0,new,Rupture,,False,
+retail,96.0,2026-09-22,xiaomi,13T PRO,pro,,,129900.0,new,Rupture,,False,
+retail,240.0,2026-09-22,xiaomi,13T Pro,pro,1024.0,16.0,129900.0,new,Rupture,,False,
+retail,149.0,2026-09-22,xiaomi,14,,16.0,,136900.0,new,Rupture,,False,2023.0
+retail,421.0,2026-09-22,xiaomi,14T Pro,pro,256.0,12.0,95900.0,new,Rupture,,False,
+retail,193.0,2026-09-22,xiaomi,14T Pro RAM MEMOIR,pro,512.0,12.0,118900.0,new,Rupture,,False,
+retail,197.0,2026-09-22,xiaomi,14T RAM MEMOIR,,256.0,12.0,88900.0,new,Rupture,,False,
+retail,316.0,2026-09-22,xiaomi,15,,256.0,12.0,139000.0,new,Rupture,,False,2024.0
+retail,318.0,2026-09-22,xiaomi,15,,512.0,12.0,149900.0,new,Rupture,,False,2024.0
+retail,304.0,2026-09-22,xiaomi,15 Ultra,ultra,16.0,,195000.0,new,Rupture,,False,2024.0
+retail,283.0,2026-09-22,xiaomi,15 Ultra,ultra,256.0,12.0,279000.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,xiaomi,15T,,256.0,12.0,90000.0,new,,,False,
+retail,,2026-09-22,xiaomi,15T,,512.0,12.0,90000.0,new,,,False,
+retail,567.0,2026-09-22,xiaomi,17,,512.0,12.0,189000.0,new,Rupture,,False,
+retail,387.0,2026-09-22,xiaomi,17 Pro Max,promax,16.0,,279000.0,new,Rupture,,False,
+retail,383.0,2026-09-22,xiaomi,17 Pro Max,promax,512.0,12.0,229000.0,new,Rupture,,False,
+retail,564.0,2026-09-22,xiaomi,17T,,256.0,12.0,129900.0,new,Disponible,,False,
+retail,563.0,2026-09-22,xiaomi,17T PRO,pro,512.0,12.0,178000.0,new,Disponible,,False,
+retail,,2026-09-22,xiaomi,17T Pro,pro,512.0,12.0,165000.0,new,,,False,
+retail,,2026-09-22,xiaomi,A5,,64.0,3.0,22000.0,new,,,False,
+retail,,2026-09-22,xiaomi,F7,,256.0,12.0,88000.0,new,,,False,
+retail,,2026-09-22,xiaomi,F7 Pro,pro,512.0,12.0,109000.0,new,,,False,
+retail,35246064.0,2026-09-22,xiaomi,M7 Pro,pro,512.0,12.0,,,,True,False,
+retail,41.0,2026-09-22,xiaomi,MI 12,,256.0,12.0,66000.0,new,Rupture,,False,2022.0
+retail,40374281.0,2026-09-22,xiaomi,Mi 11 Ultra,ultra,256.0,8.0,,,,,False,2021.0
+retail,138.0,2026-09-22,xiaomi,Mi 11i,,,,58900.0,new,Rupture,,False,
+retail,,2026-09-22,xiaomi,Mi 13 ULTRA,ultra,512.0,12.0,,used,,,False,2022.0
+retail,14782149.0,2026-09-22,xiaomi,Mi 13 ULTRA,ultra,512.0,12.0,93000.0,used,Occasion,,False,2022.0
+retail,,2026-09-22,xiaomi,Mi 14 Ultra,ultra,512.0,16.0,155000.0,new,,,False,2023.0
+retail,,2026-09-22,xiaomi,Mi 14 Ultra,ultra,1024.0,16.0,155000.0,new,,,False,2023.0
+retail,,2026-09-22,xiaomi,Note 13 Pro,pro,256.0,8.0,54000.0,new,,,False,
+retail,334.0,2026-09-22,xiaomi,PAD 7,,128.0,8.0,82000.0,new,Rupture,,False,
+retail,413.0,2026-09-22,xiaomi,PAD 7 PRO,pro,512.0,12.0,119000.0,new,Rupture,,False,
+retail,90.0,2026-09-22,xiaomi,POCO F5 PRO,pro,256.0,12.0,89900.0,new,Rupture,,False,2023.0
+retail,349.0,2026-09-22,xiaomi,POCO F7,,256.0,12.0,88000.0,new,Rupture,,False,
+retail,424.0,2026-09-22,xiaomi,POCO F7,,512.0,12.0,92900.0,new,Rupture,,False,
+retail,390.0,2026-09-22,xiaomi,POCO F7 PRO,pro,512.0,12.0,115900.0,new,Rupture,,False,
+retail,100.0,2026-09-22,xiaomi,POCO M6 PRO,pro,512.0,12.0,59900.0,new,Rupture,,False,2023.0
+retail,566.0,2026-09-22,xiaomi,POCO M8,,256.0,8.0,52900.0,new,Disponible,True,False,
+retail,179.0,2026-09-22,xiaomi,POCO X6 PRO,pro,256.0,8.0,66900.0,new,Rupture,,False,2024.0
+retail,97.0,2026-09-22,xiaomi,POCO X6 PRO,pro,512.0,12.0,71900.0,new,Rupture,,False,2024.0
+retail,511.0,2026-09-22,xiaomi,POCO X8 PRO,pro,512.0,12.0,97900.0,new,Disponible,,False,
+retail,544.0,2026-09-22,xiaomi,POCO X8 PRO MAX,promax,256.0,12.0,119000.0,new,Rupture,,False,
+retail,545.0,2026-09-22,xiaomi,POCO X8 PRO MAX,promax,512.0,12.0,123000.0,new,Rupture,,False,
+retail,144.0,2026-09-22,xiaomi,Poco F6 Pro,pro,256.0,12.0,99000.0,new,Rupture,,False,2024.0
+retail,153.0,2026-09-22,xiaomi,Poco F6 Pro 512BG,pro,,12.0,89000.0,new,Rupture,,False,
+retail,184.0,2026-09-22,xiaomi,Poco F6 ram memoir,,256.0,8.0,72900.0,new,Rupture,,False,
+retail,143.0,2026-09-22,xiaomi,Poco F6 ram memoir,,512.0,12.0,84900.0,new,Rupture,,False,
+retail,463.0,2026-09-22,xiaomi,Poco F7 Pro,pro,256.0,12.0,112900.0,new,Rupture,,False,
+retail,,2026-09-22,xiaomi,Poco F7 Ultra,ultra,256.0,12.0,128000.0,new,,,False,
+retail,300.0,2026-09-22,xiaomi,Poco F7 Ultra 256,ultra,,12.0,129900.0,new,Rupture,,False,
+retail,502.0,2026-09-22,xiaomi,Poco F8 Ultra,ultra,512.0,12.0,179000.0,new,Disponible,,False,
+retail,,2026-09-22,xiaomi,Poco M4,,64.0,4.0,27000.0,new,,True,False,2021.0
+retail,,2026-09-22,xiaomi,Poco M8,,256.0,8.0,51000.0,new,,True,False,
+retail,556.0,2026-09-22,xiaomi,Poco Pad M1,,256.0,8.0,74900.0,new,Disponible,,False,
+retail,275.0,2026-09-22,xiaomi,Poco X7 PRO,pro,512.0,12.0,79900.0,new,Rupture,,False,
+retail,248.0,2026-09-22,xiaomi,Poco X7 Pro,pro,256.0,8.0,69900.0,new,Rupture,,False,
+retail,246.0,2026-09-22,xiaomi,Poco X7 Pro iron man edition,pro,512.0,12.0,119000.0,new,Rupture,,False,
+retail,506.0,2026-09-22,xiaomi,Poco X8 Pro,pro,256.0,8.0,84900.0,new,Rupture,,False,
+retail,,2026-09-22,xiaomi,Poco X8 Pro,pro,256.0,8.0,82000.0,new,,,False,
+retail,,2026-09-22,xiaomi,Poco X8 Pro Max,promax,256.0,12.0,122000.0,new,,,False,
+retail,11.0,2026-09-22,xiaomi,Poco f5,,,,70900.0,new,Rupture,,False,2023.0
+retail,114.0,2026-09-22,xiaomi,Poco x6,,256.0,8.0,63900.0,new,Rupture,,False,2024.0
+retail,52.0,2026-09-22,xiaomi,REDMI 10A,,64.0,4.0,23900.0,new,Rupture,,False,
+retail,98.0,2026-09-22,xiaomi,REDMI 12,,256.0,8.0,41500.0,new,Rupture,True,False,2023.0
+retail,50.0,2026-09-22,xiaomi,REDMI 12C,,128.0,4.0,26900.0,new,Rupture,,False,
+retail,54.0,2026-09-22,xiaomi,REDMI A2+,,,,18900.0,new,Rupture,,False,
+retail,110.0,2026-09-22,xiaomi,REDMI NOTE 10 PRO,pro,128.0,6.0,44900.0,new,Rupture,,False,2021.0
+retail,31.0,2026-09-22,xiaomi,REDMI NOTE 12,,256.0,8.0,39900.0,new,Rupture,,False,2023.0
+retail,13.0,2026-09-22,xiaomi,REDMI NOTE 12 PRO,pro,,,53900.0,new,Rupture,,False,2023.0
+retail,91.0,2026-09-22,xiaomi,REDMI NOTE 13 PRO,pro,256.0,8.0,48900.0,new,Rupture,,False,2023.0
+retail,94.0,2026-09-22,xiaomi,REDMI NOTE 13 PRO,pro,512.0,12.0,74900.0,new,Rupture,True,False,2023.0
+retail,120.0,2026-09-22,xiaomi,REDMI NOTE 13 PRO +,promax,256.0,8.0,64500.0,new,Rupture,True,False,2023.0
+retail,236.0,2026-09-22,xiaomi,REDMI NOTE 13 PRO +,promax,256.0,12.0,79900.0,new,Rupture,True,False,2023.0
+retail,89.0,2026-09-22,xiaomi,REDMI NOTE 13 PRO + 512ROM,promax,,12.0,88000.0,new,Rupture,,False,
+retail,317.0,2026-09-22,xiaomi,REDMI NOTE 14 PRO PLUS,plus,256.0,8.0,79900.0,new,Disponible,True,False,2024.0
+retail,517.0,2026-09-22,xiaomi,REDMI NOTE 15 PRO PLUS,plus,512.0,12.0,95900.0,new,Rupture,,False,2025.0
+retail,562.0,2026-09-22,xiaomi,REDMI PAD 2 PRO,pro,256.0,8.0,71900.0,new,Rupture,,False,
+retail,,2026-09-22,xiaomi,Redmi 10,,64.0,4.0,24000.0,new,,True,False,2021.0
+retail,,2026-09-22,xiaomi,Redmi 10A,,32.0,2.0,23000.0,new,,,False,
+retail,,2026-09-22,xiaomi,Redmi 10A,,128.0,4.0,18000.0,new,,,False,
+retail,220.0,2026-09-22,xiaomi,Redmi 13,,256.0,8.0,36900.0,new,Rupture,,False,
+retail,,2026-09-22,xiaomi,Redmi 13C,,256.0,8.0,28000.0,new,,,False,2023.0
+retail,,2026-09-22,xiaomi,Redmi 14C,,128.0,6.0,26000.0,new,,,False,2024.0
+retail,270.0,2026-09-22,xiaomi,Redmi 14C,,256.0,8.0,28900.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,xiaomi,Redmi 14C,,256.0,8.0,30000.0,new,,,False,2024.0
+retail,,2026-09-22,xiaomi,Redmi 15C,,128.0,4.0,27000.0,new,,,False,
+retail,,2026-09-22,xiaomi,Redmi 15C,,256.0,8.0,33000.0,new,,,False,
+retail,,2026-09-22,xiaomi,Redmi A3,,128.0,4.0,21000.0,new,,,False,
+retail,,2026-09-22,xiaomi,Redmi A3x,,64.0,3.0,19000.0,new,,,False,
+retail,,2026-09-22,xiaomi,Redmi A3x,,128.0,4.0,22000.0,new,,,False,
+retail,,2026-09-22,xiaomi,Redmi A5,,64.0,3.0,22000.0,new,,,False,
+retail,,2026-09-22,xiaomi,Redmi A5,,128.0,4.0,26000.0,new,,,False,
+retail,,2026-09-22,xiaomi,Redmi A7 Pro,pro,128.0,4.0,32000.0,new,,,False,
+retail,284.0,2026-09-22,xiaomi,Redmi NOTE 14,,128.0,6.0,52900.0,new,Disponible,True,False,2024.0
+retail,,2026-09-22,xiaomi,Redmi Note 12,,128.0,4.0,32000.0,new,,True,False,2023.0
+retail,158.0,2026-09-22,xiaomi,Redmi Note 13,,128.0,6.0,34900.0,new,Rupture,,False,2023.0
+retail,,2026-09-22,xiaomi,Redmi Note 13,,128.0,6.0,33000.0,new,,,False,2023.0
+retail,,2026-09-22,xiaomi,Redmi Note 13,,256.0,8.0,38000.0,new,,,False,2023.0
+retail,,2026-09-22,xiaomi,Redmi Note 13,,256.0,6.0,37000.0,new,,,False,2023.0
+retail,195.0,2026-09-22,xiaomi,Redmi Note 13 Pro RAM MEMOIR,pro,256.0,8.0,69900.0,new,Rupture,True,False,
+retail,,2026-09-22,xiaomi,Redmi Note 13 Pro+,promax,256.0,8.0,70000.0,new,,,False,2023.0
+retail,475.0,2026-09-22,xiaomi,Redmi Note 14,,128.0,6.0,34900.0,new,Rupture,,False,2024.0
+retail,258.0,2026-09-22,xiaomi,Redmi Note 14 Pro,pro,256.0,8.0,54900.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,xiaomi,Redmi Note 14 Pro,pro,256.0,8.0,53000.0,new,,True,False,2024.0
+retail,46743381.0,2026-09-22,xiaomi,Redmi Note 14 Pro,pro,256.0,12.0,,,,True,False,2024.0
+retail,46743426.0,2026-09-22,xiaomi,Redmi Note 14 Pro,pro,512.0,12.0,,,,True,False,2024.0
+retail,204.0,2026-09-22,xiaomi,Redmi Note 14 Pro plus,plus,256.0,12.0,72900.0,new,Rupture,,False,2024.0
+retail,206.0,2026-09-22,xiaomi,Redmi Note 14 Pro plus,plus,512.0,16.0,95000.0,new,Rupture,,False,2024.0
+retail,,2026-09-22,xiaomi,Redmi Note 14 Pro+,promax,256.0,12.0,78000.0,new,,,False,2024.0
+retail,,2026-09-22,xiaomi,Redmi Note 14 Pro+,promax,512.0,12.0,80000.0,new,,,False,2024.0
+retail,,2026-09-22,xiaomi,Redmi Note 14S,,256.0,8.0,50000.0,new,,,False,
+retail,,2026-09-22,xiaomi,Redmi Note 15,,128.0,6.0,46000.0,new,,,False,2025.0
+retail,,2026-09-22,xiaomi,Redmi Note 15,,256.0,8.0,50000.0,new,,,False,2025.0
+retail,516.0,2026-09-22,xiaomi,Redmi Note 15 Pro,pro,256.0,8.0,69900.0,new,Rupture,True,False,2025.0
+retail,458.0,2026-09-22,xiaomi,Redmi Note 15 Pro,pro,256.0,8.0,59900.0,new,Rupture,,False,2025.0
+retail,,2026-09-22,xiaomi,Redmi Note 15 Pro,pro,256.0,8.0,65000.0,new,,,False,2025.0
+retail,536.0,2026-09-22,xiaomi,Redmi Note 15 Pro,pro,512.0,12.0,79900.0,new,Rupture,True,False,2025.0
+retail,,2026-09-22,xiaomi,Redmi Note 15 Pro Plus,plus,256.0,8.0,89000.0,new,,True,False,2025.0
+retail,326.0,2026-09-22,xiaomi,Redmi note 13,,256.0,8.0,42900.0,new,Rupture,,False,2023.0
+retail,,2026-09-22,xiaomi,Redmi note 14,,128.0,6.0,45000.0,new,,,False,2024.0
+retail,,2026-09-22,xiaomi,Redmi note 14,,256.0,8.0,44000.0,new,,,False,2024.0
+retail,35544183.0,2026-09-22,xiaomi,Redmi note 14,,256.0,6.0,,,,,False,2024.0
+retail,,2026-09-22,xiaomi,X6 Pro,pro,512.0,12.0,72000.0,new,,,False,
+retail,,2026-09-22,xiaomi,X7 Pro,pro,256.0,12.0,75000.0,new,,,False,
+retail,,2026-09-22,xiaomi,X7 Pro,pro,512.0,12.0,78000.0,new,,,False,
+retail,10.0,2026-09-22,xiaomi,mi 11,,,,64900.0,new,Rupture,,False,2021.0
+retail,,2026-09-22,zte,Blade A35,,64.0,4.0,17000.0,new,,,False,
+retail,480.0,2026-09-22,zte,NUBIA REDMAGIC 11 AIR 12 256,,,,169000.0,new,Rupture,,False,
+retail,117.0,2026-09-22,zte,NUBIA REDMAGIC 8S PRO,pro,256.0,12.0,134000.0,new,Rupture,,False,
+retail,86.0,2026-09-22,zte,NUBIA Z50S PRO,pro,1024.0,16.0,138900.0,new,Rupture,,False,
+retail,99.0,2026-09-22,zte,NUBIA Z60 ULTRA,ultra,256.0,12.0,166000.0,new,Rupture,,False,
+retail,560.0,2026-09-22,zte,NUBIA Z70 ULTRA,ultra,256.0,12.0,135000.0,new,Disponible,,False,
+retail,425.0,2026-09-22,zte,Nubia RedMagic 11 Pro,pro,256.0,12.0,189900.0,new,Rupture,,False,
+retail,341.0,2026-09-22,zte,RedMagic Astra,,256.0,12.0,159900.0,new,Rupture,,False,
+retail,106.0,2026-09-22,zte,Z60 ULTRA,ultra,16.0,,165900.0,new,Rupture,,False,
+retail,252.0,2026-09-22,zte,nubia RedMagic 10 Pro,pro,,,169900.0,new,Rupture,,False,
+retail,438.0,2026-09-22,zte,nubia RedMagic 11 Pro,pro,16.0,,219000.0,new,Rupture,,False,
+retail,141.0,2026-09-22,zte,nubia RedMagic 9 Pro,pro,256.0,12.0,159000.0,new,Rupture,,False,
+retail,298.0,2026-09-22,zte,nubia RedMagic 9S Pro 12 256,pro,,,165000.0,new,Rupture,,False,
+retail,350.0,2026-09-22,zte,nubia RedMagic Astra,,1024.0,24.0,237900.0,new,Rupture,,False,
+retail,264.0,2026-09-22,zte,nubia RedMagic Nova,,,,175000.0,new,Rupture,,False,
+retail,301.0,2026-09-22,zte,nubia Z60S Pro,pro,16.0,,110000.0,new,Rupture,,False,
+retail,267.0,2026-09-22,zte,nubia Z60S Pro,pro,256.0,12.0,99900.0,new,Rupture,,False,

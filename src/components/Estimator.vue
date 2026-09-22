@@ -1,10 +1,11 @@
 <script setup lang="ts">
 import { ref, computed } from "vue";
 import {
-  Smartphone, LoaderCircle, ShieldCheck, Info, Sparkles, CircleAlert, Boxes,
+  Smartphone, LoaderCircle, ShieldCheck, Info, Sparkles, CircleAlert, Boxes, Store,
 } from "lucide-vue-next";
 import type { EstimatorMeta } from "../types";
 import { usePredictor, type PredResp } from "../composables/usePredictor";
+import { retailRefFor, retailRefUpdated, type RetailRefEntry } from "../data/retailReference";
 
 const props = defineProps<{ meta: EstimatorMeta }>();
 
@@ -93,6 +94,22 @@ const markerPct = computed(() => {
   if (!r) return 0;
   return Math.max(0, Math.min(100, ((r.price - r.lo) / Math.max(1, r.hi - r.lo)) * 100));
 });
+
+// Retail reference: median new-device store price for the same brand/tier/storage
+// combo (multiple public sources). Only meaningful for condition = new.
+const TIER_SHORT: Record<string, string> = {
+  base: "", compact: "Compact ", plus: "Plus ", pro: "Pro ",
+  promax: "Pro Max ", ultra: "Ultra ",
+};
+const retailRef = computed<RetailRefEntry | null>(() =>
+  condition.value === "new"
+    ? retailRefFor(
+        brand.value,
+        tier.value,
+        storageGb.value === "unknown" ? null : Number(storageGb.value),
+      )
+    : null,
+);
 </script>
 
 <template>
@@ -293,6 +310,16 @@ const markerPct = computed(() => {
               </div>
             </div>
 
+            <!-- retail reference (new-condition combos with enough listings) -->
+            <div v-if="retailRef" class="flex items-start gap-2 rounded-lg bg-base-200 p-3 text-xs text-base-content/70">
+              <Store class="mt-0.5 h-4 w-4 shrink-0 text-emerald-600" />
+              <p>
+                Retail reference — new {{ cap(brand) }} {{ TIER_SHORT[tier] ?? "" }}{{ storageGb }} GB phones:
+                median <span class="font-semibold text-base-content">{{ fmt(retailRef.median) }} DA</span>
+                across {{ retailRef.n }} store listings (multiple public sources, {{ retailRefUpdated }}).
+              </p>
+            </div>
+
             <div class="flex items-start gap-2 rounded-lg bg-base-200 p-3 text-xs text-base-content/60">
               <ShieldCheck class="mt-0.5 h-4 w-4 shrink-0 text-emerald-600" />
               <p>
@@ -320,7 +347,7 @@ const markerPct = computed(() => {
             <span class="text-base-content/60">Model</span><span>XGBoost · 48 features</span>
           </div>
           <div class="flex justify-between">
-            <span class="text-base-content/60">Trained on</span><span>{{ fmt(props.meta.n_rows) }} listings (Ouedkniss)</span>
+            <span class="text-base-content/60">Trained on</span><span>{{ fmt(props.meta.n_rows) }} marketplace listings</span>
           </div>
           <div class="flex justify-between">
             <span class="text-base-content/60">Holdout MAE</span><span>≈ {{ fmt(props.meta.card.mae) }} DA</span>

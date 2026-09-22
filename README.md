@@ -1,6 +1,6 @@
 # DZ Phone Value
 
-Smartphone price estimator for the Algerian second-hand market (Ouedkniss-style listings).
+Smartphone price estimator for the Algerian phone market (new & second-hand).
 Enter a phone's attributes and get a **point price estimate + an 80% conformal band (P10–P90)** in DZD.
 
 Built with **Vue 3 + Vite + Tailwind v4 + DaisyUI 5**. The XGBoost model runs as a
@@ -65,6 +65,42 @@ The band is clamped so `lo <= price <= hi` on the ~9.5% of rows where independen
 trained quantile models would cross the point estimate (display clamp only — it can
 only widen the band, never shrink it).
 
+## Data
+
+Data are **collected from multiple public sources** covering the Algerian phone
+market; individual sites are intentionally not attributed. Two datasets feed the
+project:
+
+- **Marketplace listings** (training): cleaned C2C/M2C ad listings with condition,
+  battery, damage, accessories and region signals — 8,611 rows make it into the
+  model after deduplication, label refinement and filters.
+- **Retail store listings** (reference/validation): scraped storefront prices for
+  new devices — 1,008 unique listings collected on 2026-09-22, normalized to the
+  same brand/tier/storage/price vocabulary. Committed in neutralized form at
+  `data/retail_listings_2026-09-22.csv` (single `retail` source label, no URLs).
+
+The app also ships a compact **retail reference table**
+(`src/data/retail_reference.json`): median new-device store price per
+`brand|tier|storage` combo (66 combos, minimum 3 listings each). When you estimate
+a **new** phone whose combo has a reference, the result card shows it next to the
+model's estimate.
+
+### External validation (2026-09-22)
+
+The deployed engine was run against all 835 retail listings that map into its
+feature space:
+
+| Metric | Value |
+|---|---|
+| Median APE (retail vs model) | 24.1% (model card holdout: 22.5%) |
+| 80% band coverage on retail prices | 79.5% (nominal: 80%) |
+| Median retail premium over marketplace | +6.7% (retail higher in 70% of matched configs) |
+| Assumption-sensitivity of bias | −16% → −4% depending on 5G/dual-SIM/accessory priors |
+
+Reading: the model generalizes to an independent retail source essentially at its
+holdout accuracy, and its uncertainty calibration transfers. The residual gap vs
+store prices is the retail channel premium, not model drift.
+
 ## Model card (honest numbers)
 
 | Metric (time-split, unseen future month) | Value |
@@ -75,7 +111,7 @@ only widen the band, never shrink it).
 | R² (price space) | ≈ 0.61 |
 | Band coverage (target 80%) | 80.2% (time-split reference) |
 
-- Trained on 8,611 cleaned Ouedkniss listings (Aug 2026 scrape).
+- Trained on 8,611 cleaned marketplace listings (Aug 2026 snapshot).
 - Labels refined: 379 condition-label corrections (LLM adjudicator + unanimous-rule
   extension), see `model_export/sp_label_corrections.csv`.
 - Errors are close to the market's irreducible noise: identical devices are listed at
@@ -90,7 +126,10 @@ src/
   App.vue                  header / footer / page shell
   components/Estimator.vue form + result cards (native selects/toggles/range + daisy classes)
   composables/usePredictor.ts  lazy engine chunk loader + predict()
+  data/retailReference.ts  typed loader for the retail reference table
   lib/model/               predict.ts + exported tree artifacts (JSON)
+data/                      committed datasets (neutralized, source-agnostic)
+  retail_listings_2026-09-22.csv   cleaned retail store listings (see Data)
 scripts/check-golden.ts    byte-exact engine regression gate
 model_export/              Python export + parity tooling (see below)
 public/                    logo, robots.txt

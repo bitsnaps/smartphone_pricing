@@ -63,8 +63,9 @@ onMounted(prefetch);
 
     <footer class="mt-auto border-t border-base-300 bg-base-100">
       <div class="mx-auto max-w-5xl px-4 py-4 text-center text-xs text-base-content/60 sm:px-6">
-        Trained on {{ fmt(meta.n_rows) }} Ouedkniss smartphone
-        listings (2020-11 → 2026-08) · hedonic pricing model · monthly retrain recommended
+        Trained on {{ fmt(meta.n_rows) }} marketplace smartphone
+        listings (2020-11 → 2026-08), validated against multi-source retail data ·
+        hedonic pricing model · monthly retrain recommended
       </div>
     </footer>
   </div>
